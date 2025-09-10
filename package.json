@@ -1,17 +1,17 @@
 {
-  "name": "my-zod-schema",
+  "name": "@tktb-tess/my-zod-schema",
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "license": "CC0-1.0",
+  "license": "UNLICENSED",
   "files": [
     "dist"
   ],
-  "main": "./dist/main.js",
+  "main": "./dist/bundle.js",
   "types": "./dist/main.d.ts",
   "exports": {
     "types": "./dist/main.d.ts",
-    "import": "./dist/main.js"
+    "import": "./dist/bundle.js"
   },
   "scripts": {
     "dev": "vite",
@@ -20,6 +20,7 @@
     "build-pack": "npm run build && rm -r -f pkg && mkdir pkg && npm pack --pack-destination pkg"
   },
   "devDependencies": {
+    "@tktb-tess/my-zod-schema": "file:pkg/tktb-tess-my-zod-schema-0.1.0.tgz",
     "@types/node": "^24.3.1",
     "typescript": "~5.9.2",
     "vite": "^7.0.6",

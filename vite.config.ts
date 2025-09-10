@@ -8,20 +8,15 @@ export default defineConfig({
     lib: {
       entry: resolve(__dirname, 'lib/main.ts'),
       formats: ['es'],
-      fileName: 'main',
+      fileName: 'bundle',
     },
     rollupOptions: {
       external: ['zod'],
-      output: {
-        globals: {
-          zod: 'z',
-        },
-      },
     },
   },
   plugins: [dts()],
-
   test: {
     environment: 'node',
+    testTimeout: 15000,
   },
 });
