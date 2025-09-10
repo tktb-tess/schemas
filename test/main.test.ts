@@ -6,9 +6,13 @@ it('test1', () => {
   const str = readFileSync('./test/sample-otm.json', { encoding: 'utf8' });
   const result = parseAndValidate(str, OTMJSON.zpdicOtmjsonSchema);
 
-  if (result.success) {
-    console.log(...result.data.words);
+  if (!result.success) {
+    expect.unreachable('failed to parse!');
   }
 
-  expect(result.success).toBe(true);
+  const { words } = result.data;
+
+  words.sort(({ entry: a }, { entry: b }) => a.id - b.id);
+
+  console.log(words.map(({ entry }) => `${entry.id} ${entry.form}`).join('\n'));
 });

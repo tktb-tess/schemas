@@ -54,10 +54,9 @@ const catalogSchema = z.string();
 
 export type Catalog = z.infer<typeof catalogSchema>;
 
-const exampleSchema = z.object({
-  id: objectIDSchema,
-  number: z.int().nonnegative(),
+export const editableExampleSchema = z.object({
   sentence: z.string(),
+  supplement: z.string(),
   translation: z.string(),
   tags: z.string().array(),
   words: z
@@ -73,9 +72,16 @@ const exampleSchema = z.object({
     .nullable(),
 });
 
+export type EditableExample = z.infer<typeof editableExampleSchema>;
+
+const exampleSchema = editableExampleSchema.extend({
+  id: objectIDSchema,
+  number: z.int().nonnegative(),
+});
+
 export type Example = z.infer<typeof exampleSchema>;
 
-const editableWordSchema = z.object({
+export const editableWordSchema = z.object({
   name: z.string(),
   pronunciation: z.string(),
   equivalents: equivalentSchema.array(),
@@ -105,17 +111,50 @@ export const wordWithExamplesResponseSchema = z.object({
   word: wordWithExamplesSchema,
 });
 
-export type WordWithExamplesResponse = z.infer<typeof wordWithExamplesResponseSchema>;
+export type WordWithExamplesResponse = z.infer<
+  typeof wordWithExamplesResponseSchema
+>;
 
-export const zpdicWordsResponseSchema = z.object({
+export const wordsResponseSchema = z.object({
   words: wordWithExamplesSchema.array(),
   total: z.int().nonnegative(),
 });
 
-export type ZpDICWordsResponse = z.infer<typeof zpdicWordsResponseSchema>;
+export type WordsResponse = z.infer<typeof wordsResponseSchema>;
 
-export const zpdicEditableWordResponseSchema = z.object({
-  word: wordSchema,
+export const examplesResponseSchema = z.object({
+  examples: exampleSchema.array(),
+  total: z.int().nonnegative(),
 });
 
-export type ZpDICEditableWordResponse = z.infer<typeof zpdicEditableWordResponseSchema>;
+export type ExamplesResponse = z.infer<typeof examplesResponseSchema>;
+
+export const exampleResponseSchema = z.object({
+  example: exampleSchema,
+});
+
+export type ExampleResponse = z.infer<typeof exampleResponseSchema>;
+
+const exampleOfferSchema = z.object({
+  id: objectIDSchema,
+  catalog: catalogSchema,
+  number: z.int().nonnegative(),
+  translation: z.string(),
+  supplement: z.string(),
+  author: z.string(),
+});
+
+export type ExampleOffer = z.infer<typeof exampleOfferSchema>;
+
+export const exampleOffersResponseSchema = z.object({
+  exampleOffers: exampleOfferSchema.array(),
+  total: z.int().nonnegative(),
+});
+
+export type ExampleOffersResponse = z.infer<typeof exampleOffersResponseSchema>;
+
+export const exampleOfferResponseSchema = z.object({
+  exampleOffer: exampleOfferSchema,
+});
+
+export type ExampleOfferResponse = z.infer<typeof exampleOfferResponseSchema>;
