@@ -567,7 +567,7 @@
     },
     {
       "entry": { "id": 198, "form": "Jee" },
-      "tags": ["vV0.1.0"],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "代名詞",
@@ -995,7 +995,7 @@
     },
     {
       "entry": { "id": 28, "form": "an" },
-      "tags": ["数", "vV0.1.0"],
+      "tags": ["数", "vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "冠詞",
@@ -1157,6 +1157,27 @@
       "relations": [{ "title": "地域", "entry": { "id": 220, "form": "Azje" } }]
     },
     {
+      "entry": { "id": 294, "form": "bajtan" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "動詞", "forms": ["噛む"], "rawForms": "噛む" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈbɐɪtõː" },
+        {
+          "title": "語源",
+          "text": "OE _bītan_ < PGmc. \\*_bītaną_\n\nen. _bite_ などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "活用表 ・・・ 強変化クラスI",
+          "text": "|＼|||\n|:--:|----|----|\n|不定詞|主格|与格|\n||<>|tu |\n|–|||\n|分詞|現在|過去|\n||<>|<>|\n|–|||\n|動名詞|<>|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|<>|<>|\n|単数2人称|<>|<>|\n|単数3人称|<>|<>|\n|複数|<>|<>|\n|–|||\n|接続法|現在|過去|\n|単数|<>|<>|\n|複数|<>|<>|\n|–|||\n|命令法|単数|複数|\n||<>|<>|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 96, "form": "biljard" },
       "tags": ["数", "vV0.1.0"],
       "translations": [
@@ -1221,6 +1242,47 @@
       ],
       "variations": [],
       "relations": [{ "title": "", "entry": { "id": 15, "form": "väzan" } }]
+    },
+    {
+      "entry": { "id": 276, "form": "brad" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["広い"], "rawForms": "広い" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "bɽɑːd" },
+        {
+          "title": "語源",
+          "text": "OE _brād_ < PGmc. \\*_braidaz_\n\nen. _broad_, de. _breit_ と同根"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 284, "form": "britd" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [{ "title": "名詞", "forms": ["鳥"], "rawForms": "鳥" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "bɽɪʔ͡t" },
+        { "title": "語源", "text": "OE _bridd_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
+      ],
+      "variations": [],
+      "relations": []
     },
     {
       "entry": { "id": 123, "form": "buck" },
@@ -1290,7 +1352,10 @@
       ],
       "contents": [
         { "title": "Pronunciation", "text": "bʏˈkuːmõː" },
-        { "title": "語源", "text": "OE _becuman_" },
+        {
+          "title": "語源",
+          "text": "OE _becuman_\n\nen. _become_, de. _bekommen_ などと同根。"
+        },
         {
           "title": "説明",
           "text": "「過去分詞 + _bykuman_」で、受動態を作る。\n\n例. _Ða abplas bykum fram hyr ģyeaten._ &#x2015; そのリンゴたちは彼女によって食べられた。"
@@ -1301,7 +1366,7 @@
         },
         {
           "title": "活用表 ・・・ 強変化クラスIV/V",
-          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||bykuman|tu bykumenn|\n|–|||\n|分詞|現在|過去|\n||bykumend|bykomen|\n|–|||\n|動名詞|byküming||\n|–|||\n|直説法|現在|過去|\n|単数1人称|bykümm|bykum|\n|単数2人称|bykümst|bykumst|\n|単数3人称|bykümð|bykum|\n|複数|bykumað|bykumað|\n|–|||\n|接続法|現在|過去|\n|単数|bykümm|bykümm|\n|複数|bykumen|bykumen|\n|–|||\n|命令法|単数|複数|\n||bykum|bykumað|"
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||bykuman|tu bykumenn|\n|–|||\n|分詞|現在|過去|\n||bykumend|bykomen|\n|–|||\n|動名詞|byküming||\n|–|||\n|直説法|現在|過去|\n|単数1人称|byküwm|bykum|\n|単数2人称|bykümst|bykumst|\n|単数3人称|bykümð|bykum|\n|複数|bykumað|bykumað|\n|–|||\n|接続法|現在|過去|\n|単数|byküwm|byküwm|\n|複数|bykumen|bykumen|\n|–|||\n|命令法|単数|複数|\n||bykum|bykumað|"
         }
       ],
       "variations": [],
@@ -1501,7 +1566,7 @@
     },
     {
       "entry": { "id": 165, "form": "ej" },
-      "tags": ["vV0.1.0", "中性"],
+      "tags": ["vV0.1.0", "中性", "Swadesh list"],
       "translations": [{ "title": "名詞", "forms": ["卵"], "rawForms": "卵" }],
       "contents": [
         { "title": "Pronunciation", "text": "ɛɪ" },
@@ -1531,6 +1596,18 @@
       "relations": []
     },
     {
+      "entry": { "id": 63, "form": "fajf" },
+      "tags": ["数", "vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "数詞", "forms": ["五", "5"], "rawForms": "五, 5" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "faɪf" }],
+      "variations": [],
+      "relations": [
+        { "title": "序数詞", "entry": { "id": 184, "form": "fajfte" } }
+      ]
+    },
+    {
       "entry": { "id": 82, "form": "fajftaģ" },
       "tags": ["数", "vV0.1.0"],
       "translations": [
@@ -1553,7 +1630,7 @@
       ],
       "variations": [],
       "relations": [
-        { "title": "基数詞", "entry": { "id": 63, "form": "fajv" } }
+        { "title": "基数詞", "entry": { "id": 63, "form": "fajf" } }
       ]
     },
     {
@@ -1565,18 +1642,6 @@
       "contents": [{ "title": "Pronunciation", "text": "ˈfaɪftœɲ" }],
       "variations": [],
       "relations": []
-    },
-    {
-      "entry": { "id": 63, "form": "fajv" },
-      "tags": ["数", "vV0.1.0"],
-      "translations": [
-        { "title": "数詞", "forms": ["五", "5"], "rawForms": "五, 5" }
-      ],
-      "contents": [{ "title": "Pronunciation", "text": "faɪʋ" }],
-      "variations": [],
-      "relations": [
-        { "title": "序数詞", "entry": { "id": 184, "form": "fajfte" } }
-      ]
     },
     {
       "entry": { "id": 113, "form": "faran" },
@@ -1628,7 +1693,7 @@
     },
     {
       "entry": { "id": 62, "form": "fewr" },
-      "tags": ["数", "vV0.1.0"],
+      "tags": ["数", "vV0.1.0", "Swadesh list"],
       "translations": [
         { "title": "数詞", "forms": ["四", "4"], "rawForms": "四, 4" }
       ],
@@ -1699,7 +1764,7 @@
     },
     {
       "entry": { "id": 199, "form": "fisķ" },
-      "tags": ["vV0.1.0", "男性"],
+      "tags": ["vV0.1.0", "男性", "Swadesh list"],
       "translations": [{ "title": "名詞", "forms": ["魚"], "rawForms": "魚" }],
       "contents": [
         { "title": "Pronunciation", "text": "fɪɬ" },
@@ -1714,6 +1779,31 @@
         }
       ],
       "variations": [{ "title": "複数主格", "form": "fiskas" }],
+      "relations": []
+    },
+    {
+      "entry": { "id": 273, "form": "fjaw" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["少ない"], "rawForms": "少ない" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "fjɑʊ" },
+        {
+          "title": "語源",
+          "text": "OE _fēaw_ <  PGmc. \\*_fawaz_ < PIE \\*_peh₂w-_\n\nen. _few_, sv. _få_, L _paucus_ などと同根"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
+        }
+      ],
+      "variations": [],
       "relations": []
     },
     {
@@ -1790,6 +1880,27 @@
       ]
     },
     {
+      "entry": { "id": 288, "form": "fläsķ" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "名詞", "forms": ["肉", "生肉"], "rawForms": "肉,生肉" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "flɛɬ" },
+        {
+          "title": "語源",
+          "text": "OE _flǣsċ_ < PGmc. \\*_flaiski_\n\nen. _flesh_, de. _Fleisch_, nl. _vlees_ などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 173, "form": "fnut" },
       "tags": ["vV0.1.0", "女性"],
       "translations": [
@@ -1809,7 +1920,7 @@
     },
     {
       "entry": { "id": 252, "form": "fnäkge" },
-      "tags": ["vV0.1.0", "男性", "身体"],
+      "tags": ["vV0.1.0", "男性", "身体", "Swadesh list"],
       "translations": [{ "title": "名詞", "forms": ["首"], "rawForms": "首" }],
       "contents": [
         { "title": "Pronunciation", "text": "ˈfnɛʔ͡kɤ" },
@@ -1906,6 +2017,22 @@
       "relations": []
     },
     {
+      "entry": { "id": 292, "form": "frycķ" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [{ "title": "名詞", "forms": ["背"], "rawForms": "背" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "fɽʏɕ" },
+        { "title": "語源", "text": "OE _hryċġ_ < PGmc. \\*_hrugjaz_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 208, "form": "fude" },
       "tags": ["男性", "vV0.1.0"],
       "translations": [
@@ -1950,7 +2077,7 @@
     },
     {
       "entry": { "id": 246, "form": "fótt" },
-      "tags": ["vV0.1.0", "男性", "身体"],
+      "tags": ["vV0.1.0", "男性", "身体", "Swadesh list"],
       "translations": [{ "title": "名詞", "forms": ["足"], "rawForms": "足" }],
       "contents": [
         { "title": "Pronunciation", "text": "fʊt" },
@@ -2104,7 +2231,7 @@
         }
       ],
       "variations": [],
-      "relations": []
+      "relations": [{ "title": "", "entry": { "id": 297, "form": "namjan" } }]
     },
     {
       "entry": { "id": 152, "form": "ham" },
@@ -2199,7 +2326,7 @@
     },
     {
       "entry": { "id": 14, "form": "hee" },
-      "tags": [],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "代名詞",
@@ -2216,7 +2343,17 @@
         { "title": "与格", "form": "hin" },
         { "title": "対格", "form": "hinn" }
       ],
-      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+      "relations": [{ "title": "格変化表", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 267, "form": "herr" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "副詞", "forms": ["ここ"], "rawForms": "ここ" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ɦɛɽ" }],
+      "variations": [],
+      "relations": [{ "title": "そ", "entry": { "id": 268, "form": "ðiar" } }]
     },
     {
       "entry": { "id": 196, "form": "hevviläjķ" },
@@ -2302,6 +2439,25 @@
       "relations": []
     },
     {
+      "entry": { "id": 289, "form": "honr" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [{ "title": "名詞", "forms": ["角"], "rawForms": "角" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦõɽ" },
+        {
+          "title": "語源",
+          "text": "OE _horn_ < PGmc. \\*_hurną_\n\nen. _horn_, de. _Horn_ などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 122, "form": "hund" },
       "tags": ["男性", "vV0.1.0"],
       "translations": [{ "title": "名詞", "forms": ["犬"], "rawForms": "犬" }],
@@ -2342,7 +2498,7 @@
     },
     {
       "entry": { "id": 11, "form": "huy" },
-      "tags": [],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "代名詞",
@@ -2363,11 +2519,11 @@
         { "title": "与格", "form": "hin" },
         { "title": "対格", "form": "huy" }
       ],
-      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+      "relations": [{ "title": "格変化表", "entry": { "id": 2, "form": "iķ" } }]
     },
     {
       "entry": { "id": 151, "form": "hva" },
-      "tags": ["vV0.1.0", "疑問詞"],
+      "tags": ["vV0.1.0", "疑問詞", "Swadesh list"],
       "translations": [
         { "title": "代名詞", "forms": ["誰"], "rawForms": "誰" }
       ],
@@ -2388,8 +2544,21 @@
       ]
     },
     {
-      "entry": { "id": 125, "form": "hvat" },
+      "entry": { "id": 126, "form": "hvarfor" },
       "tags": ["vV0.1.0", "疑問詞"],
+      "translations": [
+        { "title": "副詞", "forms": ["なぜ"], "rawForms": "なぜ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/fɐɽfɔɽ/, /xʋ-/" },
+        { "title": "説明", "text": "理由を尋ねる。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 125, "form": "hvat" } }]
+    },
+    {
+      "entry": { "id": 125, "form": "hvat" },
+      "tags": ["vV0.1.0", "疑問詞", "Swadesh list"],
       "translations": [
         { "title": "代名詞", "forms": ["何"], "rawForms": "何" }
       ],
@@ -2408,17 +2577,28 @@
       "relations": [{ "title": "人", "entry": { "id": 151, "form": "hva" } }]
     },
     {
-      "entry": { "id": 126, "form": "hvuy" },
-      "tags": ["vV0.1.0", "疑問詞"],
+      "entry": { "id": 270, "form": "hvaw" },
+      "tags": ["vV0.1.0", "Swadesh list", "疑問詞"],
       "translations": [
-        { "title": "副詞", "forms": ["なぜ"], "rawForms": "なぜ" }
+        {
+          "title": "副詞",
+          "forms": ["どのように", "どう"],
+          "rawForms": "どのように,どう"
+        }
       ],
-      "contents": [
-        { "title": "Pronunciation", "text": "/fœʏ/, /xʋ-/" },
-        { "title": "説明", "text": "理由を尋ねる。" }
-      ],
+      "contents": [{ "title": "Pronunciation", "text": "/fɑʊ/, /xʋ-/" }],
       "variations": [],
-      "relations": [{ "title": "", "entry": { "id": 125, "form": "hvat" } }]
+      "relations": []
+    },
+    {
+      "entry": { "id": 269, "form": "hvönn" },
+      "tags": ["vV0.1.0", "疑問詞", "Swadesh list"],
+      "translations": [
+        { "title": "副詞", "forms": ["いつ"], "rawForms": "いつ" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "/fœn/, /xʋ-/" }],
+      "variations": [],
+      "relations": []
     },
     {
       "entry": { "id": 106, "form": "hvörvan" },
@@ -2448,7 +2628,7 @@
     },
     {
       "entry": { "id": 197, "form": "hävvaģ" },
-      "tags": ["vV0.1.0"],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "形容詞",
@@ -2458,7 +2638,7 @@
       ],
       "contents": [
         { "title": "Pronunciation", "text": "ˈɦɛʋaɪ" },
-        { "title": "語源", "text": "OE _hefiġ_" },
+        { "title": "語源", "text": "OE _hefiġ_\n\nen. _heavy_ と同根" },
         { "title": "説明", "text": "" },
         { "title": "曲用", "text": "_\\-aģ_ を参照のこと。" }
       ],
@@ -2469,8 +2649,24 @@
       ]
     },
     {
+      "entry": { "id": 293, "form": "hört" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [{ "title": "名詞", "forms": ["心"], "rawForms": "心" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦœɻʈ" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 119, "form": "iar" },
-      "tags": ["中性", "vV0.1.0", "身体"],
+      "tags": ["中性", "vV0.1.0", "身体", "Swadesh list"],
       "translations": [{ "title": "名詞", "forms": ["耳"], "rawForms": "耳" }],
       "contents": [
         { "title": "Pronunciation", "text": "jɑːɽ" },
@@ -2544,7 +2740,7 @@
     },
     {
       "entry": { "id": 2, "form": "iķ" },
-      "tags": ["vV0.1.0"],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "代名詞",
@@ -2587,8 +2783,23 @@
       ]
     },
     {
+      "entry": { "id": 271, "form": "jaal" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "副詞", "forms": ["すべて"], "rawForms": "すべて" },
+        { "title": "形容詞", "forms": ["すべての"], "rawForms": "すべての" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "jɑːl" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 98, "form": "jaar" },
-      "tags": ["中性", "vV0.1.0"],
+      "tags": ["中性", "vV0.1.0", "Swadesh list"],
       "translations": [{ "title": "名詞", "forms": ["年"], "rawForms": "年" }],
       "contents": [
         { "title": "Pronunciation", "text": "jɑːɽ" },
@@ -2652,7 +2863,7 @@
     },
     {
       "entry": { "id": 10, "form": "jee" },
-      "tags": ["vV0.1.0"],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "代名詞",
@@ -2752,6 +2963,25 @@
         {
           "title": "曲用表 ・・・ 強変化男性",
           "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|katd|katdas|\n|属格|katdes|katde|\n|与格|kätd|katdum|\n|対格|katd|katdas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 291, "form": "knäv" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [{ "title": "名詞", "forms": ["膝"], "rawForms": "膝" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "knɛːʋ" },
+        {
+          "title": "語源",
+          "text": "OE _cnēow_ < PGmc. \\*_knewą_ < PIE \\*_ǵónu_\n\nen. _knee_ などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
         }
       ],
       "variations": [],
@@ -2936,6 +3166,31 @@
       "relations": []
     },
     {
+      "entry": { "id": 275, "form": "long" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["長い"], "rawForms": "長い" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "lɔŋ" },
+        {
+          "title": "語源",
+          "text": "OE _long_ < PGmc. \\*_langaz_ < PIE \\*_dlongʰos_"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 23, "form": "lüvjan" },
       "tags": ["vV0.1.0"],
       "translations": [
@@ -2984,6 +3239,24 @@
         {
           "title": "活用表 ・・・ 弱変化クラスII",
           "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||makjan|to makjenn|\n|–|||\n|分詞|現在|過去|\n||makjend|ģymakod|\n|–|||\n|動名詞|making||\n|–|||\n|直説法|現在|過去|\n|単数1人称|mak|maköd|\n|単数2人称|makst|makodst|\n|単数3人称|makeð|maköd|\n|複数|makjað|makodað|\n|–|||\n|接続法|現在|過去|\n|単数|mak|maköd|\n|複数|makjen|makoden|\n|–|||\n|命令法|単数|複数|\n||mak|makjað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 283, "form": "man" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "名詞", "forms": ["男", "人"], "rawForms": "男,人" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "mõː" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
         }
       ],
       "variations": [],
@@ -3187,7 +3460,7 @@
     },
     {
       "entry": { "id": 228, "form": "myźel" },
-      "tags": ["vV0.1.0"],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         { "title": "副詞", "forms": ["たくさん"], "rawForms": "たくさん" },
         { "title": "形容詞", "forms": ["たくさんの"], "rawForms": "たくさんの" }
@@ -3215,16 +3488,60 @@
     },
     {
       "entry": { "id": 205, "form": "naght" },
-      "tags": ["vV0.1.0"],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
-        { "title": "副詞", "forms": ["否��の副詞"], "rawForms": "否��の副詞" }
+        {
+          "title": "副詞",
+          "forms": ["否定の副詞", "ない"],
+          "rawForms": "否定の副詞,ない"
+        }
       ],
       "contents": [
         { "title": "Pronunciation", "text": "nɐxʔ͡t" },
         { "title": "語源", "text": "OE _nāht_ < _nā_ + _wiht_" },
         {
           "title": "説明",
-          "text": "全文否定の場合は、文末に置く。\n\n&ensp;\n\n例. Hee eat jystrędäģ apblas *naght*.\n\n&#8213; 彼は昨日、リンゴを食べなかった。\n\n&ensp;\n\n部分否定の場合は、否定したい語句の前に置く。\n\n&ensp;\n\n例. Hee eat *naght* jystrędäģ apblas.\n\n&#8213; 彼は、昨日はリンゴを食べなかった。  \n（昨日「は」食べなかったなので、別の日には食べていることを示唆する。）\n\n&ensp;\n\n一部の動詞 (*väzan* etc.) は、代わりに否定語縮約動詞 (*n’äzan* etc.) を使った上、さらに *naght* を重ねることも多い。 （否定呼応）\n\n&ensp;\n\n例. Iķ *n’öm* [sä ķinuyze/säw ķinuyz] (*naght*).\n\n&#8213; 私は中国人ではありません。"
+          "text": "全文否定の場合は、文末に置く。\n\n&ensp;\n\n例. Hee eat jystrędäģ apblas _naght_.\n\n&#8213; 彼は昨日、リンゴを食べなかった。\n\n&ensp;\n\n部分否定の場合は、否定したい語句の前に置く。\n\n&ensp;\n\n例. Hee eat _naght_ jystrędäģ apblas.\n\n&#8213; 彼は、昨日はリンゴを食べなかった。  \n（昨日「は」食べなかったなので、別の日には食べていることを示唆する。）\n\n&ensp;\n\n一部の動詞 (*väzan* etc.) は、代わりに否定語縮約動詞 (_n’äzan_ etc.) を使った上、さらに _naght_ を重ねることも多い。 （否定呼応）\n\n&ensp;\n\n例. Iķ _n’öm_ [sä ķinuyze/säw ķinuyz] (_naght_).\n\n&#8213; 私は中国人ではありません。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 296, "form": "name" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "名詞", "forms": ["名前"], "rawForms": "名前" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈnɑːmɤ" },
+        { "title": "語源", "text": "OE _nama_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 297, "form": "namjan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["名づける", "〜という名前である"],
+          "rawForms": "名づける,(受動態で)〜という名前である"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "nɑːmjõː" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "活用表 ・・・ 弱変化クラスII",
+          "text": "|＼|||\n|:--:|----|----|\n|不定詞|主格|与格|\n||<>|tu namjenn|\n|–|||\n|分詞|現在|過去|\n||<>|ģynamod|\n|–|||\n|動名詞|<>|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|<>|<>|\n|単数2人称|<>|<>|\n|単数3人称|<>|<>|\n|複数|<>|<>|\n|–|||\n|接続法|現在|過去|\n|単数|<>|<>|\n|複数|<>|<>|\n|–|||\n|命令法|単数|複数|\n||<>|<>|"
         }
       ],
       "variations": [],
@@ -3297,6 +3614,28 @@
         { "title": "数詞", "forms": ["十九", "19"], "rawForms": "十九, 19" }
       ],
       "contents": [{ "title": "Pronunciation", "text": "ˈnjoːntœɲ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 280, "form": "niaro" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["狭い"], "rawForms": "狭い" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɲɑːɽoː" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
+        }
+      ],
       "variations": [],
       "relations": []
     },
@@ -3393,32 +3732,6 @@
       "relations": [
         { "title": "", "entry": { "id": 136, "form": "on" } },
         { "title": "", "entry": { "id": 21, "form": "sä" } }
-      ]
-    },
-    {
-      "entry": { "id": 175, "form": "ouðer" },
-      "tags": ["数", "vV0.1.0"],
-      "translations": [
-        { "title": "序数詞", "forms": ["2番目"], "rawForms": "2番目" },
-        { "title": "形容詞", "forms": ["他の"], "rawForms": "他の" },
-        { "title": "代名詞", "forms": ["他のもの"], "rawForms": "他のもの" }
-      ],
-      "contents": [
-        { "title": "Pronunciation", "text": "uːðɽ̍" },
-        { "title": "語源", "text": "OE _ōþer_" },
-        { "title": "説明", "text": "代名詞は形容詞と同じ変化。" },
-        {
-          "title": "曲用表 ・・・ 強変化",
-          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|ouðer|ouðer|ouðer|ouðer|\n|属格|ouðres|ouðres|eyðer|ouðre|\n|与格|ouðrum|ouðrum|eyðer|ouðrum|\n|対格|eyðren|ouðer|eyðer|ouðer|\n|具格 \\*1|eyðer|eyðer|–|–|\n\n\\*1 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
-        },
-        {
-          "title": "曲用表 ・・・ 弱変化",
-          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|ouðere|eyðer|eyðer|ouðran|\n|属格|ouðran|ouðran|ouðran|ouðerne|\n|与格|ouðran|ouðran|ouðran|ouðrum|\n|対格|ouðran|eyðer|ouðran|ouðran|"
-        }
-      ],
-      "variations": [],
-      "relations": [
-        { "title": "基数詞", "entry": { "id": 54, "form": "tvęģ" } }
       ]
     },
     {
@@ -3692,6 +4005,24 @@
       ]
     },
     {
+      "entry": { "id": 295, "form": "siððon" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        {
+          "title": "副詞",
+          "forms": ["なぜなら", "以降"],
+          "rawForms": "なぜなら,以降"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "sɪðõː" },
+        { "title": "語源", "text": "OE _siþþan_ 「〜の後, 〜以来」" },
+        { "title": "説明", "text": "" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 128, "form": "specializeeran" },
       "tags": ["vV0.1.0"],
       "translations": [
@@ -3771,6 +4102,31 @@
       "relations": []
     },
     {
+      "entry": { "id": 274, "form": "sturr" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["大きい"], "rawForms": "大きい" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "sʔ͡tʊɽ" },
+        {
+          "title": "語源",
+          "text": "OE _stōr_ < PGmc. \\*_stōraz_ 「強い, 大きい」\n\nScots _sture_, is. _stór_ などと同根"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 127, "form": "stydjeeran" },
       "tags": ["vV0.1.0"],
       "translations": [
@@ -3792,8 +4148,33 @@
       "relations": [{ "title": "", "entry": { "id": 189, "form": "-eeran" } }]
     },
     {
+      "entry": { "id": 272, "form": "sum" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["いくつかの"], "rawForms": "いくつかの" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "sõː" },
+        {
+          "title": "語源",
+          "text": "OE _sum_ < PGmc. \\*_sumaz_\n\nen. _some_ と同根"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 21, "form": "sä" },
-      "tags": ["vV0.1.0"],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "冠詞",
@@ -3814,7 +4195,7 @@
         }
       ],
       "variations": [],
-      "relations": []
+      "relations": [{ "title": "近称", "entry": { "id": 266, "form": "ðis" } }]
     },
     {
       "entry": { "id": 101, "form": "säcķan" },
@@ -3902,6 +4283,27 @@
       "relations": []
     },
     {
+      "entry": { "id": 287, "form": "sķajð" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "名詞", "forms": ["皮膚", "肌"], "rawForms": "皮膚,肌" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɬɐɪð" },
+        {
+          "title": "語源",
+          "text": "例証されない OE  \\*_sċīþ_ < PGmc. \\*_skinþą_ 「皮, 皮膚」 からか。\n\nen. _skin_ などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 114, "form": "sķavrod" },
       "tags": ["男性", "vV0.1.0"],
       "translations": [
@@ -3929,6 +4331,28 @@
         {
           "title": "曲用表 ・・・ 強変化中性",
           "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | sķipp | sķippan |\n| 対格 | sķipp | sķippan |\n| 属格 | sķippes | sķippe |\n| 与格 | sķipp | sķippum |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 279, "form": "sķort" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["短い"], "rawForms": "短い" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɬɔɻʈ" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
         }
       ],
       "variations": [],
@@ -4064,6 +4488,25 @@
       ]
     },
     {
+      "entry": { "id": 290, "form": "tung" },
+      "tags": ["vV0.1.0", "Swadesh list", "身体"],
+      "translations": [{ "title": "名詞", "forms": ["舌"], "rawForms": "舌" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "tʊŋ" },
+        {
+          "title": "語源",
+          "text": "OE _tunge_ < PGmc. \\*_tungǭ_ < PIE \\*_dn̥ǵʰwéh₂s_\n\nen. _tongue_, de. _Zunge_, L _lingua_, S जिह्वा (jihvā́) (いずれも「舌」) などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
       "entry": { "id": 73, "form": "tvintaģ" },
       "tags": ["数", "vV0.1.0"],
       "translations": [
@@ -4116,7 +4559,7 @@
     },
     {
       "entry": { "id": 54, "form": "tvęģ" },
-      "tags": ["数", "vV0.1.0"],
+      "tags": ["数", "vV0.1.0", "Swadesh list"],
       "translations": [
         { "title": "数詞", "forms": ["二", "2"], "rawForms": "二, 2" }
       ],
@@ -4137,7 +4580,7 @@
       ],
       "relations": [
         { "title": "", "entry": { "id": 107, "form": "rąj" } },
-        { "title": "序数詞", "entry": { "id": 175, "form": "ouðer" } }
+        { "title": "序数詞", "entry": { "id": 175, "form": "uwðer" } }
       ]
     },
     {
@@ -4197,6 +4640,32 @@
       "relations": []
     },
     {
+      "entry": { "id": 175, "form": "uwðer" },
+      "tags": ["数", "vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "序数詞", "forms": ["2番目"], "rawForms": "2番目" },
+        { "title": "形容詞", "forms": ["他の"], "rawForms": "他の" },
+        { "title": "代名詞", "forms": ["他のもの"], "rawForms": "他のもの" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "uːðɽ̍" },
+        { "title": "語源", "text": "OE _ōþer_" },
+        { "title": "説明", "text": "代名詞は形容詞と同じ変化。" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|uwðer|uwðer|uwðer|uwðer|\n|属格|uwðres|uwðres|eyðer|uwðre|\n|与格|uwðrum|uwðrum|eyðer|uwðrum|\n|対格|eyðren|uwðer|eyðer|uwðer|\n|具格 \\*1|eyðer|eyðer|–|–|\n\n\\*1 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|uwðere|eyðer|eyðer|uwðran|\n|属格|uwðran|uwðran|uwðran|uwðerne|\n|与格|uwðran|uwðran|uwðran|uwðrum|\n|対格|uwðran|eyðer|uwðran|uwðran|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "基数詞", "entry": { "id": 54, "form": "tvęģ" } }
+      ]
+    },
+    {
       "entry": { "id": 241, "form": "uyland" },
       "tags": ["vV0.1.0", "中性"],
       "translations": [{ "title": "名詞", "forms": ["島"], "rawForms": "島" }],
@@ -4210,6 +4679,24 @@
         {
           "title": "曲用表 ・・・ 強変化中性",
           "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|uyland|uylandas|\n|属格|uylandes|uylande|\n|与格|uyländ|uylandum|\n|対格|uyland|uylandas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 282, "form": "vajman" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "名詞", "forms": ["女性"], "rawForms": "女性" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈʋɐɪmõː" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
         }
       ],
       "variations": [],
@@ -4238,7 +4725,7 @@
     },
     {
       "entry": { "id": 7, "form": "vee" },
-      "tags": [],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "代名詞",
@@ -4254,7 +4741,7 @@
         { "title": "属格", "form": "äwr" },
         { "title": "与格, 対格", "form": "aws" }
       ],
-      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+      "relations": [{ "title": "格変化表", "entry": { "id": 2, "form": "iķ" } }]
     },
     {
       "entry": { "id": 31, "form": "vessenzländisķ" },
@@ -4308,7 +4795,7 @@
     },
     {
       "entry": { "id": 121, "form": "viltdjor" },
-      "tags": ["中性", "vV0.1.0"],
+      "tags": ["中性", "vV0.1.0", "Swadesh list"],
       "translations": [
         { "title": "名詞", "forms": ["動物"], "rawForms": "動物" }
       ],
@@ -4346,6 +4833,22 @@
         { "title": "与格, 対格", "form": "unk" }
       ],
       "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 286, "form": "vuwd" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [{ "title": "名詞", "forms": ["森"], "rawForms": "森" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ʋuːd" },
+        { "title": "語源", "text": "OE _wudu_ 「木材, 森」" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
+      ],
+      "variations": [],
+      "relations": []
     },
     {
       "entry": { "id": 17, "form": "vyrķan" },
@@ -4478,7 +4981,50 @@
       ],
       "contents": [
         { "title": "Pronunciation", "text": "ˈzeːɽɔ" },
-        { "title": "説明", "text": "fr.語 _zéro_ から。" }
+        {
+          "title": "語源",
+          "text": "fr. _zéro_ < MedL _zephirum_ 「0」 < صفر (ṣifr, 「無, 暗号」)"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 278, "form": "zmal" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["小さい"], "rawForms": "小さい" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "zmɑːl" },
+        { "title": "語源", "text": "OE _smæll_ < \\*_smalaz_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 285, "form": "znake" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "名詞", "forms": ["蛇", "ヘビ"], "rawForms": "蛇,ヘビ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "znɑːkɤ" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|||\n|属格|||\n|与格|||\n|対格|||"
+        }
       ],
       "variations": [],
       "relations": []
@@ -4512,11 +5058,14 @@
       ],
       "contents": [
         { "title": "Pronunciation", "text": "ˈzʋɪmõː" },
-        { "title": "語源", "text": "" },
+        {
+          "title": "語源",
+          "text": "OE _swimman_ < PGmc. \\*_swimmaną_\n\nen. _swim_, de. _schwimmen_, sv. _simma_ などと同根"
+        },
         { "title": "説明", "text": "" },
         {
-          "title": "活用表",
-          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|主格|与格|\n||<>|tu |\n|–|||\n|分詞|現在|過去|\n||<>|<>|\n|–|||\n|動名詞|<>|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|<>|<>|\n|単数2人称|<>|<>|\n|単数3人称|<>|<>|\n|複数|<>|<>|\n|–|||\n|接続法|現在|過去|\n|単数|<>|<>|\n|複数|<>|<>|\n|–|||\n|命令法|単数|複数|\n||<>|<>|"
+          "title": "活用表 ・・・ 強変化クラスIII",
+          "text": "|＼|||\n|:--:|----|----|\n|不定詞|主格|与格|\n||zvimman|tu zvimmenn|\n|–|||\n|分詞|現在|過去|\n||zvimmend|ģyzvommen|\n|–|||\n|動名詞|zvimming|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|zvimm|zvam|\n|単数2人称|zvimst|zvamst|\n|単数3人称|zvimð|zvam|\n|複数|zvimmað|zvammað|\n|–|||\n|接続法|現在|過去|\n|単数|zvimm|zvomm|\n|複数|zvimmen|zvommen|\n|–|||\n|命令法|単数|複数|\n||zvim|zvimmað|"
         }
       ],
       "variations": [],
@@ -4746,7 +5295,7 @@
     },
     {
       "entry": { "id": 6, "form": "ðaw" },
-      "tags": ["vV0.1.0"],
+      "tags": ["vV0.1.0", "Swadesh list"],
       "translations": [
         {
           "title": "代名詞",
@@ -4781,12 +5330,12 @@
         { "title": "副詞", "forms": ["しかし"], "rawForms": "しかし" },
         {
           "title": "副詞",
-          "forms": ["(否定疑問文に対して)いいえ"],
+          "forms": ["いいえ"],
           "rawForms": "(否定疑問文に対して)いいえ"
         }
       ],
       "contents": [
-        { "title": "Pronunciation", "text": "ðjɐx" },
+        { "title": "Pronunciation", "text": "ðjɑːx" },
         { "title": "語源", "text": "OE _þēah_ 「まだ,しかし」" },
         {
           "title": "説明",
@@ -4801,6 +5350,56 @@
       ]
     },
     {
+      "entry": { "id": 268, "form": "ðiar" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        {
+          "title": "副詞",
+          "forms": ["そこ", "あそこ"],
+          "rawForms": "そこ,あそこ"
+        }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ðjɑːɽ" }],
+      "variations": [],
+      "relations": [{ "title": "こ", "entry": { "id": 267, "form": "herr" } }]
+    },
+    {
+      "entry": { "id": 277, "form": "ðick" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["太い"], "rawForms": "太い" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ðɪk" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 266, "form": "ðis" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        {
+          "title": "指示代名詞",
+          "forms": ["これ", "この"],
+          "rawForms": "これ,この"
+        }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ðɪs" }],
+      "variations": [],
+      "relations": [{ "title": "遠称", "entry": { "id": 21, "form": "sä" } }]
+    },
+    {
       "entry": { "id": 80, "form": "ðrajtaģ" },
       "tags": ["数", "vV0.1.0"],
       "translations": [
@@ -4812,7 +5411,7 @@
     },
     {
       "entry": { "id": 61, "form": "ðrau" },
-      "tags": ["数", "vV0.1.0"],
+      "tags": ["数", "vV0.1.0", "Swadesh list"],
       "translations": [
         { "title": "数詞", "forms": ["三", "3"], "rawForms": "三, 3" }
       ],
@@ -4871,6 +5470,28 @@
           "text": "OE _þurhwuniendes_ (_þurhwunian_ 「保つ, 続く」の現在分詞中性属格形) が前置詞化したもの。"
         },
         { "title": "説明", "text": "属格支配。" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 281, "form": "ðynn" },
+      "tags": ["vV0.1.0", "Swadesh list"],
+      "translations": [
+        { "title": "形容詞", "forms": ["細い"], "rawForms": "細い" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ðʏn" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||\n|\\*具格|||||\n\n\\* 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|男性|中性|女性|複数|\n|:--:|----|----|----|----|\n|主格|||||\n|属格|||||\n|与格|||||\n|対格|||||"
+        }
       ],
       "variations": [],
       "relations": []
@@ -5040,7 +5661,7 @@
     },
     {
       "entry": { "id": 256, "form": "ķilder" },
-      "tags": ["vV0.1.0", "中性"],
+      "tags": ["vV0.1.0", "中性", "Swadesh list"],
       "translations": [
         { "title": "名詞", "forms": ["子ども"], "rawForms": "子ども" }
       ],
@@ -5133,14 +5754,6 @@
       "offer": { "catalog": "appleAlpha", "number": 2 }
     },
     {
-      "id": 1,
-      "sentence": "Iķ heat Akane Tokotoba.",
-      "translation": "私は斗琴庭暁響です。",
-      "supplement": "",
-      "tags": [],
-      "words": [{ "id": 35 }, { "id": 2 }]
-    },
-    {
       "id": 2,
       "sentence": "Mee laikeð sä apbel.",
       "translation": "私はリンゴが好きです。",
@@ -5205,24 +5818,6 @@
       "tags": [],
       "words": [{ "id": 97 }, { "id": 26 }],
       "offer": { "catalog": "survival", "number": 2 }
-    },
-    {
-      "id": 35,
-      "sentence": "Hvat haatað Jee?",
-      "translation": "",
-      "supplement": "名前を尋ねる、あるいは言うときは通常 »haatan« 「〜という名前である」を使う。",
-      "tags": [],
-      "words": [{ "id": 125 }, { "id": 35 }, { "id": 198 }],
-      "offer": { "catalog": "survival", "number": 26 }
-    },
-    {
-      "id": 34,
-      "sentence": "Iķ heat ◯◯◯.",
-      "translation": "",
-      "supplement": "",
-      "tags": [],
-      "words": [{ "id": 35 }],
-      "offer": { "catalog": "survival", "number": 25 }
     },
     {
       "id": 19,
@@ -5334,6 +5929,32 @@
       "offer": { "catalog": "appleAlpha", "number": 4 }
     },
     {
+      "id": 1,
+      "sentence": "Iķ byküwm Akane Tokotoba ģynamod.",
+      "translation": "私は斗琴庭暁響です。",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 194 }, { "id": 297 }]
+    },
+    {
+      "id": 34,
+      "sentence": "Iķ byküwm ◯◯◯ ģynamod.",
+      "translation": "",
+      "supplement": "動詞 »namjan« は受動態で「〜という名前である」という意味となる。",
+      "tags": [],
+      "words": [{ "id": 297 }, { "id": 194 }],
+      "offer": { "catalog": "survival", "number": 25 }
+    },
+    {
+      "id": 35,
+      "sentence": "Hvat bykumað Jee ģynamod?",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 297 }, { "id": 194 }, { "id": 198 }],
+      "offer": { "catalog": "survival", "number": 26 }
+    },
+    {
       "id": 24,
       "sentence": "Ðat n’iss an apbel naght.",
       "translation": "",
@@ -5379,7 +6000,7 @@
     }
   ],
   "zpdicOnline": {
-    "explanation": "# säw vässenzländisķ spräcķ\n\n/sjoː ˈʋɛsɤ̃zˌlɛndɪɬ ˈspɽɛɕ/\n\n古英語からあまり屈折が衰退しなかった娘言語です。\n\n読み方はこちらを参照。→ [Vässenzländisķ 文字と発音 | 悠久肆方体](https://www.tktb-tess.dev/conlang/vaes/letter-et-pron)\n\n使用文字: a–z + ą, ä, ą̈, ð, ę, ģ, į, ķ, ǫ, ö, ǫ̈, ü, ų, ų̈, ỹ\n\n現在の最新バージョンはV0.1.0です。「vV0.1.0」とタグ付けされているものが改訂済みの単語です。\n\n## _inf. – ind.pret.pl. – sub.pret.pl. – pret.p._ について\n\n原形不定詞, 直説法過去複数, 接続法過去複数, 過去分詞が順に表記されている。強変化動詞の幹母音はこの4通りに交替するので、理論上はこの4形がわかれば全ての活用形が導けることになる……と言いたいところだが、例外があったりすることもあり難しい。\n\n## 言語名略称一覧\n\n- OE: 古英語\n- ON: 古ノルド語\n- PGmc.: ゲルマン祖語\n- PWGmc.: 西ゲルマン祖語\n- PIE: インド・ヨーロッパ祖語\n- L: ラテン語\n- AG: 古典ギリシア語\n\n現代の言語は2文字言語コード (ISO 639-1) に準じるものとする。いくつかの例を下に示す。\n\n- en. : 英語\n- fr. : フランス語\n- de. : ドイツ語\n- nl. : オランダ語\n\n最終更新: 2025/09/09",
+    "explanation": "# säw vässenzländisķ spräcķ\n\n/sjoː ˈʋɛsɤ̃zˌlɛndɪɬ ˈspɽɛɕ/\n\n古英語からあまり屈折が衰退しなかった娘言語です。\n\n読み方はこちらを参照。→ [Vässenzländisķ 文字と発音 | 悠久肆方体](https://www.tktb-tess.dev/conlang/vaes/letter-et-pron)\n\n使用文字: a–z + ą, ä, ą̈, ð, ę, ģ, į, ķ, ǫ, ö, ǫ̈, ü, ų, ų̈, ỹ\n\n現在の最新バージョンはV0.1.0です。「vV0.1.0」とタグ付けされているものが改訂済みの単語です。\n\n## _inf. – ind.pret.pl. – sub.pret.pl. – pret.p._ について\n\n原形不定詞, 直説法過去複数, 接続法過去複数, 過去分詞が順に表記されている。強変化動詞の幹母音はこの4通りに交替するので、理論上はこの4形がわかれば全ての活用形が導けることになる……と言いたいところだが、例外があったりすることもあり難しい。\n\n## 言語名略称一覧\n\n- OE: 古英語\n- ON: 古ノルド語\n- PGmc.: ゲルマン祖語\n- PWGmc.: 西ゲルマン祖語\n- PIE: インド・ヨーロッパ祖語\n- L: ラテン語\n- MedL: 中世ラテン語\n- VulgL: 俗ラテン語\n- NewL: 新ラテン語\n- AG: 古典ギリシア語\n\n現代の言語は2文字言語コード (ISO 639-1) に準じるものとする。いくつかの例を下に示す。\n\n- en. : 英語\n- fr. : フランス語\n- de. : ドイツ語\n- nl. : オランダ語\n- ja. : 日本語\n\n最終更新: 2025/09/09",
     "punctuations": [",", "、", "。"],
     "ignoredPattern": "[\\(（].*?[\\)）]",
     "pronunciationTitle": "Pronunciation",

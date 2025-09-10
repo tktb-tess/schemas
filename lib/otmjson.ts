@@ -59,7 +59,7 @@ export const zpdicExampleSchema = z.object({
   id: z.int().nonnegative(),
   sentence: z.string(),
   translation: z.string(),
-  supplement: z.string(),
+  supplement: z.string().optional(),
   tags: z.string().array(),
   words: z
     .object({
@@ -77,9 +77,9 @@ export const zpdicExampleSchema = z.object({
 export type ZpDICExample = z.infer<typeof zpdicExampleSchema>;
 
 export const zpdicConfigSchema = z.object({
-  explanation: z.string(),
+  explanation: z.string().optional(),
   punctuations: z.string().array(),
-  ignoredPattern: z.string(),
+  ignoredPattern: z.string().optional(),
   pronunciationTitle: z.string(),
   enableMarkdown: z.boolean(),
 });
@@ -88,30 +88,34 @@ export type ZpDICConfig = z.infer<typeof zpdicConfigSchema>;
 
 const otmjson_brand = Symbol('otm-json');
 
-export const otmjsonv1Schema = z.object({
-  version: z.literal(1).optional(),
-  words: wordv1Schema.array(),
-}).brand<typeof otmjson_brand>();
+export const v1Schema = z
+  .object({
+    version: z.literal(1).optional(),
+    words: wordv1Schema.array(),
+  })
+  .brand<typeof otmjson_brand>();
 
-export const otmjsonv2Schema = z.looseObject({
-  version: z.literal(2),
-  words: wordv2Schema.array(),
-  examples: zpdicExampleSchema.array().optional(),
-  zpdicOnline: zpdicConfigSchema.optional(),
-}).brand<typeof otmjson_brand>();
-
-
+export const v2Schema = z
+  .looseObject({
+    version: z.literal(2),
+    words: wordv2Schema.array(),
+  })
+  .brand<typeof otmjson_brand>();
 
 export const otmjsonSchema = z.discriminatedUnion('version', [
-  otmjsonv1Schema,
-  otmjsonv2Schema,
+  v1Schema,
+  v2Schema,
 ]);
 
-export type OTMJSONv1 = z.infer<typeof otmjsonv1Schema>;
-export type OTMJSONv2 = z.infer<typeof otmjsonv2Schema>;
-export type OTMJSON = OTMJSONv1 | OTMJSONv2;
+export type Ver1 = z.infer<typeof v1Schema>;
+export type Ver2 = z.infer<typeof v2Schema>;
+export type Ver1or2 = Ver1 | Ver2;
 
-export const zpdicOtmjsonSchema = otmjsonv2Schema.required();
+export const zpdicOtmSchema = v2Schema.extend({
+  examples: zpdicExampleSchema.array(),
+  zpdicOnline: zpdicConfigSchema,
+  snoj: z.string().optional(),
+  zatlin: z.string().optional(),
+});
 
-export type ZpDICOTMJSON = z.infer<typeof zpdicOtmjsonSchema>;
-
+export type ZpDICOTM = z.infer<typeof zpdicOtmSchema>;
