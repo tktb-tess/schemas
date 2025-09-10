@@ -16,7 +16,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "test": "vitest run"
+    "test": "vitest run",
+    "build-pack": "npm run build && rm -r -f pkg && mkdir pkg && npm pack --pack-destination pkg"
   },
   "devDependencies": {
     "@types/node": "^24.3.1",
