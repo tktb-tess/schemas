@@ -1,0 +1,5388 @@
+{
+  "version": 2,
+  "words": [
+    {
+      "entry": { "id": 226, "form": "-aģ" },
+      "tags": ["接辞", "vV0.1.0"],
+      "translations": [
+        { "title": "接尾辞", "forms": ["形容詞接辞"], "rawForms": "形容詞接辞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "aɪ" },
+        { "title": "語源", "text": "OE _\\-iġ_" },
+        {
+          "title": "説明",
+          "text": "例. _hävvaģ_ 「重い」、 _rejnaģ_ 「雨の」"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|\\-aģ|\\-aģ|\\-aģ|\\-aģ|\n|属格|\\-aģs|\\-aģs|\\-äģr|\\-aģre|\n|与格|\\-aģum|\\-aģum|\\-äģr|\\-aģum|\n|対格|\\-äģn|\\-aģ|\\-äģ|\\-aģ|\n|具格\\*1|\\-äģ|\\-äģ|–|–|\n\n\\*1 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|\\-aģe|\\-äģ|\\-äģ|\\-aģan|\n|属格|\\-aģan|\\-aģan|\\-aģan|\\-aģre|\n|与格|\\-aģan|\\-aģan|\\-aģan|\\-aģum|\n|対格|\\-aģan|\\-äģ|\\-aģan|\\-aģan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 189, "form": "-eeran" },
+      "tags": ["vV0.1.0", "接辞"],
+      "translations": [
+        { "title": "接尾辞", "forms": ["動詞化接辞"], "rawForms": "動詞化接辞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈeːɽõː" },
+        { "title": "語源", "text": "_\\-er_ + _\\-an_" },
+        {
+          "title": "説明",
+          "text": "借用語の動詞につく。アクセント位置は _ee_ の部分になる。\n\n例. OF _estudier_ 「勉強する」 + _\\-eeran_ → _stydjeeran_ 「研究する」"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "\\-eeran – \\-eerdað – \\-eerden – ģy\\- \\-eerd"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスI",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|主格|与格|\n||-eeran|tu -eerenn|\n|–|||\n|分詞|現在|過去|\n||-eerend|ģy- -eerd|\n|–|||\n|動名詞|-eering||\n|–|||\n|直説法|現在|過去|\n|単数1人称|-eer|-eerd|\n|単数2人称|-eerst|-eerdest|\n|単数3人称|-eerð|-eerd|\n|複数|-eerað|-eerdað|\n|–|||\n|接続法|現在|過去|\n|単数|-eer|-eerd|\n|複数|-eeren|-eerden|\n|–|||\n|命令法|単数|複数|\n||-eer|-eerað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 201, "form": "-er" },
+      "tags": ["vV0.1.0", "接辞"],
+      "translations": [
+        { "title": "接尾辞", "forms": ["行為者接辞"], "rawForms": "行為者接辞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɽ̍" },
+        { "title": "語源", "text": "OE _\\-ere_" },
+        {
+          "title": "説明",
+          "text": "名詞や動詞語幹に付き、「～する人・物」「～を作る人・物」などの意味を表す。\n\n例. _flewgan_ 「飛ぶ」 + _\\-er_ → _flewger_ 「飛行機」"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化男性（特殊）",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|\\-er|\\-ras|\n|属格|\\-res|\\-re|\n|与格|\\-er|\\-rum|\n|対格|\\-er|\\-ras|"
+        }
+      ],
+      "variations": [{ "title": "eの後ろに付くとき", "form": "-är" }],
+      "relations": [{ "title": "異形", "entry": { "id": 202, "form": "-är" } }]
+    },
+    {
+      "entry": { "id": 37, "form": "-isķ" },
+      "tags": ["接辞", "vV0.1.0"],
+      "translations": [{ "title": "接尾辞", "forms": [""], "rawForms": "" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɪɬ" },
+        {
+          "title": "説明",
+          "text": "国名・地域名などに付き、その国・地域の民族や言語名を表す名詞を作る。\n\nまた、「その国・地域の～」といった形容詞を作る。"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|-isķ|-isķ|-isķ|-isķ|\n|属格|-isķes|-isķes|-isķer|-isķre|\n|与格|-isķum|-isķum|-isķer|-isķum|\n|対格|-isķenn|-isķ|-isķ|-isķ|\n|具格\\*1|-isķ|-isķ|–|–|\n\n\\*1 具格は普通ほぼ使われず、代わりに与格が用いられる。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|-isķ|-isķ|-isķ|-isķan|\n|属格|-isķan|-isķan|-isķan|-isķne|\n|与格|-isķan|-isķan|-isķan|-isķan|\n|対格|-isķan|-isķ|-isķan|-isķan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 180, "form": "-lajķ" },
+      "tags": ["vV0.1.0", "接辞"],
+      "translations": [{ "title": "接尾辞", "forms": [], "rawForms": "" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "laɪɕ" },
+        { "title": "語源", "text": "OE _-līċ_" },
+        {
+          "title": "説明",
+          "text": "名詞に付き、「～の性質のある」といった意味を表す形容詞を作る。\n\n例. _frewnd_ 「友達」 + _-lajķ_ → _frewndlajķ_ 「友好的な」"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|-lajķ|-lajķ|-lajķ|-lajķ|\n|属格|-lajķes|-lajķes|-läjķer|-lajkre|\n|与格|-lajkum|-lajkum|-läjķer|-lajkum|\n|対格|-läjķenn|-lajķ|-läjķ|-lajķ|\n|具格 \\*1 |-läjķ|-läjķ|–|–|\n\n- \\*1 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。\n- 一部 _ķ_ /ɕ/ が _k_ /k/ に交替しているのに注意。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|-läjķ|-läjķ|-läjķ|-lajķan|\n|属格|-lajkan|-lajkan|-lajkan|-lajkre|\n|与格|-lajkan|-lajkan|-lajkan|-lajkum|\n|対格|-lajkan|-läjķ|-lajkan|-lajkan|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 191, "form": "-läjķ" } }]
+    },
+    {
+      "entry": { "id": 51, "form": "-land" },
+      "tags": ["接辞", "vV0.1.0"],
+      "translations": [{ "title": "接尾辞", "forms": [""], "rawForms": "" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "lɐn" },
+        {
+          "title": "説明",
+          "text": "民族名などにつけて、「～の国」という国名にする。\n\n或いは単に「～な場所」という意味の名詞を作る。\n\n&ensp;\n\n例. _Finland_ 「フィンランド」、_Sķotland_ 「スコットランド」"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | -land | -landan |\n| 属格 | -landes | -lande |\n| 与格 | -länd | -landum |\n| 対格 | -land | -landan |\n\n※国名の意味で用いる場合、単数のみ。オランダ _ða Niðerlandan_ は複数のみ。"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 46, "form": "land" } }]
+    },
+    {
+      "entry": { "id": 153, "form": "-lezķan" },
+      "tags": ["接辞", "vV0.1.0"],
+      "translations": [
+        { "title": "接尾辞", "forms": ["動詞化接辞"], "rawForms": "動詞化接辞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "lɤʑõː" },
+        {
+          "title": "説明",
+          "text": "名詞などにつけて、「～にする」などを表す。\n\n例 : _an_ 「1」 + _-lezķan_ → _anlezķan_ 「1つにする、統一する」\n\n_knör(d)_ 「知識」 + _-lezķan_ → _knörlezķan_ 「勉強する」"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化第II類（特殊）",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|主格|与格|\n||-lezķan|tu -lezķenn|\n|–|||\n|直説法|現在|過去|\n|単数1人称|-lezķ|-ljäght|\n|単数2人称 |-lekst|-liaghtest|\n|単数3人称 |-lekeð|-ljäght|\n|複数|-lezķað|-liaghtað|\n|–|||\n|接続法|現在|過去|\n|単数|-lezķ|-liäght|\n|複数|-lezķen|-liaghten|\n|–|||\n|命令法|単数|複数|\n||-lezķ|-lezķað|\n|–|||\n|分詞|現在|過去|\n||-lezķend|-liaght|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 191, "form": "-läjķ" },
+      "tags": ["vV0.1.0", "接辞"],
+      "translations": [
+        { "title": "接尾辞", "forms": ["副詞化接辞"], "rawForms": "副詞化接辞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "lɛɪɕ" },
+        { "title": "語源", "text": "OE _-līċe_" },
+        {
+          "title": "説明",
+          "text": "形容詞に付き、副詞にする。\n\n_-aģ_ で終わる形容詞に付くとき、_-iläjķ_ という形になる。この場合ウムラウトを起こす。\n\n例. _fejr_ 「美しい」 + _-läjķ_ → _fejrläjķ_ 「美しく」\n\n_hävvaģ_ 「重い」 + _-läjķ_ → _hevviläjķ_ 「重く」"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 180, "form": "-lajķ" } }]
+    },
+    {
+      "entry": { "id": 57, "form": "-rajķ" },
+      "tags": ["接辞", "vV0.1.0"],
+      "translations": [{ "title": "接尾辞", "forms": [], "rawForms": "" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɽaɪɕ" },
+        { "title": "語源", "text": "OE _-rīċe_" },
+        {
+          "title": "説明",
+          "text": "「～の領域」「～の国」といった名詞を作る。\n\n&ensp;\n\n例. _Frankrajķ_ 「フランス」, _kynerajķ_ 「王国」"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | -rajķ | -rajķan |\n| 属格 | -rajķes | -rajķe |\n| 与格 | -räjķ | -rajķum |\n| 対格 | -rajķ | -rajķan |\n\n※国名の場合、単数のみ。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 195, "form": "-taģ" },
+      "tags": ["vV0.1.0", "接辞"],
+      "translations": [{ "title": "接尾辞", "forms": [], "rawForms": "" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "taɪ" },
+        { "title": "語源", "text": "OE _-tiġ_ < PGmc. \\*_tigiwiz_" },
+        {
+          "title": "説明",
+          "text": "20–120の数詞に付く接尾辞。\n\n例. _fajv_ 「5」 + _\\-taģ_ → _fajftaģ_ 「50」"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 186, "form": "-te" },
+      "tags": ["vV0.1.0", "接辞"],
+      "translations": [{ "title": "接尾辞", "forms": [""], "rawForms": "" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "tɤ" },
+        {
+          "title": "説明",
+          "text": "_-ðe_ の異形。 5, 6, 11, 12に付く。\n\n例. _fajv_ 「5」 + _-te_ → _fajfte_ 「5.」\n\n曲用は _-ðe_ と同じ。"
+        },
+        { "title": "曲用", "text": "_-ðe_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "異形", "entry": { "id": 182, "form": "-ðe" } }]
+    },
+    {
+      "entry": { "id": 202, "form": "-är" },
+      "tags": ["vV0.1.0", "接辞"],
+      "translations": [
+        { "title": "接尾辞", "forms": ["行為者接辞"], "rawForms": "行為者接辞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɤɽ" },
+        {
+          "title": "説明",
+          "text": "eで終わる語に対してつく、_\\-er_ の異形。\n\n例. _för\\-_ 「遠く」 + _seean_ 「見る」 + _\\-är_ → _förseeär_ 「テレビ」"
+        },
+        { "title": "曲用", "text": "_\\-er_ を参照のこと。" }
+      ],
+      "variations": [{ "title": "", "form": "-er" }],
+      "relations": [{ "title": "異形", "entry": { "id": 201, "form": "-er" } }]
+    },
+    {
+      "entry": { "id": 182, "form": "-ðe" },
+      "tags": ["vV0.1.0", "接辞"],
+      "translations": [{ "title": "接尾辞", "forms": [], "rawForms": "" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ðɤ" },
+        { "title": "語源", "text": "OE _-þa_" },
+        {
+          "title": "説明",
+          "text": "1–3, 5, 6, 11, 12を除く基数詞につけて序数詞を作る。\n\n常に弱変化のみ。\n\n例. _sövon_ 「7」 + _-ðe_ → _sövonðe_ 「7.」"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|-ðe|(ᴜ)-ð|(ᴜ)-ð|-ðan|\n|属格|-ðan|-ðan|-ðan|-ðre|\n|与格|-ðan|-ðan|-ðan|-ðum|\n|対格|-ðan|(ᴜ)-ð|-ðan|-ðan|\n\n\\* (ᴜ) は、直前の母音がウムラウトできる場合ウムラウトすることを表す。"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "異形", "entry": { "id": 186, "form": "-te" } }]
+    },
+    {
+      "entry": { "id": 43, "form": "Aisland" },
+      "tags": ["国名", "vV0.1.0", "中性"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["アイスランド"],
+          "rawForms": "アイスランド"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈaɪslɐn" },
+        {
+          "title": "説明",
+          "text": "ON : _Ísland_ （アイスランド） などからの翻訳借用。\n\n_ajs_ + _-land_"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化中性（単数のみ）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Aisland|\n|属格|Aislandes|\n|与格|Aisländ|\n|対格|Aisland|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 51, "form": "-land" } }]
+    },
+    {
+      "entry": { "id": 49, "form": "Alemännje" },
+      "tags": ["国名", "vV0.1.0", "女性"],
+      "translations": [
+        { "title": "名詞", "forms": ["ドイツ"], "rawForms": "ドイツ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɐlɤˈmɛɲə" },
+        { "title": "語源", "text": "L _Alemānnia_ 「ドイツ」" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ, 特殊）",
+          "text": "| ＼ | 単数 |\n|:--:|:---|\n| 主格 | Alemännje |\n| 属格 | Alemännjan |\n| 与格 | Alemännjan |\n| 対格 | Alemännjan |"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "人", "entry": { "id": 137, "form": "alemanne" } }
+      ]
+    },
+    {
+      "entry": { "id": 220, "form": "Azje" },
+      "tags": ["vV0.1.0", "地域名"],
+      "translations": [
+        { "title": "固有名詞", "forms": ["アジア"], "rawForms": "アジア" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɑːzjɤ" },
+        { "title": "語源", "text": "L _Āsia_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Azje|\n|属格|Azjan|\n|与格|Azjan|\n|対格|Azjan|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "人", "entry": { "id": 222, "form": "azjate" } }]
+    },
+    {
+      "entry": { "id": 71, "form": "Dämmark" },
+      "tags": ["国名", "vV0.1.0", "女性"],
+      "translations": [
+        { "title": "名詞", "forms": ["デンマーク"], "rawForms": "デンマーク" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈdɛmɐɽk" },
+        {
+          "title": "語源",
+          "text": "OE _Denemearc_ 「デンマーク」, ON _Danmǫrk_ 「デンマーク」"
+        },
+        { "title": "説明", "text": "北欧、ユトランド半島と島々にある国。" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ）",
+          "text": "| ＼ | 単数 |\n|:--:|:---|\n| 主格 | Dämmark |\n| 属格 | Dämmarkan |\n| 与格 | Dämmarkan |\n| 対格 | Dämmarkan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 219, "form": "Estland" },
+      "tags": ["vV0.1.0", "国名", "中性"],
+      "translations": [
+        {
+          "title": "固有名詞",
+          "forms": ["エストニア"],
+          "rawForms": "エストニア"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈestlɐn" },
+        { "title": "語源", "text": "OE _Ēstland_" },
+        { "title": "説明", "text": "バルト三国の最も北の国。" },
+        {
+          "title": "曲用表 ・・・ 強変化中性（単数のみ）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Estland|\n|属格|Estlandes|\n|与格|Estländ|\n|対格|Estland|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 212, "form": "Finland" },
+      "tags": ["vV0.1.0", "国名", "中性"],
+      "translations": [
+        {
+          "title": "固有名詞",
+          "forms": ["フィンランド"],
+          "rawForms": "フィンランド"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfẽːlɐn" },
+        { "title": "語源", "text": "OE _Finna land_" },
+        { "title": "説明", "text": "北欧、スカンディナヴィア半島の国。" },
+        {
+          "title": "曲用表 ・・・ 強変化中性（単数のみ）",
+          "text": "_\\-land_ も参照のこと。\n\n|＼|単数|\n|:--:|:---|\n|主格|Finland|\n|属格|Finlandes|\n|与格|Finländ|\n|対格|Finland|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 233, "form": "Frajdäģ" },
+      "tags": ["vV0.1.0", "曜日"],
+      "translations": [
+        { "title": "名詞", "forms": ["金曜日"], "rawForms": "金曜日" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfɽaɪdɛɪ" },
+        { "title": "語源", "text": "OE _frīġedæġ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_däģ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 26, "form": "däģ" } }]
+    },
+    {
+      "entry": { "id": 58, "form": "Frankrajķ" },
+      "tags": ["国名", "vV0.1.0", "中性"],
+      "translations": [
+        { "title": "名詞", "forms": ["フランス"], "rawForms": "フランス" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfɽɐŋkɽaɪɕ" },
+        {
+          "title": "説明",
+          "text": "OE _Francrīċe_ < _Franca_ 「フランク族」 + _-rīċe_ 「領域」"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化中性（単数のみ）",
+          "text": "_-rajķ_ も参照のこと。\n\n|＼|単数|\n|:--:|:---|\n|主格|Frankrajķ|\n|属格|Frankrajķes|\n|与格|Frankräjķ|\n|対格|Frankrajķ|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 57, "form": "-rajķ" } },
+        { "title": "", "entry": { "id": 206, "form": "fransuyze" } }
+      ]
+    },
+    {
+      "entry": { "id": 148, "form": "Grömburg" },
+      "tags": ["地名", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["グルンブルグ"],
+          "rawForms": "グルンブルグ"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɡɽœmbʊɽɡ" },
+        {
+          "title": "曲用表 ・・・ 子音語幹女性（単数のみ）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Grömburg|\n|属格|Grömbürģ|\n|与格|Grömbürģ|\n|対格|Grömburg|"
+        },
+        { "title": "語源", "text": "OE _grœ­̄ne_ 「緑」 + _-burg_" },
+        {
+          "title": "説明",
+          "text": "ヴェッセンランド第2の都市。\n\n農業も盛ん。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 150, "form": "Hvätstov" },
+      "tags": ["地名", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["フェットストヴ"],
+          "rawForms": "フェットストヴ"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/ˈfɛtstɔʋ/, /xʋ-/" },
+        { "title": "語源", "text": "OE _hwæ­̄te_ 「小麦」 + _stōw_ 「場所」" },
+        { "title": "説明", "text": "\nヴェッセンズランド共和国の首都。" },
+        {
+          "title": "曲用表 ・・・ 強変化女性（単数のみ）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Hvätstov|\n|属格|Hvätstöv|\n|与格|Hvätstöv|\n|対格|Hvätstöv|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 99, "form": "Ispänje" },
+      "tags": ["国名", "女性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["スペイン"], "rawForms": "スペイン" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɪsˈpɛːɲɤ" },
+        { "title": "語源", "text": "L _Hispānia,_ OE _Ispania_" },
+        { "title": "説明", "text": "西欧、イベリア半島の国。" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ, 特殊）",
+          "text": "| ＼ | 単数 |\n|:--:|:---|\n| 主格 | Ispänje |\n| 対格 | Ispänjan |\n| 属格 | Ispänjan |\n| 与格 | Ispänjan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 100, "form": "Itälje" },
+      "tags": ["国名", "女性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["イタリア"], "rawForms": "イタリア" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɪˈtɛːljɤ" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ, 特殊）",
+          "text": "| ＼ | 単数 |\n|:--:|:---|\n| 主格 | Itälje |\n| 属格 | Itäljan |\n| 与格 | Itäljan |\n| 対格 | Itäljan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 33, "form": "Japann" },
+      "tags": ["国名", "vV0.1.0", "中性"],
+      "translations": [
+        { "title": "名詞", "forms": ["日本"], "rawForms": "日本" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈjɑːpɐn" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化中性（単数のみ）",
+          "text": "| ＼ | 単数 |\n|:--:|:---|\n| 主格 | Japann |\n| 属格 | Japannes |\n| 与格 | Japänn |\n| 対格 | Japann |"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 38, "form": "japänisķ" } }]
+    },
+    {
+      "entry": { "id": 221, "form": "Jastazje" },
+      "tags": ["vV0.1.0", "地域名", "女性"],
+      "translations": [
+        { "title": "固有名詞", "forms": ["東アジア"], "rawForms": "東アジア" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈjɐst(ʔ)ɑːzjɤ" },
+        { "title": "語源", "text": "_jast_ 「東」 + _Azje_ 「アジア」" },
+        {
+          "title": "説明",
+          "text": "日本、中国、韓国などの国と地域がある、アジア東部の地域。"
+        },
+        { "title": "曲用", "text": "_Azje_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 220, "form": "Azje" } }]
+    },
+    {
+      "entry": { "id": 216, "form": "Jastrajķ" },
+      "tags": ["vV0.1.0", "国名", "男性"],
+      "translations": [
+        {
+          "title": "固有名詞",
+          "forms": ["オーストリア"],
+          "rawForms": "オーストリア"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈjɐstɽaɪɕ" },
+        {
+          "title": "語源",
+          "text": "OHG _Ōsterrīche_, あるいは L _Austria_ の翻訳借用"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性（単数のみ）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Jastrajķ|\n|属格|Jastrajķes|\n|与格|Jasträjķ|\n|対格|Jastrajķ|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "同義語", "entry": { "id": 214, "form": "Äwstrje" } }
+      ]
+    },
+    {
+      "entry": { "id": 198, "form": "Jee" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["あなたは", "あなたがたは", "あなたが", "あなたがたが"],
+          "rawForms": "あなたは, あなたがたは, あなたが, あなたがたが"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "jeː" },
+        {
+          "title": "説明",
+          "text": "2人称単数・複数敬称主格の代名詞。\n\n文中で常に語頭大文字で書く。\n\nそれ以外は2人称複数親称と同じ語形変化。"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 10, "form": "jee" } }]
+    },
+    {
+      "entry": { "id": 230, "form": "Mundäģ" },
+      "tags": ["vV0.1.0", "曜日"],
+      "translations": [
+        { "title": "名詞", "forms": ["月曜日"], "rawForms": "月曜日" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈmʊndɛɪ" },
+        { "title": "語源", "text": "OE _mōnandæġ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_däģ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 26, "form": "däģ" } }]
+    },
+    {
+      "entry": { "id": 47, "form": "Niðerlandan" },
+      "tags": ["国名", "vV0.1.0", "中性"],
+      "translations": [
+        { "title": "名詞", "forms": ["オランダ"], "rawForms": "オランダ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈniːðɤɻɭɐndõː" },
+        { "title": "語源", "text": "nl. _Nederland_ から。" },
+        {
+          "title": "説明",
+          "text": "西欧の国。\n\n通例定冠詞を伴い、複数形のみ。"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化中性（複数のみ）",
+          "text": "|＼|冠詞|複数|\n|:--:|:---|:---|\n|主格|ða|Niðerlandan|\n|属格|ðar|Niðerlande|\n|与格|ðam|Niðerlandum|\n|対格|ða|Niðerlandan|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 51, "form": "-land" } }]
+    },
+    {
+      "entry": { "id": 146, "form": "Norveģ" },
+      "tags": ["国名", "vV0.1.0", "中性"],
+      "translations": [
+        { "title": "名詞", "forms": ["ノルウェー"], "rawForms": "ノルウェー" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈnɔɽʋɛɪ" },
+        {
+          "title": "語源",
+          "text": "OE _Norþweġ_ < _norþ_ 「北」 + _weġ_ 「道」 <(翻訳借用) ON _Norðvegr_"
+        },
+        { "title": "説明", "text": "北欧、スカンディナヴィア半島の国。" },
+        {
+          "title": "曲用表 ・・・ 強変化中性（単数のみ）",
+          "text": "| ＼ | 単数 |\n|:--:|:---|\n| 主格 | Norveģ |\n| 属格 | Norveģs |\n| 与格 | Norveģ |\n| 対格 | Norveģ |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 234, "form": "Satrendzdäģ" },
+      "tags": ["vV0.1.0", "曜日"],
+      "translations": [
+        { "title": "名詞", "forms": ["土曜日"], "rawForms": "土曜日" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈsɐtɽɤn(d)zdɛɪ" },
+        { "title": "語源", "text": "OE _sæternesdæġ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_däģ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 26, "form": "däģ" } }]
+    },
+    {
+      "entry": { "id": 161, "form": "Sundäģ" },
+      "tags": ["vV0.1.0", "曜日"],
+      "translations": [
+        { "title": "名詞", "forms": ["日曜日"], "rawForms": "日曜日" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈsʊndɛɪ" },
+        { "title": "語源", "text": "OE _sunnandæġ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_däģ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 26, "form": "däģ" } }]
+    },
+    {
+      "entry": { "id": 187, "form": "Sķotland" },
+      "tags": ["vV0.1.0", "地名", "中性"],
+      "translations": [
+        {
+          "title": "固有名詞",
+          "forms": ["スコットランド"],
+          "rawForms": "スコットランド"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɬɔtlɐn" },
+        {
+          "title": "語源",
+          "text": "OE _Sċotland_ < _Sċott_ 「スコット人」 + _-land_"
+        },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_-land_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 51, "form": "-land" } }]
+    },
+    {
+      "entry": { "id": 231, "form": "Tajvzdäģ" },
+      "tags": ["vV0.1.0", "曜日"],
+      "translations": [
+        { "title": "名詞", "forms": ["火曜日"], "rawForms": "火曜日" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈtaɪʋzdɛɪ" },
+        { "title": "語源", "text": "OE _tīwesdæġ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_däģ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 26, "form": "däģ" } }]
+    },
+    {
+      "entry": { "id": 215, "form": "Tķäghje" },
+      "tags": ["国名", "vV0.1.0", "女性"],
+      "translations": [
+        { "title": "固有名詞", "forms": ["チェコ"], "rawForms": "チェコ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈt͡ɕɛxjɤ" },
+        { "title": "語源", "text": "L _Cechia_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ, 特殊）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Tķäghje|\n|属格|Tķäghjan|\n|与格|Tķäghjan|\n|対格|Tķäghjan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 262, "form": "Vuden" },
+      "tags": ["vV0.1.0", "男性", "神名"],
+      "translations": [
+        { "title": "名詞", "forms": ["オーディン"], "rawForms": "オーディン" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈʋuːdɤ̃" },
+        {
+          "title": "語源",
+          "text": "OE *Wōden* < PGmc. _\\*Wōdanaz_ から。\n\nON *Óðinn*, is. *Óðinn*, en. *Woden, Odin* などと同根。"
+        },
+        { "title": "説明", "text": "ゲルマン神話・北欧神話の神。" },
+        {
+          "title": "曲用表 ・・・ 強変化男性（単数のみ）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Vuden|\n|属格|Vudnes|\n|与格|Vüdenn|\n|対格|Vuden|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 235, "form": "Vunnezdäģ" },
+      "tags": ["vV0.1.0", "曜日"],
+      "translations": [
+        { "title": "名詞", "forms": ["水曜日"], "rawForms": "水曜日" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈʋʊnɤzdɛɪ" },
+        { "title": "語源", "text": "OE _wōdnesdæġ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_däģ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 26, "form": "däģ" } }]
+    },
+    {
+      "entry": { "id": 30, "form": "Vässenzland" },
+      "tags": ["国名", "vV0.1.0", "中性"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["ヴェッセンズラン"],
+          "rawForms": "ヴェッセンズラン"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈʋɛsɤ̃zlɐn" },
+        { "title": "語源", "text": "OE _west_ + _endes_ + _\\-land_" },
+        { "title": "説明", "text": "この言語が主に話される地域、島。" },
+        {
+          "title": "曲用表",
+          "text": "-landを参照。\n\n|＼|単数|\n|:--:|:---|\n|主格|Vässenzland|\n|属格|Vässenzlandes|\n|与格|Vässenzländ|\n|対格|Vässenzland|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 31, "form": "vessenzländisķ" } },
+        { "title": "", "entry": { "id": 51, "form": "-land" } }
+      ]
+    },
+    {
+      "entry": { "id": 213, "form": "Zvewland" },
+      "tags": ["vV0.1.0", "国名", "中性"],
+      "translations": [
+        {
+          "title": "固有名詞",
+          "forms": ["スウェーデン"],
+          "rawForms": "スウェーデン"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/ˈzʋ(j)oːlɐn/, /ˈzʋɪɔ-/" },
+        { "title": "語源", "text": "OE _Swēoland_" },
+        { "title": "説明", "text": "北欧、スカンディナヴィア半島の国。" },
+        {
+          "title": "曲用表 ・・・ 強変化中性（単数のみ）",
+          "text": "_\\-land_ も参照のこと。\n\n|＼|単数|\n|:--:|:---|\n|主格|Zvewland|\n|属格|Zvewlandes|\n|与格|Zvewländ|\n|対格|Zvewland|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "同義語", "entry": { "id": 211, "form": "Zvezje" } }
+      ]
+    },
+    {
+      "entry": { "id": 211, "form": "Zvezje" },
+      "tags": ["vV0.1.0", "国名", "女性"],
+      "translations": [
+        {
+          "title": "固有名詞",
+          "forms": ["スウェーデン"],
+          "rawForms": "スウェーデン"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈzʋeːzjɤ" },
+        { "title": "語源", "text": "L _suecia_" },
+        { "title": "説明", "text": "北欧、スカンディナヴィア半島の国。" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ, 特殊）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Zvezje|\n|属格|Zvezjan|\n|与格|Zvezjan|\n|対格|Zvezjan|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "同義語", "entry": { "id": 213, "form": "Zvewland" } }
+      ]
+    },
+    {
+      "entry": { "id": 171, "form": "after" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "接続詞", "forms": ["〜の後"], "rawForms": "〜の後" },
+        { "title": "前置詞", "forms": ["～の後"], "rawForms": "～の後" },
+        { "title": "副詞", "forms": ["後で"], "rawForms": "後で" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɐftɤɽ" },
+        { "title": "語源", "text": "OE _æfter_" },
+        { "title": "説明", "text": "" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 66, "form": "aght" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["八", "8"], "rawForms": "八, 8" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɐxʔ͡t" },
+        { "title": "語源", "text": "OE _eahta_" },
+        { "title": "説明", "text": "" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "序数詞", "entry": { "id": 181, "form": "aghtðe" } }
+      ]
+    },
+    {
+      "entry": { "id": 91, "form": "aghtdaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["八十", "80"], "rawForms": "八十, 80" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈɐxʔ͡taɪ" }],
+      "variations": [],
+      "relations": [
+        { "title": "古", "entry": { "id": 156, "form": "jynaghtdaģ" } }
+      ]
+    },
+    {
+      "entry": { "id": 78, "form": "aghtdųy" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十八", "18"], "rawForms": "十八, 18" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈɐxʔ͡tœɲ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 181, "form": "aghtðe" },
+      "tags": ["vV0.1.0", "数"],
+      "translations": [
+        { "title": "序数詞", "forms": ["8番目"], "rawForms": "8番目" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɐx(t)ðɤ" },
+        { "title": "語源", "text": "OE _eahtoþa_" },
+        { "title": "曲用", "text": "詳しくは _-ðe_ を参照。" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "基数詞", "entry": { "id": 66, "form": "aght" } }
+      ]
+    },
+    {
+      "entry": { "id": 40, "form": "ajs" },
+      "tags": ["中性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["氷"], "rawForms": "氷" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "aɪs" },
+        { "title": "語源", "text": "OE _īs_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | ajs | ajsan |\n| 属格 | ajses | ajse |\n| 与格 | äjs | ajsum |\n| 対格 | ajs | ajsan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 263, "form": "ajzenr" },
+      "tags": ["vV0.1.0", "元素", "中性"],
+      "translations": [{ "title": "名詞", "forms": ["鉄"], "rawForms": "鉄" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈaɪ.zɤ̃ɽ" },
+        {
+          "title": "語源",
+          "text": "OE _īsern_ < PWGmc. \\*_īsern_ < PGmc. \\*_īserną_ 「鉄」\n\nen. _iron_, de. _Eisen_, nl. _ijzer_ などと同根。"
+        },
+        {
+          "title": "説明",
+          "text": "26番元素。元素記号は Fe 。単体は銀白色の金属で、空気中で錆びやすい。"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "|＼|単数|複数|\n|:--:|----|----|\n|主格|ajzenr|ajzernan|\n|属格|ajzernes|ajzerne|\n|与格|äjzernn|ajzernum|\n|対格|ajzenr|ajzernan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 137, "form": "alemanne" },
+      "tags": ["vV0.1.0", "男性", "女性"],
+      "translations": [
+        { "title": "名詞", "forms": ["ドイツ人"], "rawForms": "ドイツ人" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɐlɤˈmɐnə" },
+        {
+          "title": "語源",
+          "text": "OF _allemand_ 「ドイツ人」 or L _alemannus_ 「ドイツ人の部族連合」"
+        },
+        {
+          "title": "説明",
+          "text": "単数主格のみ、男女で形が異なるが、性に拘らず男性形を使うことも多い。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化男性 / 女性",
+          "text": "| ＼ | 単数 |複数|\n|:--:|:---|:---|\n| 主格 | alemanne / alemänn |alemannan|\n| 属格 | alemannan |alemanne|\n| 与格 | alemannan |alemannum|\n| 対格 | alemannan |alemannan|"
+        }
+      ],
+      "variations": [{ "title": "女性", "form": "alemänn" }],
+      "relations": [
+        { "title": "形容詞", "entry": { "id": 50, "form": "alemännisķ" } },
+        { "title": "国名", "entry": { "id": 49, "form": "Alemännje" } }
+      ]
+    },
+    {
+      "entry": { "id": 50, "form": "alemännisķ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "形容詞", "forms": ["ドイツの"], "rawForms": "ドイツの" },
+        { "title": "名詞", "forms": ["ドイツ語"], "rawForms": "ドイツ語" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɐlɤˈmɛnɪɬ" },
+        { "title": "語源", "text": "_alemanne_ + _\\-isķ_" },
+        {
+          "title": "説明",
+          "text": "「ドイツ語」として使う場合は、定冠詞をつけ、曲用は形容詞強変化中性に準ずる。"
+        },
+        { "title": "曲用", "text": "_\\-isķ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "人", "entry": { "id": 137, "form": "alemanne" } },
+        { "title": "", "entry": { "id": 37, "form": "-isķ" } }
+      ]
+    },
+    {
+      "entry": { "id": 28, "form": "an" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "冠詞",
+          "forms": ["不定冠詞", "一つの～"],
+          "rawForms": "不定冠詞, 一つの～"
+        },
+        { "title": "数詞", "forms": ["一", "1"], "rawForms": "一, 1" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/õ(ː)/" },
+        { "title": "説明", "text": "不定冠詞の男性主格形。単数形のみにつく。" },
+        {
+          "title": "不定冠詞の曲用表",
+          "text": "| ＼ | 男性 | 中性 | 女性 |\n|:--:|:---|:---|:---|\n| 主格 | an | an | an |\n| 属格 | anes | anes | änr |\n| 与格 | anum | anum | änr |\n| 対格 | änn | an | änn |\n| 具格 \\*1 | änn | änn | änr |\n\n\\*1 具格はあまり使われず、与格を代わりに使うことが多い。"
+        }
+      ],
+      "variations": [
+        { "title": "男・中性属格形", "form": "anes" },
+        { "title": "男・中性与格形", "form": "anum" },
+        { "title": "男性対・具格, 中性具格, 女性対格形", "form": "änn" },
+        { "title": "女性属・与・具格形", "form": "änr" }
+      ],
+      "relations": [
+        { "title": "数詞について", "entry": { "id": 107, "form": "rąj" } },
+        { "title": "序数詞", "entry": { "id": 118, "form": "fyrest" } }
+      ]
+    },
+    {
+      "entry": { "id": 179, "form": "and" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "接続詞", "forms": ["と"], "rawForms": "と" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/ɐn/, /ɤn/" },
+        { "title": "語源", "text": "OE _and_" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 174, "form": "öð" } }]
+    },
+    {
+      "entry": { "id": 135, "form": "anlezķan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["統一する", "連合する", "一つに集まる"],
+          "rawForms": "統一する, 連合する, 一つに集まる"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈõ(ː)lɤʑõː" },
+        { "title": "説明", "text": "_an_ + _-lezķan_" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "anlezķan – anliaghtað – anliaghten – ģyanliaght"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスII（特殊）",
+          "text": "| ＼ |||\n|:--:|:---|:---|\n| 不定詞 | 原形 | tu |\n|| anlezķan | tu anlezķenn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| anlezķend | ģyanliaght |\n|–|||\n|動名詞|anlezķing||\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | anlezķ | anliaght |\n| 単数2人称 | anlekst | anliaghtest |\n| 単数3人称 | anlekeð | anliaght |\n| 複数 | anlezķað | anliaghtað |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | anlezķ | anliaght |\n| 複数 | anlezķen | anliaghten |\n|–|||\n| 命令法 | 単数 | 複数 |\n|| anlezķ | anlezķað |"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 28, "form": "an" } },
+        { "title": "接辞", "entry": { "id": 153, "form": "-lezķan" } }
+      ]
+    },
+    {
+      "entry": { "id": 131, "form": "annvörk" },
+      "tags": ["中性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["もの", "機械"], "rawForms": "もの, 機械" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɐnˈʋœɽk" },
+        { "title": "説明", "text": "OE _andweorc_" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | annvörk | annvörkan |\n| 属格 | annvörkes | annvörke |\n| 与格 | annvörk | annvörkum |\n| 対格 | annvörk | annvörkan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 27, "form": "apbel" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [
+        { "title": "名詞", "forms": ["リンゴ"], "rawForms": "リンゴ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɐʔ͡pl̩" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用型", "text": "強変化男性" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | apbel | apblas |\n| 属格 | apbles | apble |\n| 与格 | äpbel | apblum |\n| 対格 | apbel | apblas |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 250, "form": "axjan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["尋ねる"], "rawForms": "尋ねる" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɐksjõː" },
+        { "title": "語源", "text": "OE _ācsian_ < _āscian_ の音位転換" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "axjan – axodað – axoden - ģyaxod"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスII",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||axjan|tu axjenn|\n|–|||\n|分詞|現在|過去|\n||axjend|ģyaxod|\n|–|||\n|動名詞|axing|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|ax|axöd|\n|単数2人称|axst|axodst|\n|単数3人称|axeð|axöd|\n|複数|axjað|axodað|\n|–|||\n|接続法|現在|過去|\n|単数|ax|axöd|\n|複数|axjen|axoden|\n|–|||\n|命令法|単数|複数|\n||ax|axjað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 222, "form": "azjate" },
+      "tags": ["vV0.1.0", "男性", "女性"],
+      "translations": [
+        { "title": "名詞", "forms": ["アジア人"], "rawForms": "アジア人" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɐzˈjɑːtɤ" },
+        { "title": "語源", "text": "de. _Asiat_ etc." },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化男性 / 女性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|azjate / azjät|azjatan|\n|属格|azjatan|azjatne|\n|与格|azjatan|azjatan|\n|対格|azjatan|azjatan|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "形容詞", "entry": { "id": 223, "form": "azjätisķ" } }
+      ]
+    },
+    {
+      "entry": { "id": 223, "form": "azjätisķ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "形容詞", "forms": ["アジアの"], "rawForms": "アジアの" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɐzˈjɛːtɪɬ" },
+        { "title": "語源", "text": "_azjate_ + _\\-isķ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_\\-isķ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "地域", "entry": { "id": 220, "form": "Azje" } }]
+    },
+    {
+      "entry": { "id": 96, "form": "biljard" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["千兆", "1000000000000000"],
+          "rawForms": "千兆, 1000000000000000"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "bɪˈljɐɻɖ" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | biljard | biljardan |\n| 属格 | biljardan | biljardne |\n| 与格 | biljardan | biljardum |\n| 対格 | biljardan | biljardan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 95, "form": "biljönn" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["一兆", "1000000000000"],
+          "rawForms": "一兆, 1000000000000"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "bɪˈljœn" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | biljönn | biljonnan |\n| 属格 | biljonnan | biljonne |\n| 与格 | biljonnan | biljonnum |\n| 対格 | biljonnan | biljonnan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 16, "form": "bjon" },
+      "tags": ["コピュラ", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["コピュラ", "～である"],
+          "rawForms": "コピュラ, ～である"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "bjõː" },
+        {
+          "title": "説明",
+          "text": "英語のbe動詞、ドイツ語のsejn動詞などに相当する動詞。不規則な活用をする。\n\nコピュラは二つあり、もう一つは _väzan_ の系統である。使い分けは _väzan_ を参照。\n\n過去形は _väzan_ と同じである。"
+        },
+        {
+          "title": "活用表 ・・・ 不規則変化",
+          "text": "| ＼ |||\n|:--:|:---|:---|\n| 不定詞 | 原形 | tu |\n|| bjon | tu bjonn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| bjond | ģybjon |\n|–|||\n|動名詞|bjoing||\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | bjo | (väz) |\n| 単数2人称 | bist | (värest) |\n| 単数3人称 | bið | (väz) |\n| 複数 | bjoð | (värað) |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | (suy) | (vjar) |\n| 複数 | (suyen) | (vjaren) |\n|–|||\n| 命令法 | 単数 | 複数 |\n|| bjo | bjoð |"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 15, "form": "väzan" } }]
+    },
+    {
+      "entry": { "id": 123, "form": "buck" },
+      "tags": ["女性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["本"], "rawForms": "本" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "bʊk" },
+        { "title": "語源", "text": "OE _bōc_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 子音語幹女性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | buck | becķ |\n| 属格 | becķ | bucke |\n| 与格 | becķ | buckum |\n| 対格 | buck | becķ |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 84, "form": "burg" },
+      "tags": ["女性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["城", "町"], "rawForms": "城, 町" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "bʊɽg" },
+        { "title": "語源", "text": "OE _burg_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 子音語幹女性（特殊）",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | burg | bürģ |\n| 属格 | bürģ | burge |\n| 与格 | bürģ | burgum |\n| 対格 | burg | bürģ |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 140, "form": "byendjan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["終わらせる"], "rawForms": "終わらせる" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "by(ː)ˈend(z)jõː" },
+        { "title": "説明", "text": "_by-_ + _änd_ + _-jan_" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "byendjan – byändodað – byändoden – byändod"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスII",
+          "text": "| ＼ |||\n|:--:|:---|:---|\n| 不定詞 | 原形 | tu |\n|| byendjan | tu byendjenn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| byendjend | byändod |\n|–|||\n|動名詞|byending||\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | byend | byändöd |\n| 単数2人称 | byändest | byändodest |\n| 単数3人称 | byändeð | byändöd |\n| 複数 | byendjað | byändodað |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | byend | byändöd |\n| 複数 | byendjen | byändoden |\n|–|||\n| 命令法 | 単数 | 複数 |\n|| byänd | byendjað |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 194, "form": "bykuman" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["～になる"], "rawForms": "～になる" },
+        {
+          "title": "助動詞",
+          "forms": ["受身の助動詞"],
+          "rawForms": "受身の助動詞"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "bʏˈkuːmõː" },
+        { "title": "語源", "text": "OE _becuman_" },
+        {
+          "title": "説明",
+          "text": "「過去分詞 + _bykuman_」で、受動態を作る。\n\n例. _Ða abplas bykum fram hyr ģyeaten._ &#x2015; そのリンゴたちは彼女によって食べられた。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "bykuman – bykumað – bykumen – bykomen"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIV/V",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||bykuman|tu bykumenn|\n|–|||\n|分詞|現在|過去|\n||bykumend|bykomen|\n|–|||\n|動名詞|byküming||\n|–|||\n|直説法|現在|過去|\n|単数1人称|bykümm|bykum|\n|単数2人称|bykümst|bykumst|\n|単数3人称|bykümð|bykum|\n|複数|bykumað|bykumað|\n|–|||\n|接続法|現在|過去|\n|単数|bykümm|bykümm|\n|複数|bykumen|bykumen|\n|–|||\n|命令法|単数|複数|\n||bykum|bykumað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 105, "form": "bärstan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["破裂する"], "rawForms": "破裂する" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈbɛɽʂtõː" },
+        {
+          "title": "語源",
+          "text": "OE _berstan_ < PGmc. \\*_brestaną_ 「破裂する」 < PIE \\*_bʰres-_ 「破裂する、壊れる」 \n\nen. _burst_, nl. _bersten_ などと同根。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "bärstan – barstað – bursten – ģyborsten"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIIIb④",
+          "text": "| ＼ |||\n|:--:|:---|:---|\n| 不定詞 |原形|tu|\n|| bärstan | tu bärstenn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| bärstend | ģyborsten |\n|–|||\n|動名詞|bärsting|–|\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | bärst | barst |\n| 単数2人称 | birstest | barstest |\n| 単数3人称 | birsteð | barst |\n| 複数 | bärstað | barstað |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | bärst | burst |\n| 複数 | bärsten | bursten |\n|–|||\n| 命令法 | 単数 | 複数 |\n|| bärst | bärstað |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 104, "form": "dawvan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["潜る"], "rawForms": "潜る" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈdɑʊʋõː" },
+        { "title": "説明", "text": "OE _dūfan_" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "dawvan – djavað – duven – ģydoven"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIIb",
+          "text": "| ＼ |||\n|:--:|:---|:---|\n| 不定詞 | 原形 | tu |\n|| dawvan | tu dawvenn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| dawvend | ģydoven |\n|–|||\n|動名詞|däwving||\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | däwv | djav |\n| 単数2人称 | duyvst | djavst |\n| 単数3人称 | duyvð | djav |\n| 複数 | dawvað | djavað |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | däwv | düv |\n| 複数 | dawven | duven |\n|–|||\n| 命令法 | 単数 | 複数 |\n|| dawv | dawvað |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 190, "form": "dial" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [
+        { "title": "名詞", "forms": ["部分"], "rawForms": "部分" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "d(z)jɑːl" },
+        { "title": "語源", "text": "OE _dæ­̄l_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|dial|dialas|\n|属格|dials|diale|\n|与格|dial|dialum|\n|対格|dial|dialas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 218, "form": "disķ" },
+      "tags": ["vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["皿"], "rawForms": "皿" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "dɪɬ" },
+        { "title": "語源", "text": "OE _disċ_" },
+        {
+          "title": "説明",
+          "text": "複数形で sķ /ɬ/ → sk /sk/ となるので注意。"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化男性（特殊）",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|disķ|diskas|\n|属格|disķes|diske|\n|与格|disķ|diskum|\n|対格|disķ|diskas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 110, "form": "don" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["する"], "rawForms": "する" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈdõː" },
+        { "title": "語源", "text": "OE _dōn_" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "don – dydað – dyden – ģydon"
+        },
+        {
+          "title": "活用表 ・・・ 不規則変化",
+          "text": "| ＼ |||\n|:--:|:---|:---|\n| 不定詞 | 原形 | tu |\n|| don | tu dönn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| dönd | ģydon |\n|–|||\n|動名詞|döing||\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | do | dyd |\n| 単数2人称 | däst | dydst |\n| 単数3人称 | däð | dyd |\n| 複数 | dovað | dydað |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | do | dyd |\n| 複数 | doven | dyden |\n|–|||\n| 命令法 | 単数 | 複数 |\n|| do | dovað |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 102, "form": "drajvan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["前に進む", "強いる"],
+          "rawForms": "前に進む, 強いる"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈdɽaɪʋõː" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "drajvan – dravað – driven – ģydriven"
+        },
+        {
+          "title": "活用表 ・・・ 強変化第I類",
+          "text": "| ＼ |||\n|:--:|:---|:---|\n| 不定詞 | 原形 | tu |\n|| drajvan | tu drajvenn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| drajvend | ģydriven |\n|–|||\n|動名詞|dräjving||\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | dräjv | drav |\n| 単数2人称 | drajvst | dravest |\n| 単数3人称 | drajvð | drav |\n| 複数 | drajvað | dravað |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | dräjv | driv |\n| 複数 | drajven | driven |\n|–|||\n| 命令法 | 単数 | 複数 |\n| 単数 | drajv | drajvað |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 115, "form": "dryften" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["主", "神"], "rawForms": "主, 神" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈdɽʏftɤ̃" },
+        { "title": "語源", "text": "OE _dryhten_ 「主」" },
+        {
+          "title": "説明",
+          "text": "キリスト教における唯一神を指す。基本的に定冠詞付き語頭大文字で用いられる。\n\n"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化男性（単数のみ）",
+          "text": "| ＼ | 単数 |\n|:--:|:---|\n| 主格 | dryften |\n| 属格 | dryftnes |\n| 与格 | dryftenn |\n| 対格 | dryften |"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "一般の神", "entry": { "id": 116, "form": "godd" } }
+      ]
+    },
+    {
+      "entry": { "id": 26, "form": "däģ" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["日"], "rawForms": "日" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "dɛɪ" },
+        {
+          "title": "語源",
+          "text": "OE _dæġ_\n\nen. _day,_ de. _Tag,_ nl. _dag_ などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性（特殊）",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | däģ | dagas |\n| 属格 | däģs | dage |\n| 与格 | däģ | dagum |\n| 対格 | däģ | dagas |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 25, "form": "eatan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["食べる"], "rawForms": "食べる" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɛːtõː" },
+        { "title": "語源", "text": "OE _etan_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "eatan – eatað – eaten – ģyeaten"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIV/V（特殊）",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||eatan|tu eatenn|\n|–|||\n|分詞|現在|過去|\n||eatend|ģyeaten|\n|–|||\n|動名詞|eeting||\n|–|||\n|直説法|現在|過去|\n|単数1人称|eet|eat|\n|単数2人称|ietst|eatest|\n|単数3人称|ietð|eat|\n|複数|eatað|eatað|\n|–|||\n|接続法|現在|過去|\n|単数|eet|eet|\n|複数|eaten|eaten|\n|–|||\n|命令法|単数|複数|\n||eat|eatað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 165, "form": "ej" },
+      "tags": ["vV0.1.0", "中性"],
+      "translations": [{ "title": "名詞", "forms": ["卵"], "rawForms": "卵" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɛɪ" },
+        { "title": "説明", "text": "OE _ǣġ_" },
+        {
+          "title": "曲用表 ・・・ 強変化中性（特殊）",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|ej|ejran|\n|属格|ejs|ejre|\n|与格|ej|ejrum|\n|対格|ej|ejran|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 240, "form": "fader" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [{ "title": "名詞", "forms": ["父"], "rawForms": "父" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfɑːdɽ̍" },
+        { "title": "語源", "text": "OE _fæder_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|fader|fadras|\n|属格|fadres|fadre|\n|与格|fäder|fadrum|\n|対格|fader|fadras|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 82, "form": "fajftaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["五十", "50"], "rawForms": "五十, 50" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈfaɪftaɪ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 184, "form": "fajfte" },
+      "tags": ["vV0.1.0", "数"],
+      "translations": [
+        { "title": "序数詞", "forms": ["5番目"], "rawForms": "5番目" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfaɪftɤ" },
+        { "title": "語源", "text": "OE _fīfta_" },
+        { "title": "説明", "text": "" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "基数詞", "entry": { "id": 63, "form": "fajv" } }
+      ]
+    },
+    {
+      "entry": { "id": 75, "form": "fajftųy" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十五", "15"], "rawForms": "十五, 15" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈfaɪftœɲ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 63, "form": "fajv" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["五", "5"], "rawForms": "五, 5" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "faɪʋ" }],
+      "variations": [],
+      "relations": [
+        { "title": "序数詞", "entry": { "id": 184, "form": "fajfte" } }
+      ]
+    },
+    {
+      "entry": { "id": 113, "form": "faran" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["行く"], "rawForms": "行く" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfɑːɽõː" },
+        { "title": "語源", "text": "OE _faran_" },
+        {
+          "title": "説明",
+          "text": "- 移動系動詞の使い分け → _gan_ を参照のこと。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "faran – furað – furen – ģyfaren"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスVI",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||faran|tu farenn|\n|–|||\n|分詞|現在|過去|\n||farend|ģyfaren|\n|–|||\n|動名詞||–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|far|fur|\n|単数2人称|farst|furst|\n|単数3人称|farð|fur|\n|複数|farað|furað|\n|–|||\n|接続法|現在|過去|\n|単数|far|fur|\n|複数|faren|furen|\n|–|||\n|命令法|単数|複数|\n||far|farað|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "類義語", "entry": { "id": 112, "form": "gan" } }
+      ]
+    },
+    {
+      "entry": { "id": 55, "form": "fejr" },
+      "tags": [],
+      "translations": [
+        { "title": "形容詞", "forms": ["美しい"], "rawForms": "美しい" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "fɛɪɽ" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "| ＼ | 単数男性 | 単数中性 | 単数女性 | 複数 |\n|:--:|:---|:---|:---|:---|\n| 主格 | fejr | fejr | fejr | fejr |\n| 属格 | fejres | fejres | fejr | fejre |\n| 与格 | fejrum | fejrum | fejr | fejrum |\n| 対格 | fejren | fejr | fejr | fejr |\n| 具格\\*1 | fejr | fejr | – | – |\n\n\\*1 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "| ＼ | 単数男性 | 単数中性 | 単数女性 | 複数 |\n|:--:|:---|:---|:---|:---|\n| 主格 | fejre | fejr | fejr | fejran |\n| 属格 | fejran | fejran | fejran | fejrne |\n| 与格 | fejran | fejran | fejran | fejrum |\n| 対格 | fejran | fejr | fejran | fejran |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 62, "form": "fewr" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["四", "4"], "rawForms": "四, 4" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "fjoːɽ" }],
+      "variations": [],
+      "relations": [
+        { "title": "序数詞", "entry": { "id": 183, "form": "fewrðe" } }
+      ]
+    },
+    {
+      "entry": { "id": 81, "form": "fewrtaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["四十", "40"], "rawForms": "四十, 40" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈfjoːɻʈaɪ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 74, "form": "fewrtųy" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十四", "14"], "rawForms": "十四, 14" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈfjoːɻʈœɲ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 183, "form": "fewrðe" },
+      "tags": ["vV0.1.0", "数"],
+      "translations": [
+        { "title": "序数詞", "forms": ["4番目"], "rawForms": "4番目" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfjoːɽðɤ" },
+        { "title": "語源", "text": "OE _fēorþa_" },
+        { "title": "説明", "text": "" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 62, "form": "fewr" } }]
+    },
+    {
+      "entry": { "id": 168, "form": "fiallan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["落ちる"], "rawForms": "落ちる" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfjɐlõː" },
+        { "title": "語源", "text": "OE _feallan_" },
+        {
+          "title": "説明",
+          "text": "語幹が _l_ で終わる動詞に直説法現在3人称単数形語尾 _\\-(e)ð_ が付く際、 _\\-d_ に変わる。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "fialan – fewllað – fewllen – ģyfiallen"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスVII",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||fiallan|tu fiallenn|\n|–|||\n|分詞|現在|過去|\n||fiallend|ģyfiallen|\n|–|||\n|動名詞|fjälling||\n|–|||\n|直説法|現在|過去|\n|単数1人称|fjäll|fewll|\n|単数2人称|fyllst|fewllst|\n|単数3人称|fylld|fewll|\n|複数|fiallað|fewllað|\n|–|||\n|接続法|現在|過去|\n|単数|fjäll|fewll|\n|複数|fiallen|fewllen|\n|–|||\n|命令法|単数|複数|\n||fiall|fiallað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 199, "form": "fisķ" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [{ "title": "名詞", "forms": ["魚"], "rawForms": "魚" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "fɪɬ" },
+        { "title": "語源", "text": "OE _fisċ_" },
+        {
+          "title": "説明",
+          "text": "複数形で _sķ_ /ɬ/ → _sk_ /sʔ͡k/ となるので注意。"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化男性（特殊）",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|fisķ|fiskas|\n|属格|fisķes|fiske|\n|与格|fisķ|fiskum|\n|対格|fisķ|fiskas|"
+        }
+      ],
+      "variations": [{ "title": "複数主格", "form": "fiskas" }],
+      "relations": []
+    },
+    {
+      "entry": { "id": 108, "form": "flewgan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["飛ぶ"], "rawForms": "飛ぶ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/ˈfl(j)oːɡõː/, /ˈflɪɔ-/" },
+        { "title": "語源", "text": "OE _flēogan_" },
+        {
+          "title": "説明",
+          "text": "- 移動系動詞の使い分け\n\n_gan_ を参照のこと。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "flewgan – fliagað – flugen – ģyflogen"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIIa",
+          "text": "| ＼  |||\n|:--:|:---|:---|\n| 不定詞 | 原形 | tu |\n|| flewgan | tu flewgenn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| flewgend | ģyflogen |\n|–|||\n|動名詞|flewging||\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | flewg | fliag |\n| 単数2人称 | fluyģst | fliagst |\n| 単数3人称 | fluyģð | fliag |\n| 複数 | flewgað | fliagað |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | flewg | flug |\n| 複数 | flewgen | flugen |\n|–|||\n| 命令法 | 単数 | 複数 |\n|| flewg | flewgað |"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 112, "form": "gan" } }]
+    },
+    {
+      "entry": { "id": 130, "form": "flewgannvörk" },
+      "tags": ["vV0.1.0", "中性"],
+      "translations": [
+        { "title": "名詞", "forms": ["飛行機"], "rawForms": "飛行機" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/ˈfl(j)õːɡanˌʋœɽk/, /ˈflɪɔ-/" },
+        {
+          "title": "説明",
+          "text": "_flewgan_ 「飛ぶ」 + _annvörk_ 「機械」\n\nやや硬い言い方。"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | flewgannvörk | flewgannvörkan |\n| 属格 | flewgannvörkes | flewgannvörke |\n| 与格 | flewgannvörk | flewgannvörkum |\n| 対格 | flewgannvörk | flewgannvörkan |"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 108, "form": "flewgan" } },
+        { "title": "", "entry": { "id": 131, "form": "annvörk" } },
+        { "title": "口語的", "entry": { "id": 132, "form": "flewger" } }
+      ]
+    },
+    {
+      "entry": { "id": 132, "form": "flewger" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["飛行機"], "rawForms": "飛行機" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/ˈfl(j)oːɡɤɽ/, /ˈflɪɔ-/" },
+        {
+          "title": "説明",
+          "text": "_flewgan_ 「飛ぶ」 + _-er_ （行為者接尾辞）\n\n_flewgannvörk_ より口語的で、日常会話では専らこちらが使われる。"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | flewger | flewgras |\n| 属格 | flewgres | flewgre |\n| 与格 | flewger | flewgrum |\n| 対格 | flewger | flewgras |"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 108, "form": "flewgan" } },
+        { "title": "正式", "entry": { "id": 130, "form": "flewgannvörk" } },
+        { "title": "", "entry": { "id": 201, "form": "-er" } }
+      ]
+    },
+    {
+      "entry": { "id": 173, "form": "fnut" },
+      "tags": ["vV0.1.0", "女性"],
+      "translations": [
+        { "title": "名詞", "forms": ["ナッツ"], "rawForms": "ナッツ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "fnuːt" },
+        { "title": "語源", "text": "OE _hnutu_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 子音語幹女性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|fnut|fnüt|\n|属格|fnüt|fnute|\n|与格|fnüt|fnutum|\n|対格|fnut|fnüt|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 252, "form": "fnäkge" },
+      "tags": ["vV0.1.0", "男性", "身体"],
+      "translations": [{ "title": "名詞", "forms": ["首"], "rawForms": "首" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfnɛʔ͡kɤ" },
+        {
+          "title": "語源",
+          "text": "OE _hnecca_ < PGmc. _*hnakkô_ 「首の後部, うなじ」\n\nen. _neck,_ de. _Nacken,_ nl. _nek_ などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|fnäkge|fnäkgan|\n|属格|fnäkgan|fnäkgne|\n|与格|fnäkgan|fnäkgum|\n|対格|fnäkgan|fnäkgan|"
+        }
+      ],
+      "variations": [
+        { "title": "単数属・与・対格, 複数主・対格形", "form": "fnäkgan" },
+        { "title": "複数属格形", "form": "fnäkgne" },
+        { "title": "複数与格形", "form": "fnäkgum" }
+      ],
+      "relations": []
+    },
+    {
+      "entry": { "id": 206, "form": "fransuyze" },
+      "tags": ["vV0.1.0", "男性", "民族名"],
+      "translations": [
+        { "title": "名詞", "forms": ["フランス人"], "rawForms": "フランス人" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "fɽõːˈsœʏzɤ" },
+        { "title": "語源", "text": "OF _françois_" },
+        { "title": "説明", "text": "単数主格のみ、男女で形が異なる。" },
+        {
+          "title": "曲用表 ・・・ 弱変化男性 / 女性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|fransuyse / fransuyz|fransuyzan|\n|属格|fransuyzan|fransuyzne|\n|与格|fransuyzan|fransuyzum|\n|対格|fransuyzan|fransuyzan|"
+        }
+      ],
+      "variations": [
+        { "title": "女性単数主格形", "form": "fransuyz" },
+        { "title": "単数属・与・対格, 複数主・対格形", "form": "fransuyzan" },
+        { "title": "複数属格形", "form": "fransuyzne" },
+        { "title": "複数与格形", "form": "fransuyzum" }
+      ],
+      "relations": [
+        { "title": "国名", "entry": { "id": 58, "form": "Frankrajķ" } },
+        { "title": "形容詞", "entry": { "id": 207, "form": "fransuyzisķ" } }
+      ]
+    },
+    {
+      "entry": { "id": 207, "form": "fransuyzisķ" },
+      "tags": ["vV0.1.0", "言語名"],
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": ["フランスの"],
+          "rawForms": "フランスの"
+        },
+        { "title": "名詞", "forms": ["フランス語"], "rawForms": "フランス語" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "fɽõːˈsœʏzɪɬ" },
+        { "title": "語源", "text": "OF _françois_ + _\\-isķ_" },
+        {
+          "title": "説明",
+          "text": "「フランス語」として使うときは、定冠詞をつけ、形容詞強変化中性として曲用する。"
+        },
+        { "title": "曲用", "text": "_\\-isķ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "人", "entry": { "id": 206, "form": "fransuyze" } },
+        { "title": "", "entry": { "id": 37, "form": "-isķ" } }
+      ]
+    },
+    {
+      "entry": { "id": 245, "form": "frewnd" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["友達"], "rawForms": "友達" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/fɽ(j)oːn/, /fɽɪɔn/" },
+        { "title": "語源", "text": "OE _frēond_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 子音語幹男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|frewnd|fruynd|\n|属格|frewndes|frewnde|\n|与格|fruynd|frewndum|\n|対格|frewnd|fruynd|"
+        }
+      ],
+      "variations": [
+        { "title": "単数属格形", "form": "frewndes" },
+        { "title": "単数与格・複数主格・複数対格形", "form": "fruynd" },
+        { "title": "複数属格形", "form": "frewnde" },
+        { "title": "複数与格形", "form": "frewndum" }
+      ],
+      "relations": []
+    },
+    {
+      "entry": { "id": 208, "form": "fude" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["食べ物"], "rawForms": "食べ物" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfuːdɤ" },
+        { "title": "語源", "text": "OE _fōda_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|fude|fudan|\n|属格|fudan|fudne|\n|与格|fudan|fudum|\n|対格|fudan|fudan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 118, "form": "fyrest" },
+      "tags": ["数"],
+      "translations": [
+        { "title": "序数詞", "forms": ["1番目"], "rawForms": "1番目" },
+        {
+          "title": "形容詞",
+          "forms": ["1番目の", "最初の"],
+          "rawForms": "1番目の, 最初の"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈfyːɽɤsʔ͡t" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|fyrest|fyrest|fyrest|fyrest|\n|属格|fyrestes|fyrestes|fyrester|fyrestre|\n|与格|fyrestum|fyrestum|fyrester|fyrestum|\n|対格|fyrestenn|fyrest|fyrest|fyrest|\n|具格 \\*1|fyrest|fyrest|–|–|\n\n\\*1 具格は普通ほぼ使われず、代わりに与格が用いられる。単数女性・複数の具格は与格と常に同形である。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|fyreste|fyrest|fyrest|fyrestan|\n|属格|fyrestan|fyrestan|fyrestan|fyrestre|\n|与格|fyrestan|fyrestan|fyrestan|fyrestum|\n|対格|fyrestan|fyrest|fyrestan|fyrestan|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "基数詞", "entry": { "id": 28, "form": "an" } }]
+    },
+    {
+      "entry": { "id": 246, "form": "fótt" },
+      "tags": ["vV0.1.0", "男性", "身体"],
+      "translations": [{ "title": "名詞", "forms": ["足"], "rawForms": "足" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "fʊt" },
+        {
+          "title": "語源",
+          "text": "OE _fōt_ < PWGmc. _*fōt_ < PGmc. _*fōts_ < PIE _*pṓds_\n\nen. _foot,_ de. _Fuß,_ nl. _voet_ また L _pēs_ と同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 子音語幹男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|fótt|fett|\n|属格|fóttes|fótte|\n|与格|fett|fóttum|\n|対格|fótt|fett|"
+        }
+      ],
+      "variations": [
+        { "title": "単数属格形", "form": "fóttes" },
+        { "title": "単数与格・複数主格・複数対格形", "form": "fett" },
+        { "title": "複数属格形", "form": "fótte" },
+        { "title": "複数与格形", "form": "fóttum" }
+      ],
+      "relations": []
+    },
+    {
+      "entry": { "id": 133, "form": "förseeär" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["(機械としての)テレビ"],
+          "rawForms": "(機械としての)テレビ"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "fœɽˈseːɽ" },
+        {
+          "title": "説明",
+          "text": "eの3連続を避けるため、 _-er_ が _-är_ になっている\n\n_för_ + _seean_ + _-är_"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | förseeär | förseeras |\n| 属格 | förseers | förseere |\n| 与格 | förseeär | förseerum |\n| 対格 | förseeär | förseeras |"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 141, "form": "seean" } },
+        { "title": "", "entry": { "id": 202, "form": "-är" } }
+      ]
+    },
+    {
+      "entry": { "id": 134, "form": "försiejng" },
+      "tags": ["vV0.1.0", "女性"],
+      "translations": [
+        { "title": "名詞", "forms": ["テレビ放送"], "rawForms": "テレビ放送" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "fœɽˈsiː(ɪ)ŋ" },
+        { "title": "説明", "text": "_för_ + _seean_ + _-ing_" },
+        {
+          "title": "曲用表 ・・・ 強変化女性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | försiejng | försiejnge |\n| 属格 | försiejng | försiejnge |\n| 与格 | försiejng | försiejngum |\n| 対格 | försiejng | försiejnge |"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 141, "form": "seean" } }]
+    },
+    {
+      "entry": { "id": 112, "form": "gan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["行く"], "rawForms": "行く" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈgõː" },
+        {
+          "title": "説明",
+          "text": "- 移動系動詞の使い分け\n\n_gan_ は主に短距離・徒歩での移動に用いるのに対し、_faran_ は主に長距離・電車や車での移動に用いる。\n\n飛行機での移動は _flewgan_ を使う。"
+        },
+        {
+          "title": "活用表 ・・・ 不規則変化",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||gan|tu gänn|\n|–|||\n|分詞|現在|過去|\n||gangend|ģygangen|\n|–|||\n|動名詞|ganging||\n|–|||\n|直説法|現在|過去|\n|単数1人称|gä|ģyng|\n|単数2人称|gäst|ģyngest|\n|単数3人称|gäðð|ģyng|\n|複数|gaðð|ģyngað|\n|–|||\n|接続法|現在|過去|\n|単数|gä|ģyng|\n|複数|gan|ģyngen|\n|–|||\n|命令法|単数|複数|\n||gä|gað|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "類義語", "entry": { "id": 113, "form": "faran" } }
+      ]
+    },
+    {
+      "entry": { "id": 116, "form": "godd" },
+      "tags": ["中性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["神"], "rawForms": "神" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɡɔd" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用型", "text": "強変化中性" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|godd|goddan|\n|属格|goddes|godde|\n|与格|gödd|goddum|\n|対格|godd|goddan|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "キリスト教", "entry": { "id": 115, "form": "dryften" } }
+      ]
+    },
+    {
+      "entry": { "id": 97, "form": "gudd" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "形容詞", "forms": ["良い"], "rawForms": "良い" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "gʊd" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "| ＼ | 単数男性 | 単数中性 | 単数女性 | 複数 |\n|:--:|:---|:---|:---|:---|\n| 主格 | gudd | gudd | gudd | gudd |\n| 属格 | guddes | guddes | güdder | guddre |\n| 与格 | guddum | guddum | güdder | guddum |\n| 対格 | güddenn | gudd | güdd | gudd |\n| 具格\\*1 | güdd | güdd | – | – |\n\n\\*1 具格は通常使われず、代わりに与格が用いられる。単数女性・複数の具格は与格と常に同形である。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|gudde|güdd|güdd|guddan|\n|属格|guddan|guddan|guddan|guddne|\n|与格|guddan|guddan|guddan|guddum|\n|対格|guddan|güdd|guddan|guddan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 35, "form": "haatan" },
+      "tags": ["vV0.1.0", "古語"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["〜という名前である", "〜と呼ばれる"],
+          "rawForms": "〜という名前である, 〜と呼ばれる"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɦɑːtõː" },
+        { "title": "語源", "text": "OE _hātan_" },
+        {
+          "title": "説明",
+          "text": "ドイツ語の _heißen_ のように、名乗る時に使うが、かなり古めかしい響きになる。  \n代わりに「S *bykuwman* ~ *ģynamod*」や「S *väzan* ~」を使うことの方が多い。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "haatan – heetað – heeten – ģyhaaten"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスVII",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||haatan|tu haatenn|\n|–|||\n|分詞|現在|過去|\n||haatend|ģyhaaten|\n|–|||\n|動名詞|heating|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|heat|heet|\n|単数2人称|heatst|heetst|\n|単数3人称|heatð|heet|\n|複数|haatað|heetað|\n|–|||\n|接続法|現在|過去|\n|単数|heat|hiet|\n|複数|haaten|heeten|\n|–|||\n|命令法|単数|複数|\n||haat|haatað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 152, "form": "ham" },
+      "tags": ["男性", "強変化", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["家"], "rawForms": "家" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦõː" },
+        {
+          "title": "説明",
+          "text": "OE _hām_\n\n- _ham gan_ で「家に帰る」の意味。"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|ham|hamas|\n|属格|hames|hame|\n|与格|hämm|hamum|\n|対格|ham|hamas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 44, "form": "hand" },
+      "tags": ["女性", "vV0.1.0", "身体"],
+      "translations": [{ "title": "名詞", "forms": ["手"], "rawForms": "手" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦɐn" },
+        { "title": "語源", "text": "OE _hand_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化女性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | hand | hande |\n| 属格 | händ | hande |\n| 与格 | händ | handum |\n| 対格 | händ | hande |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 172, "form": "hapban" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["持っている", "所有している"],
+          "rawForms": "持っている, 所有している"
+        },
+        {
+          "title": "助動詞",
+          "forms": ["完了の助動詞"],
+          "rawForms": "完了の助動詞"
+        },
+        { "title": "", "forms": ["etc."], "rawForms": "etc." }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɦɐʔ͡põː" },
+        { "title": "語源", "text": "OE _habban_" },
+        {
+          "title": "説明",
+          "text": "「過去分詞 + _hapban_ or _väzan_」で完了形を作る。\n\n_hapban_ と _väzan_ どちらが使われるかは動詞に依存する。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "hapban – haddað – hadden – ģyhadd"
+        },
+        {
+          "title": "活用表 ・・・ 不規則変化",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||hapban|tu hapbenn|\n|–|||\n|分詞|現在|過去|\n||hapbend|ģyhadd|\n|–|||\n|動名詞|häpbing|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|häpb|hädd|\n|単数2人称|hast|haddest|\n|単数3人称|haðð|hädd|\n|複数|hapban|haddað|\n|–|||\n|接続法|現在|過去|\n|単数|häpb|hädd|\n|複数|hapben|hadden|\n|–|||\n|命令法|単数|複数|\n||haff|haðð|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 217, "form": "hatt" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "形容詞", "forms": ["熱い"], "rawForms": "熱い" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦɐt" },
+        { "title": "語源", "text": "OE _hāt_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|hatt|hatt|hatt|hatt|\n|属格|hattes|hattes|hätter|hattre|\n|与格|hattum|hattum|hätter|hattum|\n|対格|hättenn|hatt|hätt|hatt|\n|具格\\*1|hätte|hätte|–|–|\n\n\\*1 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|hatte|hätt|hätt|hattan|\n|属格|hattan|hattan|hattan|hattre|\n|与格|hattan|hattan|hattan|hattum|\n|対格|hattan|hätt|hattan|hattan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 14, "form": "hee" },
+      "tags": [],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["彼は", "彼が"],
+          "rawForms": "彼は, 彼が"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦeː" },
+        { "title": "説明", "text": "3人称単数男性主格の人称代名詞。" }
+      ],
+      "variations": [
+        { "title": "属格", "form": "his" },
+        { "title": "与格", "form": "hin" },
+        { "title": "対格", "form": "hinn" }
+      ],
+      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 196, "form": "hevviläjķ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "副詞",
+          "forms": ["激しく", "重く"],
+          "rawForms": "激しく, 重く"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɦeʋɪlɛɪɕ" },
+        { "title": "語源", "text": "OE _hefiġlīċe_\n\n_hävvaģ_ + _-läjķ_" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "形容詞", "entry": { "id": 197, "form": "hävvaģ" } }
+      ]
+    },
+    {
+      "entry": { "id": 12, "form": "hew" },
+      "tags": [],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["彼女は", "彼女が"],
+          "rawForms": "彼女は, 彼女が"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦjoː" },
+        { "title": "説明", "text": "3人称単数女性主格の人称代名詞。" }
+      ],
+      "variations": [
+        { "title": "属格", "form": "hyr" },
+        { "title": "与格", "form": "hyr" },
+        { "title": "対格", "form": "huy" }
+      ],
+      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 13, "form": "hit" },
+      "tags": [],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["それは", "それが"],
+          "rawForms": "それは, それが"
+        },
+        { "title": "冠詞", "forms": ["定冠詞"], "rawForms": "定冠詞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦɪt" },
+        {
+          "title": "説明",
+          "text": "3人称単数中性主格の人称代名詞。\n\nまた、単数中性主・対格の定冠詞。"
+        }
+      ],
+      "variations": [
+        { "title": "属格", "form": "his" },
+        { "title": "与格", "form": "hin" },
+        { "title": "対格", "form": "hit" }
+      ],
+      "relations": [
+        { "title": "", "entry": { "id": 2, "form": "iķ" } },
+        { "title": "", "entry": { "id": 21, "form": "sä" } }
+      ]
+    },
+    {
+      "entry": { "id": 39, "form": "hjawd" },
+      "tags": ["中性", "vV0.1.0", "身体"],
+      "translations": [{ "title": "名詞", "forms": ["頭"], "rawForms": "頭" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦjɑʊd" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | hjawd | hjawdan |\n| 属格 | hjawdes | hjawde |\n| 与格 | hjäwd | hjawdum |\n| 対格 | hjawd | hjawdan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 122, "form": "hund" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["犬"], "rawForms": "犬" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦʊn" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | hund | hundas |\n| 属格 | hundes | hunde |\n| 与格 | hünd | hundum |\n| 対格 | hund | hundas |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 87, "form": "hundred" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["百", "100"], "rawForms": "百, 100" },
+        {
+          "title": "数詞",
+          "forms": ["百二十", "120"],
+          "rawForms": "百二十, 120"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɦʊndɽɤd" },
+        {
+          "title": "説明",
+          "text": "今日では “120” としてはほとんど使われず、 _tvälftaģ_ を使う。"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "120", "entry": { "id": 94, "form": "tvälftaģ" } },
+        { "title": "古", "entry": { "id": 158, "form": "tewntaģ" } }
+      ]
+    },
+    {
+      "entry": { "id": 11, "form": "huy" },
+      "tags": [],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["彼らは", "彼らが"],
+          "rawForms": "彼らは, 彼らが"
+        },
+        { "title": "代名詞", "forms": ["彼女を"], "rawForms": "彼女を" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɦœʏ" },
+        {
+          "title": "説明",
+          "text": "三人称複数主格・対格、三人称単数女性対格の人称代名詞。"
+        }
+      ],
+      "variations": [
+        { "title": "属格", "form": "höre" },
+        { "title": "与格", "form": "hin" },
+        { "title": "対格", "form": "huy" }
+      ],
+      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 151, "form": "hva" },
+      "tags": ["vV0.1.0", "疑問詞"],
+      "translations": [
+        { "title": "代名詞", "forms": ["誰"], "rawForms": "誰" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/fɑː/, /xʋ-/" },
+        {
+          "title": "説明",
+          "text": "疑問代名詞。尋ねるものが人である場合に使う。\n\n人でない場合は（名詞の性に関わらず）_hvat_ を使う。\n\n尋ねる名詞の格に合わせて曲用する。変化形は次の通り。"
+        },
+        {
+          "title": "曲用表",
+          "text": "|＼|語形|\n|:--:|:---|\n|主格|hva|\n|属格|hvas|\n|与格|hvam|\n|対格|hvann|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "人以外", "entry": { "id": 125, "form": "hvat" } }
+      ]
+    },
+    {
+      "entry": { "id": 125, "form": "hvat" },
+      "tags": ["vV0.1.0", "疑問詞"],
+      "translations": [
+        { "title": "代名詞", "forms": ["何"], "rawForms": "何" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/fɐt/, /xʋ-/" },
+        {
+          "title": "説明",
+          "text": "疑問代名詞。尋ねるものが人以外の場合に使う。\n\n人の場合、（名詞の性に関わらず）_hva_ を使う。\n\n尋ねる名詞の格に合わせて曲用する。変化形は以下の通り。"
+        },
+        {
+          "title": "曲用表",
+          "text": "|＼|語形|\n|:--:|:---|\n|主格|hvat|\n|属格|hvas|\n|与格|hvam|\n|対格|hvat|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "人", "entry": { "id": 151, "form": "hva" } }]
+    },
+    {
+      "entry": { "id": 126, "form": "hvuy" },
+      "tags": ["vV0.1.0", "疑問詞"],
+      "translations": [
+        { "title": "副詞", "forms": ["なぜ"], "rawForms": "なぜ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/fœʏ/, /xʋ-/" },
+        { "title": "説明", "text": "理由を尋ねる。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 125, "form": "hvat" } }]
+    },
+    {
+      "entry": { "id": 106, "form": "hvörvan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["帰る", "引き返す"],
+          "rawForms": "帰る, 引き返す"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/ˈfœɽʋõː/, /xʋ-/" },
+        { "title": "語源", "text": "OE _hweorfan_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "hvörvan – hvjarvað – hvurven – ģyhvorven"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIIIb②",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||hvörvan|tu hvörvenn|\n|–|||\n|分詞|現在|過去|\n||hvörvend|ģyhvorven|\n|–|||\n|動名詞|hvörving|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|hvörv|hvjarv|\n|単数2人称|hvörvst|hvjarvst|\n|単数3人称|hvörv|hvjarv|\n|複数|hvörvað|hvjarvað|\n|–|||\n|接続法|現在|過去|\n|単数|hvörv|hvurv|\n|複数|hvörven|hvurven|\n|–|||\n|命令法|単数|複数|\n||hvörv|hvörvað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 197, "form": "hävvaģ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": ["重い", "激しい"],
+          "rawForms": "重い, 激しい"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɦɛʋaɪ" },
+        { "title": "語源", "text": "OE _hefiġ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_\\-aģ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "副詞", "entry": { "id": 196, "form": "hevviläjķ" } },
+        { "title": "", "entry": { "id": 226, "form": "-aģ" } }
+      ]
+    },
+    {
+      "entry": { "id": 119, "form": "iar" },
+      "tags": ["中性", "vV0.1.0", "身体"],
+      "translations": [{ "title": "名詞", "forms": ["耳"], "rawForms": "耳" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "jɑːɽ" },
+        { "title": "説明", "text": "OE _ēare_" },
+        {
+          "title": "曲用表 ・・・ 弱変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | iar | iaran |\n| 属格 | iaran | iarne |\n| 与格 | iaran | iarum |\n| 対格 | iaran | iaran |"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "同音異義語", "entry": { "id": 98, "form": "jaar" } }
+      ]
+    },
+    {
+      "entry": { "id": 170, "form": "iard" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["庭", "広場"], "rawForms": "庭, 広場" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "jɑːɻɖ" },
+        { "title": "語源", "text": "OE _ġeard_" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|iard|iardas|\n|属格|iardes|iarde|\n|与格|iard|iardum|\n|対格|iard|iardas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 249, "form": "in" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "前置詞",
+          "forms": ["〜の中に", "〜の中へ"],
+          "rawForms": "〜の中に, 〜の中へ"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/ɛ̃ː/, (母音の前) /ɪn/" },
+        {
+          "title": "説明",
+          "text": "大まかな傾向として、\n\n「〜の中に」「〜の中から」のように場所・移動の起点を示すときは与格支配、\n\n「〜の中へ」のように移動の目的地を示すときは対格支配。\n\nである。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 9, "form": "it" },
+      "tags": [],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["あなたたち二人は", "あなたたち二人が"],
+          "rawForms": "あなたたち二人は, あなたたち二人が"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɪt" },
+        { "title": "説明", "text": "2人称双数主格の人称代名詞。" }
+      ],
+      "variations": [
+        { "title": "属格", "form": "inker" },
+        { "title": "与格, 対格", "form": "ink" }
+      ],
+      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 2, "form": "iķ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["私は", "私が"],
+          "rawForms": "私は, 私が"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɪɕ" },
+        { "title": "説明", "text": "1人称単数主格の人称代名詞。" },
+        {
+          "title": "人称代名詞の曲用表",
+          "text": "|単数|一人称|二人称親称|二人称敬称|三人称男性|中性|女性|\n|:--:|:---|:---|:---|:---|:---|:---|\n|主格|iķ|ðaw|Jee|hee|hit|hew|\n|属格|mąj|ðąj|Jaur|his|his|hyr|\n|与格|mee|ðee|Jau|hin|hin|hyr|\n|対格|mee|ðee|Jau|hinn|hit|huy|\n\n　\n\n|双数\\*|一人称|二人称|\n|:--:|:---|:---|\n|主格|vit|it|\n|属格|unker|inker|\n|与格|unk|ink|\n|対格|unk|ink|\n\n　\n\n|複数|一人称|二人称|三人称|\n|:--:|:---|:---|:---|\n|主格|vee|jee|huy|\n|属格|äwr|jaur|höre|\n|与格|aws|jau|hin|\n|対格|aws|jau|huy|\n\n　\n\n\\* 双数はあまり使われず、代わりに複数を使うことが多い。"
+        }
+      ],
+      "variations": [
+        { "title": "属格", "form": "mąj" },
+        { "title": "与格, 対格", "form": "mee" }
+      ],
+      "relations": []
+    },
+    {
+      "entry": { "id": 242, "form": "ja" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "副詞", "forms": ["はい"], "rawForms": "はい" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "jɑː" },
+        { "title": "語源", "text": "OE _ġēa, ġǣ_" },
+        {
+          "title": "説明",
+          "text": "はい/いいえで答えられる疑問文に肯定するときに使う。\n\n「～ではないのですか？」という否定を含んだ疑問文に対して、日本語なら「いいえ」と答える場面では、英語のように肯定の単語 _ja_ を使うのではなく _ðiagh_ を使う。"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "対義語", "entry": { "id": 243, "form": "nap" } },
+        { "title": "", "entry": { "id": 244, "form": "ðiagh" } }
+      ]
+    },
+    {
+      "entry": { "id": 98, "form": "jaar" },
+      "tags": ["中性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["年"], "rawForms": "年" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "jɑːɽ" },
+        { "title": "説明", "text": "OE _ġēar_" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|jaar|jaaran|\n|属格|jaars|jaare|\n|与格|jaar|jaarum|\n|対格|jaar|jaaran|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "同音異義語", "entry": { "id": 119, "form": "iar" } }
+      ]
+    },
+    {
+      "entry": { "id": 224, "form": "jaarsal" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [
+        { "title": "名詞", "forms": ["季節"], "rawForms": "季節" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈjɑːɽʂɐl" },
+        { "title": "語源", "text": "_ġēar_ + _sǣl_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|jaarsal|jaarsalas|\n|属格|jaarsals|jaarsale|\n|与格|jaarsäl|jaarsalum|\n|対格|jaarsal|jaarsalas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 169, "form": "jalķdäģ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "副詞", "forms": ["毎日"], "rawForms": "毎日" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈjɐlɕdɛɪ" },
+        { "title": "説明", "text": "OE _ǣlċe dæġe_" },
+        { "title": "", "text": "" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 26, "form": "däģ" } }]
+    },
+    {
+      "entry": { "id": 38, "form": "japänisķ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "形容詞", "forms": ["日本の"], "rawForms": "日本の" },
+        {
+          "title": "名詞",
+          "forms": ["日本人", "日本語"],
+          "rawForms": "日本人, 日本語"
+        }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈjaːpɛnɪɬ" }],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 33, "form": "Japann" } }]
+    },
+    {
+      "entry": { "id": 10, "form": "jee" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["君たちは", "君たちが"],
+          "rawForms": "君たちは, 君たちが"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "jeː" },
+        { "title": "説明", "text": "2人称複数親称主格の人称代名詞。" }
+      ],
+      "variations": [
+        { "title": "属格", "form": "jaur" },
+        { "title": "与格, 対格", "form": "jau" }
+      ],
+      "relations": [
+        { "title": "", "entry": { "id": 2, "form": "iķ" } },
+        { "title": "", "entry": { "id": 198, "form": "Jee" } }
+      ]
+    },
+    {
+      "entry": { "id": 156, "form": "jynaghtdaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["八十", "80"], "rawForms": "八十, 80" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "jʏnˈɐxʔ͡taɪ" },
+        { "title": "", "text": "_aghtdaģ_ の古い言い方。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "新", "entry": { "id": 91, "form": "aghtdaģ" } }]
+    },
+    {
+      "entry": { "id": 157, "form": "jyną̈lftaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["百十", "110"], "rawForms": "百十, 110" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "jʏnˈɛ̃lftaɪ" },
+        { "title": "説明", "text": "_ą̈lftaģ_ の古い言い方。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "新", "entry": { "id": 93, "form": "ą̈lftaģ" } }]
+    },
+    {
+      "entry": { "id": 29, "form": "jystrędäģ" },
+      "tags": [],
+      "translations": [
+        { "title": "副詞", "forms": ["昨日"], "rawForms": "昨日" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈjʏstɽɛ̃ˌdɛɪ" }],
+      "variations": [],
+      "relations": [
+        { "title": "対義語", "entry": { "id": 53, "form": "tumorgenn" } }
+      ]
+    },
+    {
+      "entry": { "id": 41, "form": "jäģ" },
+      "tags": ["中性", "vV0.1.0", "身体"],
+      "translations": [{ "title": "名詞", "forms": ["目"], "rawForms": "目" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "jɛɪ" },
+        { "title": "語源", "text": "OE _ēage_ < PGmc. _*augô_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化中性（特殊）",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | jäģ | jagan |\n| 属格 | jagan | jagne |\n| 与格 | jagan | jagum |\n| 対格 | jäģ | jagan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 177, "form": "kardinalrąj" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["基数詞"], "rawForms": "基数詞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "kɐɻ.ɖɪn.ˈɑːl.ɽɐɲ" },
+        { "title": "語源", "text": "OF _cardinal_ + OE _rīm_" },
+        { "title": "曲用", "text": "_rąj_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 107, "form": "rąj" } }]
+    },
+    {
+      "entry": { "id": 210, "form": "katd" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [{ "title": "名詞", "forms": ["猫"], "rawForms": "猫" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "kɐʔ͡t" },
+        { "title": "語源", "text": "OE _catt_" },
+        { "title": "説明", "text": "ﾈｺと和解せよ" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|katd|katdas|\n|属格|katdes|katde|\n|与格|kätd|katdum|\n|対格|katd|katdas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 124, "form": "knörlezķan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["勉強する"], "rawForms": "勉強する" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈknœɻɭɤʑõː" },
+        { "title": "説明", "text": "OE _cneordlǣċan_\n\n_knörr_ + _-lezķan_" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "knörlezķan – knörliaghtað – knörliaghten – ģyknörliaght"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスI（特殊）",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||knörlezķan|tu knörleķenn|\n|–|||\n|分詞|現在|過去|\n||knörlezķend|ģyknörliaght|\n|–|||\n|動名詞|knörlezķing||\n|–|||\n|直説法|現在|過去|\n|単数1人称|knörlezķ|knörliaght|\n|単数2人称 |knörlekst|knörliaghtest|\n|単数3人称 |knörlekeð|knörliaght|\n|複数|knörlezķað|knörliaghtað|\n|–|||\n|接続法|現在|過去|\n|単数|knörlezķ|knörliaght|\n|複数|knörlezķen|knörliaghten|\n|–|||\n|命令法|単数|複数|\n||knörlezķ|knörlezķað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 254, "form": "kubus" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [
+        { "title": "名詞", "forms": ["立方体"], "rawForms": "立方体" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈkuːbus" },
+        {
+          "title": "語源",
+          "text": "L _cubus_ の借用。\n\nL _cubus_ < AG _κύβος_ から。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 混合変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|kubus|kuban|\n|属格|kuban|kubne|\n|与格|kuban|kubum|\n|対格|kuban|kuban|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 154, "form": "kunnan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "助動詞",
+          "forms": ["～できる", "～かもしれない"],
+          "rawForms": "～できる, ～かもしれない"
+        },
+        {
+          "title": "動詞",
+          "forms": ["～ができる", "～を知っている"],
+          "rawForms": "～ができる, ～を知っている"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈkʊnõː" },
+        {
+          "title": "語源",
+          "text": "OE _cunnan_ 「知っている, できる」 < PWGmc. _*kunnan_ < PGmc. _*kunnaną_ 「知っている, できる」  \n< PIE _*ǵn̥néh₃ti_ < _*ǵneh₃-_\n\nģyknavan 「知っている」と同じ語根からの派生とみられる。\n\nen. _can_ 「できる」, de. _können_ 「できる」, nl. _kunnen_ 「できる」などと同根。"
+        },
+        {
+          "title": "説明",
+          "text": "「原形不定詞 + _kunnan_」の形で「～できる」「～かもしれない」などの、可能・推量の意味を表す。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "kunnan – kawðað – kawðen – ģykunnd"
+        },
+        {
+          "title": "活用表 ・・・ 過去現在",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||kunnan|tu kunnenn|\n|–|||\n|分詞|現在|過去|\n||kunnend|ģykunnd|\n|–|||\n|動名詞|künning|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|kan|käwð|\n|単数2人称 |kanst|kawðest|\n|単数3人称 |kan|käwð|\n|複数|kunnað|kawðað|\n|–|||\n|接続法|現在|過去|\n|単数|künn|käwð|\n|複数|kunnen|kawðen|\n|–|||\n|命令法|単数|複数|\n||kun|kunnað|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 257, "form": "ģyknavan" } }]
+    },
+    {
+      "entry": { "id": 86, "form": "kynerajķ" },
+      "tags": ["中性", "強変化"],
+      "translations": [
+        { "title": "名詞", "forms": ["王国"], "rawForms": "王国" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈkyːnɤˌɽaɪɕ" },
+        {
+          "title": "",
+          "text": "OE _cynerīċe_ < _cyne\\-_ 「王の」 + _\\-rīċe_ 「領域」 から"
+        },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_\\-rajķ_ を参照。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 57, "form": "-rajķ" } }]
+    },
+    {
+      "entry": { "id": 19, "form": "kyning" },
+      "tags": ["男性", "強変化"],
+      "translations": [
+        { "title": "名詞", "forms": ["王", "男王"], "rawForms": "王, 男王" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈkyːnɪŋ" },
+        {
+          "title": "語源",
+          "text": "OE _cyning_ から\n\nen. _king,_ de. _König,_ nl. _koning_ と同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | kyning | kyningas |\n| 属格 | kyninges | kyninge |\n| 与格 | kyning | kyningum |\n| 対格 | kyning | kyningas |"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "女王", "entry": { "id": 20, "form": "quęy" } }]
+    },
+    {
+      "entry": { "id": 24, "form": "lajkjan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["〜  は…  が好きである"],
+          "rawForms": "〜  は…  が好きである"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈlaɪkjõː" },
+        {
+          "title": "説明",
+          "text": "好きである対象は主格、それを好きである人は与格で標示されることに注意。\n\n例. Mee lajkeð sä appel. ― 私はリンゴが好きです。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "lajkjan – lajkodað – lajkoden – ģylajkod"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスII",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||lajkjan|tu lajkjenn|\n|–|||\n|分詞|現在|過去|\n||lajkjend|ģylajkod|\n|–|||\n|動名詞|lajking||\n|–|||\n|直説法|現在|過去|\n|単数1人称|lajk|lajköd|\n|単数2人称 |lajkst|lajkodst|\n|単数3人称 |lajkeð|lajköd|\n|複数|lajkjað|lajkodað|\n|–|||\n|接続法|現在|過去|\n|単数|lajk|lajköd|\n|複数|lajkjen|lajkoden|\n|–|||\n|命令法|単数|複数|\n||lajk|lajkjað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 46, "form": "land" },
+      "tags": ["中性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["大地", "陸"], "rawForms": "大地, 陸" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "lɐn" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | land | landan |\n| 属格 | landes | lande |\n| 与格 | länd | landum |\n| 対格 | land | landan |"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 51, "form": "-land" } }]
+    },
+    {
+      "entry": { "id": 167, "form": "liav" },
+      "tags": ["vV0.1.0", "中性"],
+      "translations": [{ "title": "名詞", "forms": ["葉"], "rawForms": "葉" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ljɑːʋ" },
+        { "title": "説明", "text": "OE _lēaf_" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|liav|liavan|\n|属格|liaves|liave|\n|与格|liäv|liavum|\n|対格|liav|liavan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 23, "form": "lüvjan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["〜  は …  を愛する"],
+          "rawForms": "〜  は …  を愛する"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈlyːʋjõː" },
+        {
+          "title": "説明",
+          "text": "その人が愛する人や物が主格、それを愛する人が与格で標示され、人称は前者に一致させるので注意。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "lüvjan – luvodað – luvoden – ģyluvod"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスII",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||lüvjan|tu lüvjenn|\n|–|||\n|分詞|現在|過去|\n||lüvjend|ģyluvod|\n|–|||\n|動名詞|lüving||\n|–|||\n|直説法|現在|過去|\n|単数1人称|lüv|luvöd|\n|単数2人称|luvst|luvodst|\n|単数3人称|luvð|luvöd|\n|複数|lüvjað|luvodað|\n|–|||\n|接続法|現在|過去|\n|単数|lüv|luvöd|\n|複数|luven|luvoden|\n|–|||\n|命令法|単数|複数|\n||luv|lüvjað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 109, "form": "makjan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["作る", "～になる"],
+          "rawForms": "作る, ～になる"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈmɑːkjõː" },
+        { "title": "語源", "text": "OE _macian_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "makjan – makodað – makoden – ģymakod"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスII",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||makjan|to makjenn|\n|–|||\n|分詞|現在|過去|\n||makjend|ģymakod|\n|–|||\n|動名詞|making||\n|–|||\n|直説法|現在|過去|\n|単数1人称|mak|maköd|\n|単数2人称|makst|makodst|\n|単数3人称|makeð|maköd|\n|複数|makjað|makodað|\n|–|||\n|接続法|現在|過去|\n|単数|mak|maköd|\n|複数|makjen|makoden|\n|–|||\n|命令法|単数|複数|\n||mak|makjað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 145, "form": "maws" },
+      "tags": ["女性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["ネズミ"], "rawForms": "ネズミ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "mɑʊs" },
+        { "title": "語源", "text": "OE _mūs_\n\nen. _mouse_ と同根。" },
+        {
+          "title": "曲用表 ・・・ 子音語幹女性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | maws | muys |\n| 属格 | muys | mawse |\n| 与格 | muys | mawsum |\n| 対格 | maws | muys |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 42, "form": "mawð" },
+      "tags": ["男性", "vV0.1.0", "身体"],
+      "translations": [{ "title": "名詞", "forms": ["口"], "rawForms": "口" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "mɑʊð" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | mawð | mawðas |\n| 属格 | mawðes | mawðe |\n| 与格 | mäwð | mawðum |\n| 対格 | mawð | mawðas |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 139, "form": "maðð" },
+      "tags": ["女性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["数学"], "rawForms": "数学" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈmɐð" },
+        { "title": "説明", "text": "_maðematik_ の省略" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ）",
+          "text": "| ＼ | 単数 |\n|:--:|:---|\n| 主格 | maðð |\n| 属格 | maððan |\n| 与格 | maððan |\n| 対格 | maððan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 3, "form": "mee" },
+      "tags": [],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["私を", "私に"],
+          "rawForms": "私を, 私に"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "meː" },
+        { "title": "説明", "text": "1人称単数対格・与格の人称代名詞。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 147, "form": "mejden" },
+      "tags": ["vV0.1.0", "中性"],
+      "translations": [
+        { "title": "名詞", "forms": ["少女"], "rawForms": "少女" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈmɛɪdɤ̃" },
+        { "title": "説明", "text": "OE _mæġden_" },
+        { "title": "説明", "text": "名詞性に注意。" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | mejden | mejdenan |\n| 属格 | mejdenes | mejdene |\n| 与格 | mejdenn | mejdenum |\n| 対格 | mejden | mejdenan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 90, "form": "miljard" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["十億", "1000000000"],
+          "rawForms": "十億, 1000000000"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "mɪˈljɐɻɖ" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | miljard | miljardan |\n| 属格 | miljardan | miljardne |\n| 与格 | miljardan | miljardum |\n| 対格 | miljardan | miljardan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 89, "form": "miljönn" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["百万", "1000000"],
+          "rawForms": "百万, 1000000"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "mɪˈljœn" },
+        {
+          "title": "説明",
+          "text": "miljönnより上の数詞は名詞として扱い、格変化する。基本的に弱変化。\n\n例. _taw miljonnan katde_ 「二百万匹のネコ」"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | miljönn | miljonnan |\n| 属格 | miljonnan | miljonne |\n| 与格 | miljonnan | miljonnum |\n| 対格 | miljonnan | miljonnan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 52, "form": "morgen" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["朝"], "rawForms": "朝" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈmɔɽgɤ̃" },
+        {
+          "title": "語源",
+          "text": "OE _morgen_ から。\n\nen. _morn,_ de. _Morgen_ などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|morgen|morgnas|\n|属格|morgnes|morgne|\n|与格|morgenn|morgnum|\n|対格|morgen|morgnas|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 53, "form": "tumorgenn" } }]
+    },
+    {
+      "entry": { "id": 239, "form": "muder" },
+      "tags": ["vV0.1.0", "女性"],
+      "translations": [{ "title": "名詞", "forms": ["母"], "rawForms": "母" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "muːdɽ̍" },
+        { "title": "語源", "text": "OE _mōdor_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 不規則変化",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|muder|mudre|\n|属格|meder|mudre|\n|与格|meder|mudrum|\n|対格|muder|mudre|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 247, "form": "mune" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [{ "title": "名詞", "forms": ["月"], "rawForms": "月" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈmuːnɤ" },
+        { "title": "", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化男性",
+          "text": "|＼|単数|複数|\n|:-:|:-|:-|\n|主格|mune|munan|\n|属格|munan|mune|\n|与格|munan|munum|\n|対格|munan|munan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 264, "form": "muzeumm" },
+      "tags": ["vV0.1.0", "中性"],
+      "translations": [
+        { "title": "名詞", "forms": ["美術館"], "rawForms": "美術館" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "mʊzeːʊm" },
+        { "title": "", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化中性（特殊）",
+          "text": "|＼|単数|複数|\n|:-:|:-|:-|\n|主格|muzeumm|muzean|\n|属格|muzean|muzene|\n|与格|muzean|muzeum|\n|対格|muzean|muzean|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 228, "form": "myźel" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "副詞", "forms": ["たくさん"], "rawForms": "たくさん" },
+        { "title": "形容詞", "forms": ["たくさんの"], "rawForms": "たくさんの" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈmʏʑl̩" },
+        { "title": "語源", "text": "OE _myċel_ から\n\nen. _much_ と同根。" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 4, "form": "mąj" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "冠詞", "forms": ["私の～"], "rawForms": "私の～" },
+        { "title": "代名詞", "forms": ["私のもの"], "rawForms": "私のもの" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "mɐɲ" },
+        { "title": "説明", "text": "1人称単数属格の人称代名詞、所有冠詞。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 205, "form": "naght" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "副詞", "forms": ["否��の副詞"], "rawForms": "否��の副詞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "nɐxʔ͡t" },
+        { "title": "語源", "text": "OE _nāht_ < _nā_ + _wiht_" },
+        {
+          "title": "説明",
+          "text": "全文否定の場合は、文末に置く。\n\n&ensp;\n\n例. Hee eat jystrędäģ apblas *naght*.\n\n&#8213; 彼は昨日、リンゴを食べなかった。\n\n&ensp;\n\n部分否定の場合は、否定したい語句の前に置く。\n\n&ensp;\n\n例. Hee eat *naght* jystrędäģ apblas.\n\n&#8213; 彼は、昨日はリンゴを食べなかった。  \n（昨日「は」食べなかったなので、別の日には食べていることを示唆する。）\n\n&ensp;\n\n一部の動詞 (*väzan* etc.) は、代わりに否定語縮約動詞 (*n’äzan* etc.) を使った上、さらに *naght* を重ねることも多い。 （否定呼応）\n\n&ensp;\n\n例. Iķ *n’öm* [sä ķinuyze/säw ķinuyz] (*naght*).\n\n&#8213; 私は中国人ではありません。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 243, "form": "nap" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "副詞", "forms": ["いいえ"], "rawForms": "いいえ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "nɑːp" },
+        {
+          "title": "語源",
+          "text": "不明。OE _nā_ 「いいえ」 に強調の両唇閉鎖 _\\-p_ が付いた形か。\n\nen. _nope_ などと似たようなものかもしれない。"
+        },
+        {
+          "title": "説明",
+          "text": "はい/いいえで答える疑問文に否定で答えるときに使う。\n\n「～ではないのですか？」のような否定を含む疑問文において、日本語なら「はい」と答える場面では、英語・ドイツ語と同様に _ja_ ではなく _nap_ を使う。"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "対義語", "entry": { "id": 242, "form": "ja" } }]
+    },
+    {
+      "entry": { "id": 258, "form": "naw" },
+      "tags": ["vV0.1.0"],
+      "translations": [{ "title": "副詞", "forms": ["今"], "rawForms": "今" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "naʊ" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 164, "form": "nawðer" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["2つとも～でない"],
+          "rawForms": "2つとも～でない"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈnɑʊðɽ̍" },
+        { "title": "語源", "text": "OE _nāhwæþer, nāwþer_ から。" },
+        { "title": "", "text": "" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 92, "form": "newntaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["九十", "90"], "rawForms": "九十, 90" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈnjoːntaɪ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 79, "form": "newntųy" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十九", "19"], "rawForms": "十九, 19" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈnjoːntœɲ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 155, "form": "night" },
+      "tags": ["女性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["夜"], "rawForms": "夜" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "nɪxʔ͡t" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "注意点",
+          "text": "\\* 単数は無変化、複数は弱変化のように屈折する不規則な格変化をするので注意。"
+        },
+        {
+          "title": "曲用表 ・・・ 不規則変化",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|night|nightan|\n|属格|night|nightne|\n|与格|night|nightum|\n|対格|night|nightan|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 251, "form": "ðas nights" } }
+      ]
+    },
+    {
+      "entry": { "id": 68, "form": "nięw" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["九", "9"], "rawForms": "九, 9" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "/ˈniːjõː/, /njõː/" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 204, "form": "n’äzan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["～でない"], "rawForms": "～でない" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈnɛːzõː" },
+        {
+          "title": "語源",
+          "text": "OE _nesan_ < _ne_ (否定の副詞) + _wesan_ 「～である」"
+        },
+        {
+          "title": "説明",
+          "text": "väzan動詞の否定は、 _naght väzan_ ではなく _naght n‘äzan_ という。naghtと重ねて二重否定のようになるので注意。（フランス語の _ne … pas_ のような）\n\n活用は _väzan_ の語形に _n’_ を付けたものだが、 _v_ で始まるものは _v_ をとって _n’_ を付け、 _s_ で始まるものは _n’z_ になる。\n\n現在・過去分詞、および動名詞では使われず、通常の「*naght* + ( _väzan_ の各活用形)」が使われる。"
+        },
+        {
+          "title": "活用表 ・・・ 不規則変化",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||n’äzan|naght tu n’äzenn|\n|–|||\n|分詞|現在|過去|\n||–|–|\n|–|||\n|動名詞|–||\n|–|||\n|直説法|現在|過去|\n|単数1人称|n’öm|n’äz|\n|単数2人称|n’art|n’ärst|\n|単数3人称|n’iss|n’äz|\n|複数|n’zind|n’ärað|\n|–|||\n|接続法|現在|過去|\n|単数|n’zuy|n’jar|\n|複数|n’zuyen|n’jaren|\n|–|||\n|命令法|単数|複数|\n||n’äz|n’äzað|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 15, "form": "väzan" } }]
+    },
+    {
+      "entry": { "id": 136, "form": "on" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "前置詞",
+          "forms": ["～の上に", "～の近くに"],
+          "rawForms": "～の上に, ～の近くに"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "õ(n)" },
+        {
+          "title": "説明",
+          "text": "「〜の上にある」「～の上から」のように場所・移動の起点を示すときは与格支配、\n\n「〜の上へ」のように移動の目的地を示すときは対格支配となる。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 138, "form": "onr" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "縮約", "forms": ["on + ðiar"], "rawForms": "on + ðiar" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "õɽ" },
+        { "title": "説明", "text": "OE _on_ + _þǣre_" },
+        {
+          "title": "習慣形について",
+          "text": "onr + 動名詞 + _väzan_ で「（習慣的に）～をしている, ～の状態にある」といった意味を表す。\n\n進行形（現在分詞 + _väzan_）が短期的・一時的な動作の途中であることを表すのに対し、習慣形は長期間にわたって継続している状態や動作、習慣を表す。英語の現在完了形の継続用法のような意味である。"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 136, "form": "on" } },
+        { "title": "", "entry": { "id": 21, "form": "sä" } }
+      ]
+    },
+    {
+      "entry": { "id": 175, "form": "ouðer" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "序数詞", "forms": ["2番目"], "rawForms": "2番目" },
+        { "title": "形容詞", "forms": ["他の"], "rawForms": "他の" },
+        { "title": "代名詞", "forms": ["他のもの"], "rawForms": "他のもの" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "uːðɽ̍" },
+        { "title": "語源", "text": "OE _ōþer_" },
+        { "title": "説明", "text": "代名詞は形容詞と同じ変化。" },
+        {
+          "title": "曲用表 ・・・ 強変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|ouðer|ouðer|ouðer|ouðer|\n|属格|ouðres|ouðres|eyðer|ouðre|\n|与格|ouðrum|ouðrum|eyðer|ouðrum|\n|対格|eyðren|ouðer|eyðer|ouðer|\n|具格 \\*1|eyðer|eyðer|–|–|\n\n\\*1 具格は通常使われず、代わりに与格が用いられる。単数女性と複数の具格は常に与格と同形。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|ouðere|eyðer|eyðer|ouðran|\n|属格|ouðran|ouðran|ouðran|ouðerne|\n|与格|ouðran|ouðran|ouðran|ouðrum|\n|対格|ouðran|eyðer|ouðran|ouðran|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "基数詞", "entry": { "id": 54, "form": "tvęģ" } }
+      ]
+    },
+    {
+      "entry": { "id": 238, "form": "plawmanręj" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [
+        { "title": "名詞", "forms": ["梅雨"], "rawForms": "梅雨" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈplɑʊmõɽɛɲ" },
+        {
+          "title": "語源",
+          "text": "_pläwm_ + _ręj_\n\n日 _梅雨_ の翻訳借用。"
+        },
+        {
+          "title": "説明",
+          "text": "東アジアの広範囲で5～7月にみられる、雨や曇りの多い期間。\n\n説明的に _jastazjätisķ rejnaģ jarrsal_ や _rejnaģ jarrsal Jastazjan_ と言われることも多い。"
+        },
+        { "title": "曲用", "text": "_ręj_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 236, "form": "pläwm" } },
+        { "title": "", "entry": { "id": 237, "form": "ręj" } }
+      ]
+    },
+    {
+      "entry": { "id": 236, "form": "pläwm" },
+      "tags": ["vV0.1.0", "女性"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["梅", "セイヨウスモモ", "プラム"],
+          "rawForms": "梅, セイヨウスモモ, プラム"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/pl(j)oːm/, /plɪɔm/" },
+        { "title": "語源", "text": "OE _plūme_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ）",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|pläwm|plawman|\n|属格|plawman|plawmne|\n|与格|plawman|plawmum|\n|対格|plawman|plawman|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 20, "form": "quęy" },
+      "tags": ["女性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["女王"], "rawForms": "女王" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "kʋø̃ː" },
+        { "title": "語源", "text": "OE _cwœ̄n_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化女性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | quęy | queyne |\n| 属格 | queyn | queyne |\n| 与格 | queyn | queynum |\n| 対格 | queyn | queyne |"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "男王", "entry": { "id": 19, "form": "kyning" } }
+      ]
+    },
+    {
+      "entry": { "id": 225, "form": "rejnaģ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": ["雨の降っている", "雨がちな"],
+          "rawForms": "雨の降っている, 雨がちな"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɽɛɪnaɪ" },
+        { "title": "語源", "text": "OE _reġniġ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_\\-aģ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 226, "form": "-aģ" } }]
+    },
+    {
+      "entry": { "id": 144, "form": "rinan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["雨が降る", "降ってくる"],
+          "rawForms": "雨が降る, 降ってくる"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɽiːnõː" },
+        {
+          "title": "説明",
+          "text": "形式主語 _hit_ を用いる。しかし、副詞などを文頭に倒置した場合、_hit_ は省略できる。\n\n例. _Hit rind jystrędäģ hevviläjķ._ = _Jystrędäģ rind (hit) hevviläjķ._\n\n&#8213; 昨日は激しく雨が降った。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "rinan – rindað – rinden – ģyrind"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスI",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||rinan|tu rinenn|\n|–|||\n|分詞|現在|過去|\n||rinend|ģyrind|\n|–|||\n|動名詞|rining|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|rinn|rind|\n|単数2人称 |rinst|rindest|\n|単数3人称 |rind|rind|\n|複数|rinað|rindað|\n|–|||\n|接続法|現在|過去|\n|単数|rin|rind|\n|複数|rinen|rinden|\n|–|||\n|命令法|単数|複数|\n||rin|rinað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 107, "form": "rąj" },
+      "tags": ["vV0.1.0", "数", "中性"],
+      "translations": [
+        { "title": "名詞", "forms": ["数", "数字"], "rawForms": "数, 数字" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɽɐɲ" },
+        { "title": "語源", "text": "OE _rīm_\n\nen. _rhyme_ と同根。" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化中性（特殊）",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|rąj|rajman|\n|属格|rajmes|rajme|\n|与格|räjm|rajmum|\n|対格|rąj|rajman|"
+        },
+        {
+          "title": "基数詞表（120まで）",
+          "text": "|  | 数詞 |  | 数詞 |  | 数詞 |  | 数詞 |\n|:--:|:---|:--:|:---|:--:|:---|:--:|:---|\n| 0 | zero | 10 | tųy | 20 | tvintaģ | 30 | ðrajtaģ |\n| 1 | an | 11 | ęalöv | 21 | anandtvintaģ | 40 | fewrrtaģ |\n| 2 | tveģ | 12 | tvälv | 22 | tawandtvintaģ | 50 | fajftaģ |\n| 3 | ðrau | 13 | ðrautųy | 23 | ðrauandtvintaģ | 60 | sightaģ |\n| 4 | fewrr | 14 | fewrrtųy | 24 | fewrrandtvintaģ | 70 | söftaģ |\n| 5 | fajv | 15 | fajftųy | 25 | fajvandtvintaģ | 80 | aghtdaģ, \\*jynaghtdaģ |\n| 6 | six | 16 | sightųy | 26 | sixandtvintaģ | 90 | newntaģ |\n| 7 | sövon | 17 | söftųy | 27 | sövonandtvintaģ | 100 | hundred, \\*tewntaģ |\n| 8 | aght | 18 | aghtdųy | 28 | aghtandtvintaģ | 110 | ą̈lftaģ, \\*jyną̈lftaģ |\n| 9 | nięw | 19 | newntųy | 29 | nięwandtvintaģ | 120 | tvälftaģ, \\*hundred |\n\n\\* 古い、もしくはほとんど使われない。"
+        },
+        {
+          "title": "序数詞表（120まで）",
+          "text": "||数詞||数詞||数詞||数詞|\n|:--:|:---|:--:|:---|:--:|:---|:--:|:---|\n|0|zeroðe|10|tųyðe|20||30||\n|1|fyrest|11|ęalöfte|21||40||\n|2|ouðer|12|tvälfte|22||50||\n|3|ðritde|13||23||60||\n|4|fewrrðe|14||24||70||\n|5|fajfte|15||25||80||\n|6|sighte|16||26||90||\n|7|sövonðe|17||27||100||\n|8|aghtðe|18||28||110||\n|9|nięwðe|19||29||120||"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 28, "form": "an" } },
+        { "title": "", "entry": { "id": 176, "form": "ämbyrdlajķrąj" } },
+        { "title": "", "entry": { "id": 177, "form": "kardinalrąj" } }
+      ]
+    },
+    {
+      "entry": { "id": 237, "form": "ręj" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [{ "title": "名詞", "forms": ["雨"], "rawForms": "雨" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɽɛɲ" },
+        { "title": "語源", "text": "OE _reġn_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|ręj|rejnas|\n|属格|rejnes|rejne|\n|与格|rejn|rejnum|\n|対格|ręj|rejnas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 260, "form": "sawrbyrd" },
+      "tags": ["vV0.1.0", "女性", "元素"],
+      "translations": [
+        { "title": "名詞", "forms": ["酸素"], "rawForms": "酸素" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈsaʊɽˌbʏɻɖ" },
+        {
+          "title": "語源",
+          "text": "_sawr_ 「酸っぱい」 + _\\-byrd_\n\nfr. _oxygène_ の翻訳借用。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化女性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|sawrbyrd|sawrbyrde|\n|属格|sawrbyrd|sawrbyrde|\n|与格|sawrbyrd|sawrbyrdum|\n|対格|sawrbyrd|sawrbyrde|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 141, "form": "seean" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["見る"], "rawForms": "見る" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈseːõː" },
+        {
+          "title": "説明",
+          "text": "eの3連続を回避するために、一部語尾が変則的に e→ä となっている。"
+        },
+        { "title": "語源", "text": "OE _sēon_" },
+        {
+          "title": "活用表 ・・・ 不規則変化（強変化クラスV由来）",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||seean|tu seänn|\n|–|||\n|分詞|現在|過去|\n||seeänd|ģyseeven|\n|–|||\n|動名詞|siejng||\n|–|||\n|直説法|現在|過去|\n|単数1人称|see|siagh|\n|単数2人称|syghst|siaghst|\n|単数3人称|sygheð|siagh|\n|複数|seeð|siaghað|\n|–|||\n|接続法|現在|過去|\n|単数|see|seav|\n|複数|seeän|saaven|\n|–|||\n|命令法|単数|複数|\n||see|seeð|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 133, "form": "förseeär" } },
+        { "title": "", "entry": { "id": 134, "form": "försiejng" } }
+      ]
+    },
+    {
+      "entry": { "id": 83, "form": "sightaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["六十", "60"], "rawForms": "六十, 60" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈsɪxtaɪ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 185, "form": "sighte" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "序数詞", "forms": ["6番目"], "rawForms": "6番目" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈsɪxtɤ" },
+        { "title": "語源", "text": "OE _sixta, sesta_" },
+        { "title": "説明", "text": "変則的なので注意。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "基数詞", "entry": { "id": 64, "form": "six" } }]
+    },
+    {
+      "entry": { "id": 76, "form": "sightųy" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十六", "16"], "rawForms": "十六, 16" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈsɪxtœɲ" },
+        { "title": "語源", "text": "OE _sixtīene_" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "序数詞", "entry": { "id": 188, "form": "sightųyðe" } }
+      ]
+    },
+    {
+      "entry": { "id": 188, "form": "sightųyðe" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "序数詞", "forms": ["16番目"], "rawForms": "16番目" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈsɪxtœɲðɤ" },
+        { "title": "語源", "text": "OE _sixtēoþa_" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "基数詞", "entry": { "id": 76, "form": "sightųy" } }
+      ]
+    },
+    {
+      "entry": { "id": 64, "form": "six" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["六", "6"], "rawForms": "六, 6" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "sɪks" }],
+      "variations": [],
+      "relations": [
+        { "title": "序数詞", "entry": { "id": 185, "form": "sighte" } }
+      ]
+    },
+    {
+      "entry": { "id": 128, "form": "specializeeran" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["専攻する"], "rawForms": "専攻する" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "sʔ͡pesjɐlɪˈzeːɽõː" },
+        { "title": "説明", "text": "fr. _spécialiser_ などに由来。" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "specializeeran – specializeerdað – specializeerden – ģyspecializeerd"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスI",
+          "text": "_-eeran_ も参照のこと。\n\n|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||spcializeeran|tu spcializeerenn|\n|–|||\n|分詞|現在|過去|\n||spcializeerend|ģyspcializeerd|\n|–|||\n|動名詞|spcializeering|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|spcializeer|spcializeerd|\n|単数2人称|spcializeerst|spcializeerdst|\n|単数3人称|spcializeerð|spcializeerd|\n|複数|spcializeerað|spcializeerdað|\n|–|||\n|接続法|現在|過去|\n|単数|spcializeer|spcializeerd|\n|複数|spcializeeren|spcializeerden|\n|–|||\n|命令法|単数|複数|\n||spcializeer|spcializeerað|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 189, "form": "-eeran" } }]
+    },
+    {
+      "entry": { "id": 143, "form": "spräckan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["話す"], "rawForms": "話す" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "sʔ͡pɽɛkõː" },
+        {
+          "title": "語源",
+          "text": "OE : _sprecan_\n\nen. _speak,_ de. _sprechen_ 等と同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "spräckan – sprackað – spräcken – ģysprocken"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIV/V",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||spräckan|tu spräckenn|\n|–|||\n|分詞|現在|過去|\n||spräckend|ģysprocken|\n|–|||\n|動名詞|spräcking||\n|–|||\n|直説法|現在|過去|\n|単数1人称|spräck|sprack|\n|単数2人称|sprickst|sprackst|\n|単数3人称|sprickeð|sprack|\n|複数|spräckað|sprackað|\n|–|||\n|接続法|現在|過去|\n|単数|spräck|spräck|\n|複数|spräcken|spräcken|\n|–|||\n|命令法|単数|複数|\n||spräck|spräckað|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 8, "form": "spräcķ" } }]
+    },
+    {
+      "entry": { "id": 8, "form": "spräcķ" },
+      "tags": ["女性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["言語"], "rawForms": "言語" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "sʔ͡pɽɛɕ" },
+        {
+          "title": "曲用表 ・・・ 強変化女性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | spräcķ | spräcķe |\n| 属格 | sprecķ | spräcķe |\n| 与格 | sprecķ | spräcķum |\n| 対格 | sprecķ | spräcķe |"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 143, "form": "spräckan" } }]
+    },
+    {
+      "entry": { "id": 59, "form": "state" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["場所", "州"], "rawForms": "場所, 州" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "sʔ͡taːtɤ" },
+        { "title": "語源", "text": "L _status_" },
+        {
+          "title": "曲用表 ・・・ 弱変化男性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | state | statan |\n| 属格 | statan | statne |\n| 与格 | statan | statum |\n| 対格 | statan | statan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 127, "form": "stydjeeran" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["研究する"], "rawForms": "研究する" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "sʔ͡tʏd(z)ˈjeːɽõː" },
+        { "title": "語源", "text": "OF _estudier_ 「勉強する」" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "stydjeeran – stydjeerdað – stydjeerden – ģystydjeerd"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスI",
+          "text": "_\\-eeran_ も参照のこと。\n\n|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||stydjeeran|tu stydjeerenn|\n|–|||\n|分詞|現在|過去|\n||stydjeerend|ģystydjeerd|\n|–|||\n|動名詞|stydjeering||\n|–|||\n|直説法|現在|過去|\n|単数1人称|stydjeer|stydjeerd|\n|単数2人称|stydjeerst|stydjeerdst|\n|単数3人称|stydjeerð|stydjeerd|\n|複数|stydjeerað|stydjeerdað|\n|–|||\n|接続法|現在|過去|\n|単数|stydjeer|stydjeerd|\n|複数|stydjeeren|stydjeerden|\n|–|||\n|命令法|単数|複数|\n||stydjeer|stydjeerað|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 189, "form": "-eeran" } }]
+    },
+    {
+      "entry": { "id": 21, "form": "sä" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "冠詞",
+          "forms": ["その", "定冠詞"],
+          "rawForms": "その, 定冠詞"
+        },
+        { "title": "指示代名詞", "forms": ["あれ"], "rawForms": "あれ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "sɛː" },
+        {
+          "title": "説明",
+          "text": "定冠詞。\n\n名詞の性・数・格に応じて曲用する。具体的な形は以下の通り。"
+        },
+        {
+          "title": "曲用表",
+          "text": "| ＼ | 単数男性 | 単数女性 | 単数中性 | 複数 |\n|:--:|:---|:---|:---|:---|\n| 主格 | sä | säw | hit | ða |\n| 属格 | ðas | ðiar | ðas | ðar |\n| 与格 | ðam | ðiar | ðam | ðam |\n| 対格 | ðynn | ða | hit | ða |\n| 具格\\*1 | ðuy |–| ðuy |–|\n\n\\*1 具格はあまり使われず、与格を代わりに使うことが多い。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 101, "form": "säcķan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["言う"], "rawForms": "言う" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈsɛɕõː" },
+        { "title": "語源", "text": "OE _sæċġan_" },
+        {
+          "title": "活用表 ・・・ 不規則変化（弱変化クラスIII由来）",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||säcķan|tu säcķenn|\n|–|||\n|分詞|現在|過去|\n||säcķend|ģysäģd|\n|–|||\n|動名詞|secķing||\n|–|||\n|直説法|現在|過去|\n|単数1人称|secķ|säģd|\n|単数2人称|säcķest|säģdest|\n|単数3人称|säcķeð|säģd|\n|複数|säcķað|säģdað|\n|–|||\n|接続法|現在|過去|\n|単数|secķ|säģd|\n|複数|säcķen|säģden|\n|–|||\n|命令法|単数|複数|\n||säcķ|säcķað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 85, "form": "söftaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["七十", "70"], "rawForms": "七十, 70" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈsœftaɪ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 77, "form": "söftųy" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十七", "17"], "rawForms": "十七, 17" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈsœftœɲ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 65, "form": "sövon" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["七", "7"], "rawForms": "七, 7" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈsøːʋõː" }],
+      "variations": [],
+      "relations": [
+        { "title": "序数詞", "entry": { "id": 192, "form": "sövonðe" } }
+      ]
+    },
+    {
+      "entry": { "id": 192, "form": "sövonðe" },
+      "tags": ["vV0.1.0", "数"],
+      "translations": [
+        { "title": "序数詞", "forms": ["7.", "7番目"], "rawForms": "7., 7番目" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈsøːʋõðɤ" },
+        {
+          "title": "語源",
+          "text": "OE _sēofoþa_\n\n基数詞からの類推により鼻母音が追加。"
+        },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_-ðe_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 182, "form": "-ðe" } },
+        { "title": "基数詞", "entry": { "id": 65, "form": "sövon" } }
+      ]
+    },
+    {
+      "entry": { "id": 162, "form": "sķadev" },
+      "tags": ["vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["影"], "rawForms": "影" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɬɑːdɤʋ" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化女性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|sķadev|sķadve|\n|属格|sķädev|sķadve|\n|与格|sķädev|sķadvum|\n|対格|sķädev|sķadve|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 114, "form": "sķavrod" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["主", "領主"], "rawForms": "主, 領主" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɬaʋɽɔd" },
+        { "title": "語源", "text": "OE _hlāford_" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | sķavrod | sķavrodas |\n| 属格 | sķavrodes | sķavrode |\n| 与格 | sķavröd | sķavrodum |\n| 対格 | sķavrod | sķavrodas |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 48, "form": "sķipp" },
+      "tags": ["中性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["船"], "rawForms": "船" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɬɪp" },
+        { "title": "語源", "text": "OE _sċip_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | sķipp | sķippan |\n| 対格 | sķipp | sķippan |\n| 属格 | sķippes | sķippe |\n| 与格 | sķipp | sķippum |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 142, "form": "sķyghan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["笑う"], "rawForms": "笑う" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɬʏxõː" },
+        {
+          "title": "語源",
+          "text": "OE _hliehhan_\n\nen. _laugh,_ de. _lachen_ などと同根。"
+        },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "sķyghan – sķughað – sķugen – ģysķäģen"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスVI（特殊）",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||sķyghan|tu sķyghenn|\n|–|||\n|分詞|現在|過去|\n||sķyghend|ģysķäģen|\n|–|||\n|動名詞|sķyghing||\n|–|||\n|直説法|現在|過去|\n|単数1人称|sķygh|sķugh|\n|単数2人称|sķyghst|sķughst|\n|単数3人称|sķygheð|sķugh|\n|複数|sķyghað|sķughað|\n|–|||\n|接続法|現在|過去|\n|単数|sķygh|sķug|\n|複数|sķyghen|sķugen|\n|–|||\n|命令法|単数|複数|\n||sķygh|sķyghað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 261, "form": "sķyznan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["聞く"], "rawForms": "聞く" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɬʏznõː" },
+        { "title": "語源", "text": "OE _hlysnan_「聞く」" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "活用表 ・・・ 弱変化クラスI",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||sķyznan|tu sķyznenn|\n|–|||\n|分詞|現在|過去|\n||sķyznend|ģysķyznd|\n|–|||\n|動名詞|sķyzning|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|sķyznn|sķyzned|\n|単数2人称|sķyznest|sķyznedst|\n|単数3人称|sķyzneð|sķyzned|\n|複数|sķyznað|sķyznedað|\n|–|||\n|接続法|現在|過去|\n|単数|sķyznn|sķyzned|\n|複数|sķyznað|sķyznedað|\n|–|||\n|命令法|単数|複数|\n||sķyznn|sķyznað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 248, "form": "takan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["〜を持っていく", "把握する"],
+          "rawForms": "〜を持っていく, 把握する"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈtɑːkõː" },
+        { "title": "語源", "text": "OE _tacan_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "takan – tukað – tuken – ģytaken"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスVI",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||takan|tu takenn|\n|–|||\n|分詞|現在|過去|\n||takend|ģytaken|\n|–|||\n|動名詞|taking|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|tak|tuk|\n|単数2人称|takst|tukst|\n|単数3人称|takeð|tuk|\n|複数|takað|tukað|\n|–|||\n|接続法|現在|過去|\n|単数|tak|tuk|\n|複数|taken|tuken|\n|–|||\n|命令法|単数|複数|\n||tak|takað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 193, "form": "tewghan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["引っ張る", "～をもたらす"],
+          "rawForms": "引っ張る, ～をもたらす"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈt(s)joːxõː" },
+        { "title": "語源", "text": "OE _tēon_" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "tewghan – tiaghað – tugen – ģytogen"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIIa",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||tewghan|tu tewghenn|\n|–|||\n|分詞|現在|過去|\n||tewghend|ģytogen|\n|–|||\n|動名詞|tewghing||\n|–|||\n|直説法|現在|過去|\n|単数1人称|tewgh|tiagh|\n|単数2人称|tuyghst|tiaghst|\n|単数3人称|tuyghð|tiagh|\n|複数|tewghað|tiaghað|\n|–|||\n|接続法|現在|過去|\n|単数|tewgh|tüg|\n|複数|tewghen|tugen|\n|–|||\n|命令法|単数|複数|\n||tewgh|tewghað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 158, "form": "tewntaģ" },
+      "tags": ["数", "vV0.1.0", "古語"],
+      "translations": [
+        { "title": "数詞", "forms": ["百", "100"], "rawForms": "百, 100" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈt(s)joːntaɪ" },
+        { "title": "語源", "text": "OE _hundtēontiġ_" },
+        { "title": "説明", "text": "_hundred_ の古い言い方。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "新", "entry": { "id": 87, "form": "hundred" } }]
+    },
+    {
+      "entry": { "id": 34, "form": "tudäģ" },
+      "tags": [],
+      "translations": [
+        { "title": "副詞", "forms": ["今日"], "rawForms": "今日" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "tʊˈdɛɪ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 53, "form": "tumorgenn" },
+      "tags": [],
+      "translations": [
+        { "title": "副詞", "forms": ["明日"], "rawForms": "明日" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "tʊˈmɔɽɡɤn" }],
+      "variations": [],
+      "relations": [
+        { "title": "対義語", "entry": { "id": 29, "form": "jystrędäģ" } }
+      ]
+    },
+    {
+      "entry": { "id": 73, "form": "tvintaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["二十", "20"], "rawForms": "二十, 20" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈtʋɪntaɪ" },
+        { "title": "語源", "text": "OE _twēntiġ_" },
+        {
+          "title": "説明",
+          "text": "名詞の直前に20以上の数詞が付く場合、その名詞は複数属格形となる。\n\nしかし、属格, 与格支配の前置詞が付いている場合は別。\n\n8個のリンゴ : _aght apblas_\n\n24個のリンゴ : _fewrrandtvintaģ apble_"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 94, "form": "tvälftaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "数詞",
+          "forms": ["百二十", "120"],
+          "rawForms": "百二十, 120"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈtʋɛlftaɪ" },
+        { "title": "語源", "text": "OE _hundtwelftiġ_" },
+        {
+          "title": "注意点",
+          "text": "121–129は、20–90の数詞と同様に、「1の位 + _andtvälftaģ_」 と表す。\n\n例. 「126」 _siksandtvälftaģ_"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "古", "entry": { "id": 87, "form": "hundred" } }]
+    },
+    {
+      "entry": { "id": 70, "form": "tvälv" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十二", "12"], "rawForms": "十二, 12" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "tʋɛlʋ" },
+        { "title": "語源", "text": "OE _twelf_" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 54, "form": "tvęģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["二", "2"], "rawForms": "二, 2" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "tʋɛɲ" },
+        {
+          "title": "備考",
+          "text": "単de.で使う場合は _tvęģ_ となる。\n\n名詞に付く際は性によって変化する。\n\nただし、他の数詞が後に来るときは、どの性の名詞に対しても _taw_ を使う。\n\n&ensp;\n\n\n例.\n\n_taw ðawzend hunde_ &#8213; 2000匹の犬\n\nvs.\n\n_ðawzend tvęġ hundas_ &#8213; 1002匹の犬"
+        },
+        {
+          "title": "曲用表",
+          "text": "|男性|中性|女性|\n|:--:|:--:|:--:|\n|tvęģ|taw|tva|"
+        }
+      ],
+      "variations": [
+        { "title": "女性形", "form": "tva" },
+        { "title": "中性形", "form": "taw" }
+      ],
+      "relations": [
+        { "title": "", "entry": { "id": 107, "form": "rąj" } },
+        { "title": "序数詞", "entry": { "id": 175, "form": "ouðer" } }
+      ]
+    },
+    {
+      "entry": { "id": 253, "form": "tässerakte" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["4次元超立方体", "正8胞体", "テッセラクト"],
+          "rawForms": "4次元超立方体, 正8胞体, テッセラクト"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈtɛsɤɽɐktɤ" },
+        { "title": "語源", "text": "en. _tesseract_ からの借用。" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|tässerakte|tässeraktan|\n|属格|tässeraktan|tässeraktne|\n|与格|tässeraktan|tässeraktum|\n|対格|tässeraktan|tässeraktan|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 200, "form": "tąulewðer" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [
+        { "title": "名詞", "forms": ["作曲家"], "rawForms": "作曲家" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈtõːljoːðɤɽ" },
+        {
+          "title": "語源",
+          "text": "OF _ton_ 「音」 + OE _lēoþ_ 「詩」 + _\\-er_"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "_-er_ も参照のこと。\n\n|＼|単数|複数|\n|:--:|:---|:---|\n|主格|tąulewðer|tąulewðras|\n|属格|tąulewðres|tąulewðre|\n|与格|tąulewðer|tąulewðrum|\n|対格|tąulewðer|tąulewðer|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 201, "form": "-er" } }]
+    },
+    {
+      "entry": { "id": 67, "form": "tųy" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十", "10"], "rawForms": "十, 10" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "tœɲ" },
+        { "title": "語源", "text": "OE _tīen_" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 241, "form": "uyland" },
+      "tags": ["vV0.1.0", "中性"],
+      "translations": [{ "title": "名詞", "forms": ["島"], "rawForms": "島" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈœʏlɐn" },
+        {
+          "title": "語源",
+          "text": "OE _īeġland_ < _īeġ_ 「島」 + _land_ 「大地」 < ゲ祖 _*awjō_\n\nen. _island_ と同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|uyland|uylandas|\n|属格|uylandes|uylande|\n|与格|uyländ|uylandum|\n|対格|uyland|uylandas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 259, "form": "vaterbyrd" },
+      "tags": ["vV0.1.0", "女性", "元素"],
+      "translations": [
+        { "title": "名詞", "forms": ["水素"], "rawForms": "水素" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈʋɑːtɤɽˌbʏɻɖ" },
+        {
+          "title": "語源",
+          "text": "_vater_ 「水」 + _\\-byrd_ （元素名の接尾辞 \\< OE ġebyrd「誕生」の略形）\n\nfr. _hydrogène_ の翻訳借用。\n"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化女性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|vaterbyrd|vaterbyrde|\n|属格|vaterbyrd|vaterbyrde|\n|与格|vaterbyrd|vaterbyrdum|\n|対格|vaterbyrd|vaterbyrde|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 7, "form": "vee" },
+      "tags": [],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["私たちは", "私たちが"],
+          "rawForms": "私たちは, 私たちが"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ʋeː" },
+        { "title": "説明", "text": "1人称複数主格の人称代名詞。" }
+      ],
+      "variations": [
+        { "title": "属格", "form": "äwr" },
+        { "title": "与格, 対格", "form": "aws" }
+      ],
+      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 31, "form": "vessenzländisķ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": ["ヴェッセンズランの"],
+          "rawForms": "ヴェッセンズランの"
+        },
+        {
+          "title": "名詞",
+          "forms": ["ヴェッセンズラン人", "ヴェッセンズラン語"],
+          "rawForms": "ヴェッセンズラン人, ヴェッセンズラン語"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈʋɛsɤ̃zˌlɛndɪɬ" },
+        { "title": "曲用", "text": "_-isķ_ を参照。" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 30, "form": "Vässenzland" } },
+        { "title": "接辞", "entry": { "id": 37, "form": "-isķ" } }
+      ]
+    },
+    {
+      "entry": { "id": 129, "form": "veģ" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [{ "title": "名詞", "forms": ["道"], "rawForms": "道" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "ʋɛɪ" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性（特殊）",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | veģ | vegas |\n| 属格 | veģs | vege |\n| 与格 | veģ | vegum |\n| 対格 | veģ | vegas |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 120, "form": "vilkumenn" },
+      "tags": [],
+      "translations": [
+        { "title": "間投詞", "forms": ["ようこそ"], "rawForms": "ようこそ" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈʋɪlkuːmn̩" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 121, "form": "viltdjor" },
+      "tags": ["中性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["動物"], "rawForms": "動物" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˌʋɪlˈʔ͡tjɔɽ" },
+        { "title": "語源", "text": "OE _wilddēor_ 「野生動物」" },
+        {
+          "title": "説明",
+          "text": "「野生動物」と言うときは _vild viltdjor_ や形容詞を名詞化して _ðat vild_ 等のようにする。"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | viltdjor | viltdjoran |\n| 属格 | viltdjors | viltdjore |\n| 与格 | viltdjor | viltdjorum |\n| 対格 | viltdjor | viltdjoran |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 5, "form": "vit" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["私たち二人は", "私たち二人が"],
+          "rawForms": "私たち二人は, 私たち二人が"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ʋɪt" },
+        { "title": "説明", "text": "1人称双数主格の人称代名詞。" }
+      ],
+      "variations": [
+        { "title": "属格", "form": "unker" },
+        { "title": "与格, 対格", "form": "unk" }
+      ],
+      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 17, "form": "vyrķan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["仕事をする", "作る", "機能する"],
+          "rawForms": "仕事をする, 作る, 機能する"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈʋʏɽɕõː" },
+        { "title": "語源", "text": "OE _wyrċan_" },
+        { "title": "説明", "text": "音位転換によりvor-がvro-となっている。" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "vyrķan – vroghtað – vroghten – ģyvroght"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスI（特殊）",
+          "text": "| ＼ |||\n|:--:|:---|:---|\n| 不定詞 | 原形 | tu |\n|| vyrķan | tu vyrķenn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| vyrķend | ģyvroght |\n|–|||\n|動名詞|vyrķing|–|\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | vyrķ | vroght |\n| 単数2人称 | vyrkst | vroghtest |\n| 単数3人称 | vyrkð | vroght |\n| 複数 | vyrķað | vroghtað |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | vyrķ | vroght |\n| 複数 | vyrķen | vroghten |\n|–|||\n| 命令法 | 単数 | 複数 |\n|| vyrķ | vyrķað |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 18, "form": "värk" },
+      "tags": ["中性", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["仕事", "作品", "機能"],
+          "rawForms": "仕事, 作品, 機能"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ʋɛɽk" },
+        { "title": "説明", "text": "OE _weorc_" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "| ＼ | 単数 | 複数 |\n|:--:|:---|:---|\n| 主格 | värk | värkan |\n| 属格 | värkes | värke |\n| 与格 | verk | värkum |\n| 対格 | värk | värkan |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 15, "form": "väzan" },
+      "tags": ["vV0.1.0", "コピュラ"],
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": ["コピュラ", "～である"],
+          "rawForms": "コピュラ, ～である"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈʋɛːzõː" },
+        {
+          "title": "説明",
+          "text": "英語のbe動詞、ドイツ語のsein動詞などに相当する動詞。不規則な活用をする。\n\nコピュラは二つあり、もう一つは _bjon_ の系統である。\n\n\n\n"
+        },
+        {
+          "title": "väzan と bjon の使い分け",
+          "text": "一時的なこと、現在そうであることを言うときは _väzan_ を、ずっと変わらないことや未来そうであることを言うときは _bjon_ を使う。"
+        },
+        {
+          "title": "活用表 ・・・ 不規則変化",
+          "text": "| ＼ |||\n|:--:|:---|:---|\n| 不定詞 | 原形 | tu |\n|| väzan | tu väzenn |\n|–|||\n| 分詞 | 現在 | 過去 |\n|| väzend | ģyväzen |\n|–|||\n|動名詞|vezing||\n|–|||\n| 直説法 | 現在 | 過去 |\n| 単数1人称 | öm | väz |\n| 単数2人称 | art | värst |\n| 単数3人称 | iss | väz |\n| 複数 | sind | värað |\n|–|||\n| 接続法 | 現在 | 過去 |\n| 単数 | suy | vjar |\n| 複数 | suyað | vjaren |\n|–|||\n| 命令法 | 単数 | 複数 |\n|| väz | väzað |"
+        }
+      ],
+      "variations": [
+        { "title": "直説法現在1人称単数形", "form": "öm" },
+        { "title": "直説法現在2人称単数形", "form": "art" },
+        { "title": "直説法現在3人称単数形", "form": "iss" },
+        { "title": "直説法現在双数・複数形", "form": "sind" }
+      ],
+      "relations": [{ "title": "", "entry": { "id": 16, "form": "bjon" } }]
+    },
+    {
+      "entry": { "id": 255, "form": "vörpan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["投げる"], "rawForms": "投げる" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈʋœɽpõː" },
+        {
+          "title": "語源",
+          "text": "OE _weorpan_ 「投げる」 < PGmc. _*werpaną_ 「投げる」\n\nen. _warp_ 「捩じる, 捩れる」, de. _werfen_ 「投げる」, nl. _werpen_ 「投げる」などと同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "vörpan – vjarpað – vurpen – ģyvorpen"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIIIb②",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||vörpan|tu vörpenn|\n|–|||\n|分詞|現在|過去|\n||vörpend|ģyvorpen|\n|–|||\n|動名詞|vörping|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|vörp|vjarp|\n|単数2人称|vyrpst|vjarpst|\n|単数3人称|vyrpeð|vjarp|\n|複数|vörpað|vjarpað|\n|–|||\n|接続法|現在|過去|\n|単数|vörp|vurp|\n|複数|vörpen|vurpen|\n|–|||\n|命令法|単数|複数|\n||vörp|vörpað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 229, "form": "xylophon" },
+      "tags": ["vV0.1.0", "男性"],
+      "translations": [
+        { "title": "名詞", "forms": ["シロフォン"], "rawForms": "シロフォン" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈksyːlɔfõː" },
+        { "title": "", "text": "" },
+        { "title": "", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|xylophon|xylophonas|\n|属格|xylophones|xylophone|\n|与格|xylophönn|xylophonum|\n|対格|xylophon|xylophonas|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 117, "form": "zero" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["0", "零"], "rawForms": "0, 零" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈzeːɽɔ" },
+        { "title": "説明", "text": "fr.語 _zéro_ から。" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 166, "form": "zveepan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["掃く"], "rawForms": "掃く" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈzʋeːpõː" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "zveepan – zveeptað – zveepten – ģyzveept"
+        },
+        {
+          "title": "活用表 ・・・ 弱変化クラスI",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||zveepan|tu zveepenn|\n|–|||\n|分詞|現在|過去|\n||zveepend|ģyzveept|\n|–|||\n|動名詞|zvieping||\n|–|||\n|直説法|現在|過去|\n|単数1人称|zviep|zviept|\n|単数2人称|zveepst|zveeptest|\n|単数3人称|zveepeð|zviept|\n|複数|zveepað|zveeptað|\n|–|||\n|接続法|現在|過去|\n|単数|zviep|zviept|\n|複数|zveepen|zveepten|\n|–|||\n|命令法|単数|複数|\n||zveep|zveepað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 265, "form": "zvimman" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["泳ぐ"], "rawForms": "泳ぐ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈzʋɪmõː" },
+        { "title": "語源", "text": "" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "活用表",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|主格|与格|\n||<>|tu |\n|–|||\n|分詞|現在|過去|\n||<>|<>|\n|–|||\n|動名詞|<>|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|<>|<>|\n|単数2人称|<>|<>|\n|単数3人称|<>|<>|\n|複数|<>|<>|\n|–|||\n|接続法|現在|過去|\n|単数|<>|<>|\n|複数|<>|<>|\n|–|||\n|命令法|単数|複数|\n||<>|<>|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 32, "form": "Ängland" },
+      "tags": ["国名", "vV0.1.0", "中性"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["イングランド", "イギリス"],
+          "rawForms": "イングランド, イギリス"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɛŋlan" },
+        {
+          "title": "説明",
+          "text": "グレートブリテン島南部にある王国。あるいはそれが構成している連合王国を指す。"
+        },
+        {
+          "title": "語源",
+          "text": "OE _Engla_ 「アングル人」 + _land_ 「土地」"
+        },
+        {
+          "title": "曲用表 ・・・ 強変化中性（単数のみ）",
+          "text": "_-land_ も参照のこと。\n\n|＼|単数|\n|:--:|:---|\n|主格|Ängland|\n|属格|Änglandes|\n|与格|Ängländ|\n|対格|Ängland|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 1, "form": "änglisķ" } },
+        { "title": "", "entry": { "id": 51, "form": "-land" } },
+        { "title": "", "entry": { "id": 203, "form": "ängel" } }
+      ]
+    },
+    {
+      "entry": { "id": 214, "form": "Äwstrje" },
+      "tags": ["vV0.1.0", "国名", "女性"],
+      "translations": [
+        {
+          "title": "固有名詞",
+          "forms": ["オーストリア"],
+          "rawForms": "オーストリア"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈjoːstɽ(j)ɤ" },
+        { "title": "語源", "text": "L _Austria_" },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ, 特殊）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Äwstrje|\n|属格|Äwstrjan|\n|与格|Äwstrjan|\n|対格|Äwstrjan|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "同義語", "entry": { "id": 216, "form": "Jastrajķ" } }
+      ]
+    },
+    {
+      "entry": { "id": 232, "form": "Ðǫrzdäģ" },
+      "tags": ["vV0.1.0", "曜日"],
+      "translations": [
+        { "title": "名詞", "forms": ["木曜日"], "rawForms": "木曜日" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈðõɽʐdɛɪ" },
+        { "title": "語源", "text": "OE _þunresdæġ_" },
+        { "title": "説明", "text": "" },
+        { "title": "曲用", "text": "_däģ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 26, "form": "däģ" } }]
+    },
+    {
+      "entry": { "id": 159, "form": "Örð" },
+      "tags": ["vV0.1.0", "女性"],
+      "translations": [
+        { "title": "名詞", "forms": ["地球"], "rawForms": "地球" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "œɽð" },
+        { "title": "語源", "text": "OE _eorþe_" },
+        { "title": "説明", "text": "通常語頭大文字で、定冠詞をつける。" },
+        {
+          "title": "曲用表 ・・・ 弱変化女性（単数のみ）",
+          "text": "|＼|単数|\n|:--:|:---|\n|主格|Örð|\n|属格|Örðan|\n|与格|Örðan|\n|対格|Örðan|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 160, "form": "örðbivving" } }
+      ]
+    },
+    {
+      "entry": { "id": 176, "form": "ämbyrdlajķrąj" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["序数詞"], "rawForms": "序数詞" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˌɛm.bʏɻɖ.ɭaɪɕ.ˈɽɐɲ" },
+        { "title": "語源", "text": "OE _endebyrdlīċ_ + _rīm_" },
+        { "title": "曲用", "text": "_rąj_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 107, "form": "rąj" } }]
+    },
+    {
+      "entry": { "id": 203, "form": "ängel" },
+      "tags": ["男性", "vV0.1.0", "民族名"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["イギリス人", "イングランド人", "アングロ人"],
+          "rawForms": "イギリス人, イングランド人, アングロ人"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ɛŋɤl" },
+        { "title": "語源", "text": "OE _Engle, Ængle_" },
+        { "title": "説明", "text": "通例定冠詞をつける。" },
+        {
+          "title": "曲用表 ・・・ 不規則変化（単複同形）",
+          "text": "|＼|単数 / 複数|\n|:--:|:---|\n|主格|ängel|\n|属格|ängle|\n|与格|änglum|\n|対格|ängel|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 32, "form": "Ängland" } }]
+    },
+    {
+      "entry": { "id": 1, "form": "änglisķ" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": ["イングランドの", "イギリスの"],
+          "rawForms": "イングランドの, イギリスの"
+        },
+        { "title": "名詞", "forms": ["英語"], "rawForms": "英語" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɛŋlɪɬ" },
+        {
+          "title": "説明",
+          "text": "「英語」として使うときは、定冠詞を付け曲用は形容詞強変化中性に準じる。"
+        },
+        { "title": "曲用", "text": "_\\-isķ_ を参照のこと。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 32, "form": "Ängland" } }]
+    },
+    {
+      "entry": { "id": 209, "form": "ärliķfude" },
+      "tags": ["男性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["朝食"], "rawForms": "朝食" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɛɻɭɪɕˌfuːdɤ" },
+        { "title": "語源", "text": "OE _ǣrlīċ_ + _fōda_" },
+        {
+          "title": "説明",
+          "text": "朝食の食べ物を一つ一つ扱うときは可算、「朝食」という一括りで扱うときは非可算。"
+        },
+        {
+          "title": "曲用表 ・・・ 弱変化男性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|ärliķfude|ärliķfudan|\n|属格|ärliķfudan|ärliķfudne|\n|与格|ärliķfudan|ärliķfudum|\n|対格|ärliķfudan|ärliķfudan|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 208, "form": "fude" } }]
+    },
+    {
+      "entry": { "id": 163, "form": "ävnyng" },
+      "tags": ["vV0.1.0", "女性"],
+      "translations": [
+        { "title": "名詞", "forms": ["夕方", "晩"], "rawForms": "夕方, 晩" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɛʋnʏŋ" },
+        { "title": "説明", "text": "OE _ǣfnung_" },
+        {
+          "title": "曲用表 ・・・ 強変化女性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|ävnyng|ävnynge|\n|属格|ävnyng|ävnynge|\n|与格|ävnyng|ävnyngum|\n|対格|ävnyng|ävnynge|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 93, "form": "ą̈lftaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["百十", "110"], "rawForms": "百十, 110" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɛ̃lftaɪ" },
+        {
+          "title": "注意点",
+          "text": "111 ~ 119は、20 ~ 90の数詞と同様に「(1の位) + andą̈lftaģ」 と表す。\n\n例. 「114」 _fewrandą̈lftaģ_"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "古", "entry": { "id": 157, "form": "jyną̈lftaģ" } }
+      ]
+    },
+    {
+      "entry": { "id": 251, "form": "ðas nights" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "副詞", "forms": ["夜に"], "rawForms": "夜に" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ðɐs ˈnɪxts" },
+        {
+          "title": "語源",
+          "text": "OE _þas_(定冠詞) + _nihtes_(夜に) < PWGmc. *_nahtas_(夜に)\n\n例外的な属格形 *_nahtas_ は *_dagas_ からの類推とみられる。"
+        },
+        { "title": "説明", "text": "副詞的に使われる。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 155, "form": "night" } }]
+    },
+    {
+      "entry": { "id": 6, "form": "ðaw" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        {
+          "title": "代名詞",
+          "forms": ["あなたは", "あなたが"],
+          "rawForms": "あなたは, あなたが"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ðɑʊ" },
+        { "title": "説明", "text": "2人称単数主格の人称代名詞。" }
+      ],
+      "variations": [
+        { "title": "属格", "form": "ðąj" },
+        { "title": "与格, 対格", "form": "ðee" }
+      ],
+      "relations": [{ "title": "", "entry": { "id": 2, "form": "iķ" } }]
+    },
+    {
+      "entry": { "id": 88, "form": "ðawzend" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["千", "1000"], "rawForms": "千, 1000" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈðɑʊzɤn" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 244, "form": "ðiagh" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "副詞", "forms": ["しかし"], "rawForms": "しかし" },
+        {
+          "title": "副詞",
+          "forms": ["(否定疑問文に対して)いいえ"],
+          "rawForms": "(否定疑問文に対して)いいえ"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ðjɐx" },
+        { "title": "語源", "text": "OE _þēah_ 「まだ,しかし」" },
+        {
+          "title": "説明",
+          "text": "「～ではないのですか？」などの否定を含む疑問文に、日本語なら「いいえ」と答える場面ではこれを使う。ドイツ語の _doch_ と同じような使い方。"
+        },
+        { "title": "", "text": "" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "", "entry": { "id": 242, "form": "ja" } },
+        { "title": "", "entry": { "id": 243, "form": "nap" } }
+      ]
+    },
+    {
+      "entry": { "id": 80, "form": "ðrajtaģ" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["三十", "30"], "rawForms": "三十, 30" }
+      ],
+      "contents": [{ "title": "Pronunciation", "text": "ˈðɽaɪtaɪ" }],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 61, "form": "ðrau" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["三", "3"], "rawForms": "三, 3" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ðɽoː" },
+        { "title": "語源", "text": "OE _þrēo_" }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "序数詞", "entry": { "id": 178, "form": "ðritde" } }
+      ]
+    },
+    {
+      "entry": { "id": 72, "form": "ðrautųy" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十三", "13"], "rawForms": "十三, 13" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈðɽoːtœɲ" },
+        { "title": "語源", "text": "OE _þrēotīene_" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 178, "form": "ðritde" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "序数詞", "forms": ["3番目"], "rawForms": "3番目" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈðɽɪʔ͡tɤ" },
+        { "title": "語源", "text": "OE _þridda_" },
+        { "title": "説明", "text": "常に弱変化。" },
+        {
+          "title": "曲用表 ・・・ 弱変化",
+          "text": "|＼|単数男性|単数中性|単数女性|複数|\n|:--:|:---|:---|:---|:---|\n|主格|ðritde|ðritd|ðritd|ðritdan|\n|属格|ðritdan|ðritdan|ðritdan|ðritdre|\n|与格|ðritdan|ðritdan|ðritdan|ðritdum|\n|対格|ðritdan|ðritdan|ðritd|ðritdan|"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        { "title": "基数詞", "entry": { "id": 61, "form": "ðrau" } }
+      ]
+    },
+    {
+      "entry": { "id": 227, "form": "ðrynjends" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "前置詞", "forms": ["～  の間"], "rawForms": "～  の間" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈðɽyːɲɤnts" },
+        {
+          "title": "語源",
+          "text": "OE _þurhwuniendes_ (_þurhwunian_ 「保つ, 続く」の現在分詞中性属格形) が前置詞化したもの。"
+        },
+        { "title": "説明", "text": "属格支配。" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 160, "form": "örðbivving" },
+      "tags": ["vV0.1.0", "女性"],
+      "translations": [
+        { "title": "名詞", "forms": ["地震"], "rawForms": "地震" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈœɽðbɪʋɪŋ" },
+        { "title": "", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化女性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|örðbivving|örðbivvinge|\n|属格|örðbivving|örðbivvinge|\n|与格|örðbivving|örðbivvingum|\n|対格|örðbivving|örðbivvinge|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 159, "form": "Örð" } }]
+    },
+    {
+      "entry": { "id": 174, "form": "öð" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "接続詞", "forms": ["または"], "rawForms": "または" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "/œð/, /ɤð/" },
+        { "title": "語源", "text": "OE _oþþe_" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 179, "form": "and" } }]
+    },
+    {
+      "entry": { "id": 69, "form": "ęalöv" },
+      "tags": ["数", "vV0.1.0"],
+      "translations": [
+        { "title": "数詞", "forms": ["十一", "11"], "rawForms": "十一, 11" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɛ̃ːlœʋ" },
+        { "title": "語源", "text": "OE _endleofan_" }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 56, "form": "Ģyanliaght Kynerajķ" },
+      "tags": ["国名", "中性"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["連合王国", "イギリス"],
+          "rawForms": "連合王国, イギリス"
+        }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "jyˈõljɐxʔ͡t ˈkyːnɤɽaɪɕ" },
+        {
+          "title": "説明",
+          "text": "通例定冠詞をつける。公的文書など、正式な場以外では _Ängland_ を使うのが普通。"
+        },
+        { "title": "曲用表", "text": "_-rajķ_ を参照。" }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 57, "form": "-rajķ" } }]
+    },
+    {
+      "entry": { "id": 60, "form": "Ģyanliaght Statan Amerikas" },
+      "tags": ["国名", "vV0.1.0"],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": ["アメリカ合衆国"],
+          "rawForms": "アメリカ合衆国"
+        }
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "jyˈõːljɑːxʔ͡t sʔ͡tɑːtõː ˈɑːmɤɽɪkɐs"
+        },
+        {
+          "title": "説明",
+          "text": "通常定冠詞をつけ、複数として使う。公式文書など、正式な場以外では _Amerika_ を使うのが普通。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 111, "form": "ģy-" },
+      "tags": ["接辞", "vV0.1.0"],
+      "translations": [{ "title": "接頭辞", "forms": [""], "rawForms": "" }],
+      "contents": [
+        { "title": "Pronunciation", "text": "/jʏ/, /jyː/" },
+        {
+          "title": "説明",
+          "text": "過去分詞の接頭辞。\n\n強変化動詞は _ģy\\- \\-en,_ 弱変化動詞は _ģy\\- \\-d(t)_ という接周辞が付き、過去分詞をつくる。\n\nまた、一部動詞の接頭辞。\n\n&ensp;\n\n例. _flewgan_ 「飛ぶ」 → _ģyflogen_"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 257, "form": "ģyknavan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["知っている"], "rawForms": "知っている" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "jʏˈknɑːʋõː" },
+        {
+          "title": "語源",
+          "text": "OE _ġecnāwan_ 「知っている, 認知する」 < PWGmc. _*knāan_ < PGmc. _*knēaną_ 「知っている」 < PIE _*ǵneh₃-_\n\n_kunnan_ 「できる」 と同じ語根からの派生とみられる。\n\nen. _know_ 「知っている」と同根。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "ģyknavan – ģyknävað – ģyknäven – ģyknaven"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスVII",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||ģyknavan|tu ģyknavenn|\n|–|||\n|分詞|現在|過去|\n||ģyknavend|ģyknaven|\n|–|||\n|動名詞|ģyknäving|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|ģyknäv|ģyknäv|\n|単数2人称|ģyknävst|ģyknävst|\n|単数3人称|ģyknäveð|ģyknäv|\n|複数|ģyknavað|ģyknävað|\n|–|||\n|接続法|現在|過去|\n|単数|ģyknäv|ģyknäv|\n|複数|ģyknaven|ģyknäven|\n|–|||\n|命令法|単数|複数|\n||ģyknav|ģyknavað|"
+        }
+      ],
+      "variations": [],
+      "relations": [{ "title": "", "entry": { "id": 154, "form": "kunnan" } }]
+    },
+    {
+      "entry": { "id": 45, "form": "Ķina" },
+      "tags": ["国名", "中性", "vV0.1.0"],
+      "translations": [
+        { "title": "名詞", "forms": ["中国"], "rawForms": "中国" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɕiːnɑː" },
+        { "title": "説明", "text": "東アジアの国。" },
+        {
+          "title": "曲用表 ・・・ 強変化中性（単数のみ）",
+          "text": "| ＼ | 単数 |\n|:--:|:---|\n| 主格 | Ķina |\n| 属格 | Ķinas |\n| 与格 | Ķina |\n| 対格 | Ķina |"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 103, "form": "ķewzan" },
+      "tags": ["vV0.1.0"],
+      "translations": [
+        { "title": "動詞", "forms": ["選ぶ"], "rawForms": "選ぶ" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɕ(j)oːzõː" },
+        {
+          "title": "inf. – ind.pret.pl. – sub.pret.pl. – pret.p.",
+          "text": "ķewzan – ķiazað  – kuren  – ģykoren"
+        },
+        {
+          "title": "活用表 ・・・ 強変化クラスIIa",
+          "text": "|＼|||\n|:--:|:---|:---|\n|不定詞|原形|tu|\n||ķewzan|tu ķewzenn|\n|–|||\n|分詞|現在|過去|\n||ķewzend|ģykoren|\n|–|||\n|動名詞|ķewzing|–|\n|–|||\n|直説法|現在|過去|\n|単数1人称|ķewz|ķiaz|\n|単数2人称|ķuyzst|ķiazst|\n|単数3人称|ķuyzeð|ķiaz|\n|複数|ķewzað|ķiazað|\n|–|||\n|接続法|現在|過去|\n|単数|ķewz|kur|\n|複数|ķewzað|kuren|\n|–|||\n|命令法|単数|複数|\n||ķewz|ķewzað|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": { "id": 256, "form": "ķilder" },
+      "tags": ["vV0.1.0", "中性"],
+      "translations": [
+        { "title": "名詞", "forms": ["子ども"], "rawForms": "子ども" }
+      ],
+      "contents": [
+        { "title": "Pronunciation", "text": "ˈɕɪldɤɽ" },
+        {
+          "title": "語源",
+          "text": "OE _ċild_ < PGmc. _*kelþaz_ 「子宮, 胎児」 から。\n\nen. _child_ 「子供」, da. _kuld_ 「子孫, 同腹児」, sv. _kull_ 「子孫, 同腹児」, is. _kjalta_ 「膝」 などと同根。\n\n_\\-er_ は屈折形からの類推で付加された。"
+        },
+        { "title": "説明", "text": "" },
+        {
+          "title": "曲用表 ・・・ 強変化中性",
+          "text": "|＼|単数|複数|\n|:--:|:---|:---|\n|主格|ķilder|ķildran|\n|属格|ķildres|ķildre|\n|与格|ķilder|ķildrum|\n|対格|ķilder|ķildran|"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    }
+  ],
+  "examples": [
+    {
+      "id": 23,
+      "sentence": "Huy villað tomorgenn änn abpel eatan.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": { "catalog": "appleAlpha", "number": 10 }
+    },
+    {
+      "id": 18,
+      "sentence": "Natilzķ haðð ðynn apbel ģyeatenn.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": { "catalog": "appleAlpha", "number": 17 }
+    },
+    {
+      "id": 17,
+      "sentence": "Mąi vaiv and iķ eatað six dagas agan apblas.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": { "catalog": "appleAlpha", "number": 9 }
+    },
+    {
+      "id": 16,
+      "sentence": "Mąi vaiv and iķ eatað jystrędäģ apblas.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": { "catalog": "appleAlpha", "number": 8 }
+    },
+    {
+      "id": 13,
+      "sentence": "Ða sind ðrau apblas.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [],
+      "offer": { "catalog": "appleAlpha", "number": 15 }
+    },
+    {
+      "id": 32,
+      "sentence": "Mee luvst ðaw.",
+      "translation": "君が好きだ。",
+      "supplement": "月が綺麗なやつ。lüvjan はそれを好きな人が与格、それが好きな相手が主格になるので注意。",
+      "tags": [],
+      "words": [{ "id": 23 }, { "id": 2 }, { "id": 6 }]
+    },
+    {
+      "id": 12,
+      "sentence": "Iķ eet änn apbel.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 2 }, { "id": 25 }, { "id": 27 }],
+      "offer": { "catalog": "appleAlpha", "number": 1 }
+    },
+    {
+      "id": 11,
+      "sentence": "Iķ eat änn apbel.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 2 }, { "id": 25 }, { "id": 27 }],
+      "offer": { "catalog": "appleAlpha", "number": 2 }
+    },
+    {
+      "id": 1,
+      "sentence": "Iķ heat Akane Tokotoba.",
+      "translation": "私は斗琴庭暁響です。",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 35 }, { "id": 2 }]
+    },
+    {
+      "id": 2,
+      "sentence": "Mee laikeð sä apbel.",
+      "translation": "私はリンゴが好きです。",
+      "supplement": "動詞 läikjan は好きなものを主格に、それを好きな人を与格にとるので注意。",
+      "tags": [],
+      "words": [{ "id": 3 }, { "id": 24 }, { "id": 27 }, { "id": 21 }]
+    },
+    {
+      "id": 8,
+      "sentence": "Jystrędäģ rind (hit) hevviläiķ.",
+      "translation": "昨日は激しく雨が降った。",
+      "supplement": "形式主語の »hit« は文頭以外にある場合、省略可能。",
+      "tags": [],
+      "words": [{ "id": 29 }, { "id": 144 }, { "id": 13 }, { "id": 196 }]
+    },
+    {
+      "id": 9,
+      "sentence": "After hee his bizaģnes handleð gäðð hee ham.",
+      "translation": "",
+      "supplement": "»after hee his bizaģnes handleð« で「彼の用事を終わらせた後」の意味の従属文を形成して、文頭に倒置している。V2語順であるため、次に動詞 »gäðð« （»gan«「行く」の直説法現在3人称単数）が来る。",
+      "tags": [],
+      "words": [
+        { "id": 14 },
+        { "id": 110 },
+        { "id": 112 },
+        { "id": 152 },
+        { "id": 171 }
+      ],
+      "offer": { "catalog": "zpdicDaily", "number": 94 }
+    },
+    {
+      "id": 7,
+      "sentence": "Jan iss maððan onr knörlezķing.",
+      "translation": "ヨンは数学を（継続的に）勉強している。",
+      "supplement": "「onr + 動名詞 + väzan動詞」 で習慣形を作る。 ",
+      "tags": [],
+      "words": [{ "id": 15 }, { "id": 124 }, { "id": 139 }, { "id": 138 }]
+    },
+    {
+      "id": 14,
+      "sentence": "Hee iss naw änn apbel eatend.",
+      "translation": "",
+      "supplement": "「現在分詞 + väzan動詞」で進行形を表す。",
+      "tags": [],
+      "words": [{ "id": 258 }, { "id": 25 }],
+      "offer": { "catalog": "appleAlpha", "number": 3 }
+    },
+    {
+      "id": 25,
+      "sentence": "Mąi muder iss mee ärliķfudan eatan säcķend.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 101 }, { "id": 209 }, { "id": 25 }, { "id": 239 }],
+      "offer": { "catalog": "zpdicDaily", "number": 74 }
+    },
+    {
+      "id": 21,
+      "sentence": "Güddenn däģ.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 97 }, { "id": 26 }],
+      "offer": { "catalog": "survival", "number": 2 }
+    },
+    {
+      "id": 35,
+      "sentence": "Hvat haatað Jee?",
+      "translation": "",
+      "supplement": "名前を尋ねる、あるいは言うときは通常 »haatan« 「〜という名前である」を使う。",
+      "tags": [],
+      "words": [{ "id": 125 }, { "id": 35 }, { "id": 198 }],
+      "offer": { "catalog": "survival", "number": 26 }
+    },
+    {
+      "id": 34,
+      "sentence": "Iķ heat ◯◯◯.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 35 }],
+      "offer": { "catalog": "survival", "number": 25 }
+    },
+    {
+      "id": 19,
+      "sentence": "Güddenn morgen.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 97 }, { "id": 52 }],
+      "offer": { "catalog": "survival", "number": 1 }
+    },
+    {
+      "id": 33,
+      "sentence": "Sä mune iss feir.",
+      "translation": "月が綺麗ですね。",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 247 }, { "id": 55 }]
+    },
+    {
+      "id": 20,
+      "sentence": "Güdd ävnyng.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 97 }, { "id": 163 }],
+      "offer": { "catalog": "survival", "number": 3 }
+    },
+    {
+      "id": 10,
+      "sentence": "Güdd night.",
+      "translation": "おやすみなさい。",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 97 }, { "id": 155 }]
+    },
+    {
+      "id": 38,
+      "sentence": "Hvat iss ðis?",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 125 }],
+      "offer": { "catalog": "survival", "number": 19 }
+    },
+    {
+      "id": 4,
+      "sentence": "Hvat specializeerað Jee?",
+      "translation": "何を専攻していますか?",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 125 }, { "id": 128 }, { "id": 198 }]
+    },
+    {
+      "id": 31,
+      "sentence": "Ðrynjends plawmanreines rind myzķel.",
+      "translation": "",
+      "supplement": "»plawmanręi« 「梅雨」はさほど一般的な名詞ではないので、説明的に言及されることも多い。",
+      "tags": [],
+      "words": [{ "id": 238 }, { "id": 144 }, { "id": 227 }],
+      "offer": { "catalog": "zpdicDaily", "number": 100 }
+    },
+    {
+      "id": 30,
+      "sentence": "Ðrynjends jastazjätisķes reinaģs jarrsales rind myźel.",
+      "translation": "",
+      "supplement": "»ðrynjends« は属格支配の前置詞で「〜の期間」を表し、»ðrynjends jastazjätisķes reinaģs jarrsales« が前置詞句となって文頭に倒置している。文頭に副詞句等が倒置される場合、動詞 »rinan« の形式主語 »hit« は省略できる。",
+      "tags": [],
+      "words": [
+        { "id": 144 },
+        { "id": 224 },
+        { "id": 225 },
+        { "id": 223 },
+        { "id": 227 },
+        { "id": 228 }
+      ],
+      "offer": { "catalog": "zpdicDaily", "number": 100 }
+    },
+    {
+      "id": 22,
+      "sentence": "Iķ sviep jalķdäģ ģyfallen ljavvan in ðan jard.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [
+        { "id": 166 },
+        { "id": 169 },
+        { "id": 167 },
+        { "id": 168 },
+        { "id": 170 }
+      ],
+      "offer": { "catalog": "zpdicDaily", "number": 98 }
+    },
+    {
+      "id": 27,
+      "sentence": "Iķ hädd änn hattan disķ.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 172 }, { "id": 217 }, { "id": 218 }],
+      "offer": { "catalog": "zpdicDaily", "number": 124 }
+    },
+    {
+      "id": 15,
+      "sentence": "Hew haðð änn apbel ģyeatenn.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 172 }],
+      "offer": { "catalog": "appleAlpha", "number": 4 }
+    },
+    {
+      "id": 24,
+      "sentence": "Ðat n’iss an apbel naght.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 204 }],
+      "offer": { "catalog": "appleAlpha", "number": 31 }
+    },
+    {
+      "id": 26,
+      "sentence": "Huy n’zind fransuyzan naght.",
+      "translation": "彼らはフランス人ではない。",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 204 }, { "id": 206 }]
+    },
+    {
+      "id": 28,
+      "sentence": "Iķ eet änn apbel naght.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 205 }],
+      "offer": { "catalog": "appleAlpha", "number": 21 }
+    },
+    {
+      "id": 36,
+      "sentence": "Ja.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 242 }],
+      "offer": { "catalog": "survival", "number": 9 }
+    },
+    {
+      "id": 37,
+      "sentence": "Nap.",
+      "translation": "",
+      "supplement": "",
+      "tags": [],
+      "words": [{ "id": 243 }],
+      "offer": { "catalog": "survival", "number": 10 }
+    }
+  ],
+  "zpdicOnline": {
+    "explanation": "# säw vässenzländisķ spräcķ\n\n/sjoː ˈʋɛsɤ̃zˌlɛndɪɬ ˈspɽɛɕ/\n\n古英語からあまり屈折が衰退しなかった娘言語です。\n\n読み方はこちらを参照。→ [Vässenzländisķ 文字と発音 | 悠久肆方体](https://www.tktb-tess.dev/conlang/vaes/letter-et-pron)\n\n使用文字: a–z + ą, ä, ą̈, ð, ę, ģ, į, ķ, ǫ, ö, ǫ̈, ü, ų, ų̈, ỹ\n\n現在の最新バージョンはV0.1.0です。「vV0.1.0」とタグ付けされているものが改訂済みの単語です。\n\n## _inf. – ind.pret.pl. – sub.pret.pl. – pret.p._ について\n\n原形不定詞, 直説法過去複数, 接続法過去複数, 過去分詞が順に表記されている。強変化動詞の幹母音はこの4通りに交替するので、理論上はこの4形がわかれば全ての活用形が導けることになる……と言いたいところだが、例外があったりすることもあり難しい。\n\n## 言語名略称一覧\n\n- OE: 古英語\n- ON: 古ノルド語\n- PGmc.: ゲルマン祖語\n- PWGmc.: 西ゲルマン祖語\n- PIE: インド・ヨーロッパ祖語\n- L: ラテン語\n- AG: 古典ギリシア語\n\n現代の言語は2文字言語コード (ISO 639-1) に準じるものとする。いくつかの例を下に示す。\n\n- en. : 英語\n- fr. : フランス語\n- de. : ドイツ語\n- nl. : オランダ語\n\n最終更新: 2025/09/09",
+    "punctuations": [",", "、", "。"],
+    "ignoredPattern": "[\\(（].*?[\\)）]",
+    "pronunciationTitle": "Pronunciation",
+    "enableMarkdown": true
+  }
+}

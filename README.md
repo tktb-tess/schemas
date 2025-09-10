@@ -1,4 +1,4 @@
-# schemas
+# my-zod-schemas
 
-ZpDIC API, OTM-JSON schema etc.
+ZpDIC API, OTM-JSON schema by Zod etc.
 

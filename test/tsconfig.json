@@ -11,11 +11,7 @@
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
-
-    /* Emit .d.ts file */
-    "emitDeclarationOnly": true,
-    "declaration": true,
-    "declarationDir": "./dist",
+    "noEmit": true,
 
     /* Linting */
     "strict": true,
@@ -24,5 +20,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["lib"]
+  "include": ["**/*.ts"]
 }
