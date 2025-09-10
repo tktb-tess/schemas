@@ -1,6 +1,6 @@
 import z from 'zod';
 
-export const equivalentSchema = z.object({
+const equivalentSchema = z.object({
   titles: z.string().array(),
   names: z.string().array(),
   nameString: z.string(),
@@ -10,13 +10,13 @@ export const equivalentSchema = z.object({
 
 const obj_id_brand = Symbol('object-id');
 
-export const objectIDSchema = z.string().brand<typeof obj_id_brand>();
+const objectIDSchema = z.string().brand<typeof obj_id_brand>();
 
 export type ObjectID = z.infer<typeof objectIDSchema>;
 
 export type Equivalent = z.infer<typeof equivalentSchema>;
 
-export const informationSchema = z.object({
+const informationSchema = z.object({
   title: z.string(),
   text: z.string(),
   hidden: z.boolean(),
@@ -24,7 +24,7 @@ export const informationSchema = z.object({
 
 export type Information = z.infer<typeof informationSchema>;
 
-export const phraseSchema = z.object({
+const phraseSchema = z.object({
   titles: z.string().array(),
   form: z.string(),
   terms: z.string().array(),
@@ -34,7 +34,7 @@ export const phraseSchema = z.object({
 
 export type Phrase = z.infer<typeof phraseSchema>;
 
-export const variationSchema = z.object({
+const variationSchema = z.object({
   title: z.string(),
   name: z.string(),
   pronunciation: z.string(),
@@ -42,7 +42,7 @@ export const variationSchema = z.object({
 
 export type Variation = z.infer<typeof variationSchema>;
 
-export const relationSchema = z.object({
+const relationSchema = z.object({
   titles: z.string().array(),
   number: z.int().nonnegative(),
   name: z.string(),
@@ -50,11 +50,11 @@ export const relationSchema = z.object({
 
 export type Relation = z.infer<typeof relationSchema>;
 
-export const catalogSchema = z.string();
+const catalogSchema = z.string();
 
 export type Catalog = z.infer<typeof catalogSchema>;
 
-export const exampleSchema = z.object({
+const exampleSchema = z.object({
   id: objectIDSchema,
   number: z.int().nonnegative(),
   sentence: z.string(),
@@ -75,28 +75,47 @@ export const exampleSchema = z.object({
 
 export type Example = z.infer<typeof exampleSchema>;
 
-const zpdic_word_brand = Symbol('zpdic-word');
+const editableWordSchema = z.object({
+  name: z.string(),
+  pronunciation: z.string(),
+  equivalents: equivalentSchema.array(),
+  tags: z.string().array(),
+  phrases: phraseSchema.array(),
+  informations: informationSchema.array(),
+  variations: variationSchema.array(),
+  relations: relationSchema.array(),
+});
 
-export const zpdicWordSchema = z
-  .object({
-    id: objectIDSchema,
-    number: z.int().nonnegative(),
-    name: z.string(),
-    pronunciation: z.string(),
-    equivalents: equivalentSchema.array(),
-    tags: z.string().array(),
-    phrases: phraseSchema.array(),
-    variations: variationSchema.array(),
-    relations: relationSchema.array(),
-    examples: exampleSchema.array(),
-  })
-  .brand<typeof zpdic_word_brand>();
+export type EditableWord = z.infer<typeof editableWordSchema>;
 
-export type Word = z.infer<typeof zpdicWordSchema>;
+const wordSchema = editableWordSchema.extend({
+  id: objectIDSchema,
+  number: z.int().nonnegative(),
+});
 
-export const zpdicApiResponseSchema = z.object({
-  words: zpdicWordSchema.array(),
+export type Word = z.infer<typeof wordSchema>;
+
+const wordWithExamplesSchema = wordSchema.extend({
+  examples: exampleSchema.array(),
+});
+
+export type WordWithExamples = z.infer<typeof wordWithExamplesSchema>;
+
+export const wordWithExamplesResponseSchema = z.object({
+  word: wordWithExamplesSchema,
+});
+
+export type WordWithExamplesResponse = z.infer<typeof wordWithExamplesResponseSchema>;
+
+export const zpdicWordsResponseSchema = z.object({
+  words: wordWithExamplesSchema.array(),
   total: z.int().nonnegative(),
 });
 
-export type ZpDICAPIResponse = z.infer<typeof zpdicApiResponseSchema>;
+export type ZpDICWordsResponse = z.infer<typeof zpdicWordsResponseSchema>;
+
+export const zpdicEditableWordResponseSchema = z.object({
+  word: wordSchema,
+});
+
+export type ZpDICEditableWordResponse = z.infer<typeof zpdicEditableWordResponseSchema>;
