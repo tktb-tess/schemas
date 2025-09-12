@@ -107,33 +107,37 @@ const wordWithExamplesSchema = wordSchema.extend({
 
 export type WordWithExamples = z.infer<typeof wordWithExamplesSchema>;
 
-export const wordWithExamplesResponseSchema = z.object({
+export const wordResponseSchema = z.object({
+  word: wordSchema,
+});
+
+export type WordResponse = z.infer<typeof wordResponseSchema>;
+
+export const wweResponseSchema = z.object({
   word: wordWithExamplesSchema,
 });
 
-export type WordWithExamplesResponse = z.infer<
-  typeof wordWithExamplesResponseSchema
->;
+export type WWEResponse = z.infer<typeof wweResponseSchema>;
 
-export const wordsResponseSchema = z.object({
+export const mwweResponseSchema = z.object({
   words: wordWithExamplesSchema.array(),
   total: z.int().nonnegative(),
 });
 
-export type WordsResponse = z.infer<typeof wordsResponseSchema>;
+export type MWWEResponse = z.infer<typeof mwweResponseSchema>;
 
-export const examplesResponseSchema = z.object({
+export const exResponseSchema = z.object({
+  example: exampleSchema,
+});
+
+export type ExResponse = z.infer<typeof exResponseSchema>;
+
+export const mExResponseSchema = z.object({
   examples: exampleSchema.array(),
   total: z.int().nonnegative(),
 });
 
-export type ExamplesResponse = z.infer<typeof examplesResponseSchema>;
-
-export const exampleResponseSchema = z.object({
-  example: exampleSchema,
-});
-
-export type ExampleResponse = z.infer<typeof exampleResponseSchema>;
+export type MExResponse = z.infer<typeof mExResponseSchema>;
 
 const exampleOfferSchema = z.object({
   id: objectIDSchema,
@@ -146,15 +150,15 @@ const exampleOfferSchema = z.object({
 
 export type ExampleOffer = z.infer<typeof exampleOfferSchema>;
 
-export const exampleOffersResponseSchema = z.object({
+export const exOfferResponseSchema = z.object({
+  exampleOffer: exampleOfferSchema,
+});
+
+export type ExOfferResponse = z.infer<typeof exOfferResponseSchema>;
+
+export const mExOfferResponseSchema = z.object({
   exampleOffers: exampleOfferSchema.array(),
   total: z.int().nonnegative(),
 });
 
-export type ExampleOffersResponse = z.infer<typeof exampleOffersResponseSchema>;
-
-export const exampleOfferResponseSchema = z.object({
-  exampleOffer: exampleOfferSchema,
-});
-
-export type ExampleOfferResponse = z.infer<typeof exampleOfferResponseSchema>;
+export type MExOfferResponse = z.infer<typeof mExOfferResponseSchema>;
