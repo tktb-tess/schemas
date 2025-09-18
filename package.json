@@ -10,7 +10,8 @@
     "dist"
   ],
   "engines": {
-    "node": "^22.0.0"
+    "node": "^22",
+    "pnpm": "^10"
   },
   "main": "./dist/bundle.js",
   "types": "./dist/main.d.ts",
@@ -21,7 +22,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "test": "vitest run"
+    "test": "vitest run",
+    "preinstall": "npx only-allow pnpm"
   },
   "devDependencies": {
     "@types/node": "^24.3.1",
