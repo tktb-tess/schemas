@@ -35,7 +35,7 @@ export type Content = z.infer<typeof contentSchema>;
 export const commaDataSchema = z.object({
   metadata: metadataSchema,
   commas: contentSchema.array(),
-})
+});
 
 export type CommaData = z.infer<typeof commaDataSchema>;
 

@@ -23,7 +23,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "test": "vitest run",
-    "preinstall": "npx only-allow pnpm"
+    "preinstall": "npx only-allow pnpm",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "@types/node": "^24.3.1",
