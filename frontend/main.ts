@@ -1,4 +1,4 @@
-import { OTMJSON, parseAndValidate } from '@tktb-tess/my-zod-schema';
+import { OTMJSON } from '@tktb-tess/my-zod-schema';
 import { unified } from 'unified';
 import RemarkParse from 'remark-parse';
 import RemarkGfm from 'remark-gfm';
@@ -18,8 +18,8 @@ const mdToHtml = async (md: string) => {
 };
 
 const main = async () => {
-  const resp = await fetch('/sample-otm.json').then((r) => r.text());
-  const result = parseAndValidate(resp, OTMJSON.zpdicOtmSchema);
+  const txt = await fetch('/sample-otm.json').then((r) => r.text());
+  const result = OTMJSON.zpdicOtmSchema.safeParse(JSON.parse(txt))
   if (result.success) {
     const { data } = result;
     data.words.sort(({ entry: a }, { entry: b }) => a.id - b.id);
