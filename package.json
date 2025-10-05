@@ -1,6 +1,6 @@
 {
   "name": "@tktb-tess/my-zod-schema",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "type": "module",
   "license": "CC0-1.0",
   "publishConfig": {
@@ -47,8 +47,8 @@
     "node": "22.19.0"
   },
   "repository": {
-   "type": "git",
-   "url": "https://github.com/tktb-tess/schemas.git" 
+    "type": "git",
+    "url": "https://github.com/tktb-tess/schemas.git"
   },
   "homepage": "https://github.com/tktb-tess/schemas/blob/main/README.md"
 }
