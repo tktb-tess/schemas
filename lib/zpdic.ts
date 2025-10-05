@@ -8,9 +8,7 @@ const equivalentSchema = z.object({
   hidden: z.boolean(),
 });
 
-const obj_id_brand = Symbol('object-id');
-
-const objectIDSchema = z.string().brand<typeof obj_id_brand>();
+const objectIDSchema = z.string();
 
 export type ObjectID = z.infer<typeof objectIDSchema>;
 

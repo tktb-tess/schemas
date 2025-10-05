@@ -1,13 +1,9 @@
 import z from 'zod';
 
-const entry_brand = Symbol('entry');
-
-export const entrySchema = z
-  .object({
-    id: z.int().nonnegative(),
-    form: z.string(),
-  })
-  .brand<typeof entry_brand>();
+export const entrySchema = z.object({
+  id: z.int().nonnegative(),
+  form: z.string(),
+});
 
 export type Entry = z.infer<typeof entrySchema>;
 
@@ -86,21 +82,15 @@ export const zpdicConfigSchema = z.object({
 
 export type ZpDICConfig = z.infer<typeof zpdicConfigSchema>;
 
-const otmjson_brand = Symbol('otm-json');
+export const v1Schema = z.object({
+  version: z.literal(1).optional(),
+  words: wordv1Schema.array(),
+});
 
-export const v1Schema = z
-  .object({
-    version: z.literal(1).optional(),
-    words: wordv1Schema.array(),
-  })
-  .brand<typeof otmjson_brand>();
-
-export const v2Schema = z
-  .looseObject({
-    version: z.literal(2),
-    words: wordv2Schema.array(),
-  })
-  .brand<typeof otmjson_brand>();
+export const v2Schema = z.looseObject({
+  version: z.literal(2),
+  words: wordv2Schema.array(),
+});
 
 export const otmjsonSchema = z.discriminatedUnion('version', [
   v1Schema,

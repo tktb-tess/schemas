@@ -90,11 +90,9 @@ const contentSchema = z.object({
 
 export type Content = z.infer<typeof contentSchema>;
 
-const cotec_json_brand = Symbol('cotec-json');
-
 export const schema = z.object({
   metadata: metadataSchema,
   contents: contentSchema.array(),
-}).brand<typeof cotec_json_brand>();
+});
 
 export type Data = z.infer<typeof schema>;
