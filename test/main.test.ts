@@ -41,8 +41,7 @@ describe('parse correctly ...', () => {
     const { metadata, contents } = result.data;
 
     console.log(metadata);
-    const langNames = contents.map(({ name }) => name[0]);
-    console.log(...langNames);
+    console.log(contents.length, 'langs');
     expect(0).toBe(0);
   });
 
@@ -62,7 +61,7 @@ describe('parse correctly ...', () => {
 
     const names = commas.map(({ name }) => name[0]);
 
-    console.log(...names);
+    console.log(names.length, 'commas');
 
     expect(0).toBe(0);
   });
