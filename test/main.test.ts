@@ -3,7 +3,7 @@ import { OTMJSON, CotecJSON, Comma } from '@tktb-tess/my-zod-schema';
 import { readFileSync } from 'node:fs';
 import z from 'zod';
 
-describe('parse correctly ...', () => {
+describe('parse correctly...', () => {
   it('otm-json', () => {
     const str = readFileSync('sample-otm.json', { encoding: 'utf8' });
     const result = OTMJSON.zpdicOtmSchema.safeParse(JSON.parse(str));
@@ -38,11 +38,8 @@ describe('parse correctly ...', () => {
     if (!result.success) {
       expect.unreachable(z.prettifyError(result.error));
     }
-    const { metadata, contents } = result.data;
 
-    console.log(metadata);
-    console.log(contents.length, 'langs');
-    expect(0).toBe(0);
+    expect(typeof result.data.contents.length).toBe('number');
   });
 
   it('comma-data', async () => {
@@ -56,13 +53,10 @@ describe('parse correctly ...', () => {
       expect.unreachable(z.prettifyError(result.error));
     }
 
-    const { metadata, commas } = result.data;
-    console.log(metadata);
+    const { commas } = result.data;
 
     const names = commas.map(({ name }) => name[0]);
 
-    console.log(names.length, 'commas');
-
-    expect(0).toBe(0);
+    expect(typeof names.length).toBe('number');
   });
 });
