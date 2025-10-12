@@ -3,6 +3,16 @@ import { OTMJSON, CotecJSON, Comma, ZpDIC } from '@tktb-tess/my-zod-schema';
 import { readFileSync } from 'node:fs';
 import z from 'zod';
 
+declare global {
+  interface ImportMeta {
+    readonly env: ImportMetaEnv;
+  }
+
+  interface ImportMetaEnv {
+    readonly VITE_ZPDIC_API_KEY: string;
+  }
+}
+
 describe('parse correctly...', () => {
   it('otm-json', () => {
     const str = readFileSync('sample-otm.json', { encoding: 'utf8' });
