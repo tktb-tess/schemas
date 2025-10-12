@@ -1,7 +1,17 @@
 import { it, expect, describe } from 'vitest';
-import { OTMJSON, CotecJSON, Comma } from '@tktb-tess/my-zod-schema';
+import { OTMJSON, CotecJSON, Comma, ZpDIC } from '@tktb-tess/my-zod-schema';
 import { readFileSync } from 'node:fs';
 import z from 'zod';
+
+declare global {
+  interface ImportMeta {
+    readonly env: ImportMetaEnv;
+  }
+
+  interface ImportMetaEnv {
+    readonly VITE_ZPDIC_API_KEY: string;
+  }
+}
 
 describe('parse correctly...', () => {
   it('otm-json', () => {
@@ -58,5 +68,33 @@ describe('parse correctly...', () => {
     const names = commas.map(({ name }) => name[0]);
 
     expect(typeof names.length).toBe('number');
+  });
+
+  it('zpdic-api', async () => {
+    const r = await fetch(
+      'https://zpdic.ziphil.com/api/v0/dictionary/633/words?text=&limit=10',
+      {
+        method: 'GET',
+        headers: {
+          'X-Api-Key': import.meta.env.VITE_ZPDIC_API_KEY,
+        },
+      }
+    );
+
+    if (!r.ok) {
+      expect.unreachable(r.statusText);
+    }
+
+    const json = await r.json();
+
+    const result = ZpDIC.mwweResponseSchema.safeParse(json);
+
+    if (!result.success) {
+      expect.unreachable(z.prettifyError(result.error));
+    }
+
+    const { words } = result.data;
+
+    expect(words.length).toBe(10);
   });
 });
