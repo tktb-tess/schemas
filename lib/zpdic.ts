@@ -1,6 +1,6 @@
 import z from 'zod';
 
-const equivalentSchema = z.object({
+export const equivalentSchema = z.object({
   titles: z.string().array(),
   names: z.string().array(),
   nameString: z.string(),
@@ -8,13 +8,13 @@ const equivalentSchema = z.object({
   hidden: z.boolean(),
 });
 
-const objectIDSchema = z.string();
+export const objectIDSchema = z.string();
 
 export type ObjectID = z.infer<typeof objectIDSchema>;
 
 export type Equivalent = z.infer<typeof equivalentSchema>;
 
-const informationSchema = z.object({
+export const informationSchema = z.object({
   title: z.string(),
   text: z.string(),
   hidden: z.boolean(),
@@ -22,7 +22,7 @@ const informationSchema = z.object({
 
 export type Information = z.infer<typeof informationSchema>;
 
-const phraseSchema = z.object({
+export const phraseSchema = z.object({
   titles: z.string().array(),
   form: z.string(),
   terms: z.string().array(),
@@ -32,7 +32,7 @@ const phraseSchema = z.object({
 
 export type Phrase = z.infer<typeof phraseSchema>;
 
-const variationSchema = z.object({
+export const variationSchema = z.object({
   title: z.string(),
   name: z.string(),
   pronunciation: z.string(),
@@ -40,7 +40,7 @@ const variationSchema = z.object({
 
 export type Variation = z.infer<typeof variationSchema>;
 
-const relationSchema = z.object({
+export const relationSchema = z.object({
   titles: z.string().array(),
   number: z.int().nonnegative(),
   name: z.string(),
@@ -48,7 +48,7 @@ const relationSchema = z.object({
 
 export type Relation = z.infer<typeof relationSchema>;
 
-const catalogSchema = z.string();
+export const catalogSchema = z.string();
 
 export type Catalog = z.infer<typeof catalogSchema>;
 
@@ -72,7 +72,7 @@ export const editableExampleSchema = z.object({
 
 export type EditableExample = z.infer<typeof editableExampleSchema>;
 
-const exampleSchema = editableExampleSchema.extend({
+export const exampleSchema = editableExampleSchema.extend({
   id: objectIDSchema,
   number: z.int().nonnegative(),
 });
@@ -92,14 +92,14 @@ export const editableWordSchema = z.object({
 
 export type EditableWord = z.infer<typeof editableWordSchema>;
 
-const wordSchema = editableWordSchema.extend({
+export const wordSchema = editableWordSchema.extend({
   id: objectIDSchema,
   number: z.int().nonnegative(),
 });
 
 export type Word = z.infer<typeof wordSchema>;
 
-const wordWithExamplesSchema = wordSchema.extend({
+export const wordWithExamplesSchema = wordSchema.extend({
   examples: exampleSchema.array(),
 });
 
@@ -137,7 +137,7 @@ export const mExResponseSchema = z.object({
 
 export type MExResponse = z.infer<typeof mExResponseSchema>;
 
-const exampleOfferSchema = z.object({
+export const exampleOfferSchema = z.object({
   id: objectIDSchema,
   catalog: catalogSchema,
   number: z.int().nonnegative(),

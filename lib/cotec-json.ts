@@ -30,7 +30,7 @@ const moyuneClassSchema = z.union([
 
 export type MoyuneClass = z.infer<typeof moyuneClassSchema>;
 
-const metadataSchema = z.object({
+export const metadataSchema = z.object({
   datasize: z.tuple([z.int().nonnegative(), z.int().nonnegative()]),
   title: z.string(),
   author: z.string().array(),
@@ -48,7 +48,7 @@ const metadataSchema = z.object({
 
 export type Metadata = z.infer<typeof metadataSchema>;
 
-const contentSchema = z.object({
+export const contentSchema = z.object({
   id: z.string(),
   messier: z.unknown().optional(),
   name: z.string().array(),

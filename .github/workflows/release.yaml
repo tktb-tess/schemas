@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
 
   push:
-    tags: 'v*'
+    tags:
+      - 'v*'
 
 jobs:
   publish:
@@ -39,6 +40,8 @@ jobs:
 
       - name: Test
         run: pnpm test
+        env:
+          VITE_ZPDIC_API_KEY: ${{ secrets.ZPDIC_API_KEY }}
 
       - name: Publish
         run: pnpm publish --no-git-checks --provenance --access public
