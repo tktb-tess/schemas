@@ -1,7 +1,7 @@
 import { it, expect, describe } from 'vitest';
-import { OTMJSON, CotecJSON, Comma, ZpDIC } from '@tktb-tess/my-zod-schema';
+import { OTMJSON, CotecJSON, Comma, ZpDIC } from '../lib/main';
 import { readFileSync } from 'node:fs';
-import z from 'zod';
+import * as z from 'zod';
 
 declare global {
   interface ImportMeta {

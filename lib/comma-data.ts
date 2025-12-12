@@ -1,4 +1,4 @@
-import z from 'zod';
+import * as z from 'zod';
 
 export const metadataSchema = z.object({
   lastUpdate: z.iso.datetime(),
@@ -7,7 +7,10 @@ export const metadataSchema = z.object({
 
 export type Metadata = z.infer<typeof metadataSchema>;
 
-export const monzoSchema = z.tuple([z.int().nonnegative(), z.int()]).readonly().array();
+export const monzoSchema = z
+  .tuple([z.int().nonnegative(), z.int()])
+  .readonly()
+  .array();
 
 export type Monzo = z.infer<typeof monzoSchema>;
 
@@ -15,7 +18,7 @@ export const contentBaseSchema = z.object({
   id: z.string(),
   name: z.string().array(),
   colorName: z.tuple([z.string(), z.string()]),
-  namedBy: z.string().optional()
+  namedBy: z.string().optional(),
 });
 
 export const contentSchema = z.discriminatedUnion('commaType', [
@@ -38,5 +41,3 @@ export const commaDataSchema = z.object({
 });
 
 export type CommaData = z.infer<typeof commaDataSchema>;
-
-
