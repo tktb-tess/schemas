@@ -87,19 +87,24 @@ export const v1Schema = z.object({
   words: wordv1Schema.array(),
 });
 
-export const v2Schema = z.looseObject({
+export const v2Schema = z.object({
   version: z.literal(2),
   words: wordv2Schema.array(),
 });
 
-export const otmjsonSchema = z.discriminatedUnion('version', [
+export const looseV2Schema = z.looseObject({
+  version: z.literal(2),
+  words: wordv2Schema.array(),
+});
+
+export const v1OrV2Schema = z.discriminatedUnion('version', [
   v1Schema,
   v2Schema,
 ]);
 
 export type Ver1 = z.infer<typeof v1Schema>;
 export type Ver2 = z.infer<typeof v2Schema>;
-export type Ver1or2 = Ver1 | Ver2;
+export type LooseVer2 = z.infer<typeof looseV2Schema>;
 
 export const zpdicOtmSchema = v2Schema.extend({
   examples: zpdicExampleSchema.array(),
