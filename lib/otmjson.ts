@@ -45,11 +45,11 @@ const wordShape = {
   relations: relationSchema.array(),
 };
 
-export const wordv1Schema = z.object(wordShape);
-export const wordv2Schema = z.looseObject(wordShape);
+export const wordV1Schema = z.object(wordShape);
+export const wordV2Schema = z.looseObject(wordShape);
 
-export type Wordv1 = z.infer<typeof wordv1Schema>;
-export type Wordv2 = z.infer<typeof wordv2Schema>;
+export type Wordv1 = z.infer<typeof wordV1Schema>;
+export type Wordv2 = z.infer<typeof wordV2Schema>;
 
 export const zpdicExampleSchema = z.object({
   id: z.int().nonnegative(),
@@ -84,22 +84,27 @@ export type ZpDICConfig = z.infer<typeof zpdicConfigSchema>;
 
 export const v1Schema = z.object({
   version: z.literal(1).optional(),
-  words: wordv1Schema.array(),
+  words: wordV1Schema.array(),
 });
 
-export const v2Schema = z.looseObject({
+export const v2Schema = z.object({
   version: z.literal(2),
-  words: wordv2Schema.array(),
+  words: wordV2Schema.array(),
 });
 
-export const otmjsonSchema = z.discriminatedUnion('version', [
+export const looseV2Schema = z.looseObject({
+  version: z.literal(2),
+  words: wordV2Schema.array(),
+});
+
+export const v1orV2Schema = z.discriminatedUnion('version', [
   v1Schema,
   v2Schema,
 ]);
 
 export type Ver1 = z.infer<typeof v1Schema>;
 export type Ver2 = z.infer<typeof v2Schema>;
-export type Ver1or2 = Ver1 | Ver2;
+export type LooseVer2 = z.infer<typeof looseV2Schema>;
 
 export const zpdicOtmSchema = v2Schema.extend({
   examples: zpdicExampleSchema.array(),

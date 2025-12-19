@@ -85,7 +85,7 @@ describe('parse correctly...', () => {
       expect.unreachable(r.statusText);
     }
 
-    const json = await r.json();
+    const json: unknown = await r.json();
 
     const result = ZpDIC.mwweResponseSchema.safeParse(json);
 
