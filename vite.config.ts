@@ -16,7 +16,9 @@ export default defineConfig({
   },
   plugins: [dts()],
   test: {
-    environment: 'node',
     testTimeout: 15000,
+  },
+  server: {
+    port: 8000,
   },
 });
