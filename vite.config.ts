@@ -8,7 +8,7 @@ const fNames = ['main', 'comma_data', 'cotec_json', 'otm_json', 'zpdic'];
 export default defineConfig({
   build: {
     lib: {
-      entry: fNames.map((fName) => resolve(__dirname, `lib/${fName}.ts`)),
+      entry: fNames.map((fName) => resolve(__dirname, `./lib/${fName}.ts`)),
       formats: ['es'],
       fileName: (_, fileName) => `${fileName}.js`,
     },
