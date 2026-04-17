@@ -3,9 +3,9 @@
     "target": "es2022",
     "module": "esnext",
     "lib": ["ES2022", "DOM", "DOM.Iterable", "DOM.AsyncIterable"],
-    "types": ["vite/client"],
+    "types": ["vite/client", "node"],
     "skipLibCheck": true,
-    "rootDir": "./lib",
+    "rootDir": "./test",
 
     /* Bundler mode */
     "moduleResolution": "bundler",
@@ -29,5 +29,5 @@
     "noUncheckedIndexedAccess": true,
     "erasableSyntaxOnly": true,
   },
-  "include": ["./lib"]
+  "include": ["./test/**/*.test.ts"]
 }

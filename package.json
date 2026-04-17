@@ -3,53 +3,62 @@
   "version": "0.4.1",
   "type": "module",
   "license": "CC0-1.0",
-  "publishConfig": {
-    "access": "public"
-  },
   "files": [
     "dist"
   ],
-  "engines": {
-    "node": ">=22.0.0",
-    "pnpm": ">=10.0.0"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tktb-tess/schemas.git"
   },
-  "main": "./dist/bundle.js",
-  "types": "./dist/main.d.ts",
+  "homepage": "https://github.com/tktb-tess/schemas/blob/main/README.md",
   "exports": {
-    "types": "./dist/main.d.ts",
-    "import": "./dist/bundle.js"
+    ".": {
+      "import": "./dist/main.js",
+      "types": "./dist/main.d.ts"
+    },
+    "./cotec_json": {
+      "import": "./dist/cotec_json.js",
+      "types": "./dist/cotec_json.d.ts"
+    },
+    "./otm_json": {
+      "import": "./dist/otm_json.js",
+      "types": "./dist/otm_json.d.ts"
+    },
+    "./comma_data": {
+      "import": "./dist/comma_data.js",
+      "types": "./dist/comma_data.d.ts"
+    },
+    "./zpdic": {
+      "import": "./dist/zpdic.js",
+      "types": "./dist/zpdic.d.ts"
+    }
   },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "test": "vitest run",
-    "preinstall": "npx only-allow pnpm",
+    "test": "vitest --run",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@types/node": "^25.0.9",
+    "@types/node": "^24.12.2",
     "rehype-sanitize": "^6.0.0",
     "rehype-stringify": "^10.0.1",
     "remark-gfm": "^4.0.1",
     "remark-parse": "^11.0.0",
     "remark-rehype": "^11.1.2",
-    "typescript": "~5.9.3",
+    "typescript": "^6.0.2",
     "unified": "^11.0.5",
-    "vite": "^7.3.1",
-    "vite-plugin-dts": "^4.5.4",
-    "vitest": "^4.0.17"
+    "unplugin-dts": "1.0.0-beta.6",
+    "vite": "^8.0.8",
+    "vitest": "^4.1.4"
   },
   "peerDependencies": {
     "zod": "^3.0.0 || ^4.0.0"
   },
-  "volta": {
-    "node": "24.13.0",
-    "pnpm": "10.28.0"
+  "engines": {
+    "node": ">=22.0.0",
+    "pnpm": ">=10.0.0"
   },
-  "packageManager": "pnpm@10.28.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tktb-tess/schemas.git"
-  },
-  "homepage": "https://github.com/tktb-tess/schemas/blob/main/README.md"
+  "packageManager": "pnpm@10.33.0"
+  
 }

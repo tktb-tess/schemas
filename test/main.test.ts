@@ -24,7 +24,7 @@ describe('parse correctly...', () => {
 
     const { words } = result.data;
 
-    words.sort(({ entry: a }, { entry: b }) => a.id - b.id);
+    words.sort((a, b) => a.entry.id - b.entry.id);
 
     const ids: readonly number[] = words.map(({ entry }) => entry.id);
 
@@ -39,7 +39,7 @@ describe('parse correctly...', () => {
   });
 
   it('cotec-json', async () => {
-    const json = await fetch(
+    const json: unknown = await fetch(
       'https://tktb-tess.github.io/cotec-json-data/out/conlinguistics-wiki-list-cotec.json'
     ).then((r) => r.json());
 
