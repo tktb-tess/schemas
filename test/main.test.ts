@@ -40,7 +40,7 @@ describe('parse correctly...', () => {
 
   it('cotec-json', async () => {
     const json: unknown = await fetch(
-      'https://tktb-tess.github.io/cotec-json-data/out/conlinguistics-wiki-list-cotec.json'
+      'https://tktb-tess.github.io/cotec-json-data/out/conlinguistics-wiki-list-cotec.json',
     ).then((r) => r.json());
 
     const result = CotecJSON.schema.safeParse(json);
@@ -54,7 +54,7 @@ describe('parse correctly...', () => {
 
   it('comma-data', async () => {
     const json = await fetch(
-      'https://tktb-tess.github.io/commas/out/commas.json'
+      'https://tktb-tess.github.io/commas/out/commas.json',
     ).then((r) => r.json());
 
     const result = Comma.commaDataSchema.safeParse(json);
@@ -78,7 +78,7 @@ describe('parse correctly...', () => {
         headers: {
           'X-Api-Key': import.meta.env.VITE_ZPDIC_API_KEY,
         },
-      }
+      },
     );
 
     if (!r.ok) {
