@@ -1,11 +1,12 @@
-name: Release Package
+name: CI
 
 on:
   workflow_dispatch:
 
   push:
-    tags:
-      - 'v*'
+    branches:
+      - main
+      - develop
 
 jobs:
   publish:
@@ -37,6 +38,3 @@ jobs:
         run: pnpm test
         env:
           VITE_ZPDIC_API_KEY: ${{ secrets.ZPDIC_API_KEY }}
-
-      - name: Publish
-        run: pnpm publish --no-git-checks --provenance --access public
