@@ -2,9 +2,9 @@
   "name": "@tktb-tess/my-zod-schema",
   "version": "0.5.0",
   "type": "module",
-  "license": "CC0-1.0",
+  "license": "UNLICENSED",
   "files": [
-    "dist"
+    "./dist"
   ],
   "repository": {
     "type": "git",
@@ -36,8 +36,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "test": "vitest --run",
-    "typecheck": "tsc --noEmit"
+    "test": "vitest --run"
   },
   "devDependencies": {
     "@types/node": "^24.12.2",
