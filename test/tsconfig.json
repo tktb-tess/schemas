@@ -5,7 +5,7 @@
     "lib": ["ES2022", "DOM"],
     "types": ["vite/client", "node"],
     "skipLibCheck": true,
-    "rootDir": "./test",
+    "rootDir": "../",
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
@@ -23,5 +23,5 @@
     "noUncheckedIndexedAccess": true,
     "erasableSyntaxOnly": true
   },
-  "include": ["./test/**/*.test.ts"]
+  "include": ["../test/**/*.test.ts"]
 }

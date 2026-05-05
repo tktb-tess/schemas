@@ -7,13 +7,6 @@ export const metadataSchema = z.object({
 
 export type Metadata = z.infer<typeof metadataSchema>;
 
-export const monzoSchema = z
-  .tuple([z.int().nonnegative(), z.int()])
-  .readonly()
-  .array();
-
-export type Monzo = z.infer<typeof monzoSchema>;
-
 export const contentBaseSchema = z.object({
   id: z.string(),
   name: z.string().array(),
@@ -21,16 +14,23 @@ export const contentBaseSchema = z.object({
   namedBy: z.string().optional(),
 });
 
+export const rationalSchema = contentBaseSchema.extend({
+  commaType: z.literal('rational'),
+  monzo: z.string().regex(/|(?:\d+:-?\d+(?:,\d+:-?\d+)*)/),
+});
+
+export const irrationalSchema = contentBaseSchema.extend({
+  commaType: z.literal('irrational'),
+  ratio: z.string(),
+  cents: z.number().nonnegative(),
+});
+
+export type Rational = z.infer<typeof rationalSchema>;
+export type Irational = z.infer<typeof irrationalSchema>;
+
 export const contentSchema = z.discriminatedUnion('commaType', [
-  contentBaseSchema.extend({
-    commaType: z.literal('rational'),
-    monzo: monzoSchema,
-  }),
-  contentBaseSchema.extend({
-    commaType: z.literal('irrational'),
-    ratio: z.string(),
-    cents: z.number().nonnegative(),
-  }),
+  rationalSchema,
+  irrationalSchema,
 ]);
 
 export type Content = z.infer<typeof contentSchema>;
