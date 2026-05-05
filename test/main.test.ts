@@ -15,7 +15,7 @@ declare global {
 
 describe('parse correctly...', () => {
   it('otm-json', () => {
-    const str = readFileSync('sample-otm.json', { encoding: 'utf8' });
+    const str = readFileSync('./sample/sample-otm.json', { encoding: 'utf8' });
     const result = OTMJSON.zpdicOtmSchema.safeParse(JSON.parse(str));
 
     if (!result.success) {
@@ -53,11 +53,9 @@ describe('parse correctly...', () => {
   });
 
   it('comma-data', async () => {
-    const json = await fetch(
-      'https://tktb-tess.github.io/commas/out/commas-neue.json',
-    ).then((r) => r.json());
+    const json = readFileSync('./sample/commas.json', { encoding: 'utf-8' });
 
-    const result = Comma.commaDataSchema.safeParse(json);
+    const result = Comma.commaDataSchema.safeParse(JSON.parse(json));
 
     if (!result.success) {
       expect.unreachable(z.prettifyError(result.error));
