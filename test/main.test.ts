@@ -54,7 +54,7 @@ describe('parse correctly...', () => {
 
   it('comma-data', async () => {
     const json = await fetch(
-      'https://tktb-tess.github.io/commas/out/commas.json',
+      'https://tktb-tess.github.io/commas/out/commas-neue.json',
     ).then((r) => r.json());
 
     const result = Comma.commaDataSchema.safeParse(json);
