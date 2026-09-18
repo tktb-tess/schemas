@@ -111,17 +111,21 @@ export const wordResponseSchema = z.object({
 
 export type WordResponse = z.infer<typeof wordResponseSchema>;
 
+/** Word with examples */
 export const wweResponseSchema = z.object({
   word: wordWithExamplesSchema,
 });
 
+/** Word with examples */
 export type WWEResponse = z.infer<typeof wweResponseSchema>;
 
+/** Multi word with examples */
 export const mwweResponseSchema = z.object({
   words: wordWithExamplesSchema.array(),
   total: z.int().nonnegative(),
 });
 
+/** Multi word with examples */
 export type MWWEResponse = z.infer<typeof mwweResponseSchema>;
 
 export const exResponseSchema = z.object({
