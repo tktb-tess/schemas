@@ -39,7 +39,7 @@
     "test": "vitest --run"
   },
   "devDependencies": {
-    "@types/node": "^24.13.5",
+    "@types/node": "^24.19.2",
     "rehype-sanitize": "^6.0.0",
     "rehype-stringify": "^10.0.1",
     "remark-gfm": "^4.0.1",
@@ -48,20 +48,20 @@
     "typescript": "^6.0.3",
     "unified": "^11.0.5",
     "unplugin-dts": "1.0.0-beta.6",
-    "vite": "^8.3.0",
-    "vitest": "^4.1.11"
+    "vite": "^8.3.4",
+    "vitest": "^4.1.12"
   },
   "peerDependencies": {
     "zod": "^3.0.0 || ^4.0.0"
   },
   "engines": {
-    "node": ">=22.0.0",
-    "pnpm": ">=10.0.0"
+    "node": ">=22",
+    "pnpm": ">=10"
   },
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "11.15.1",
+      "version": "11.28.6",
       "onFail": "download"
     }
   }
